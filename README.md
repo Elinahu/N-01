@@ -1,28 +1,28 @@
-# FCA
+# **N-01** — Launch Instructions
 
-桌面端网页式解谜游戏。
+A desktop-style, web-based puzzle game.
 
-## 浏览器游玩
+## Play in Browser
 
-双击项目根目录的 `index.html`，使用 Edge 或 Chrome 打开即可离线游玩。该文件已内嵌游戏素材，可以单独复制和分享。
+Double-click the `index.html` file in the project's root directory to play offline using Microsoft Edge or Google Chrome. All game assets are embedded in this file, allowing it to be copied and shared independently.
 
-若浏览器阻止开场视频自动播放，点击「开始游戏」即可。
+If the browser blocks the opening video from autoplaying, click **"Start Game"** to continue.
 
-游戏更新后，在项目目录运行以下命令，重新生成网页：
+After updating the game, run the following commands in the project directory to rebuild the web version:
 
 ```bash
 npm install
 npm run build:web
 ```
 
-## 开发启动
+## Development Setup
 
-在 VS Code 终端中运行：
+To launch the game in development mode, run the following command in the VS Code terminal:
 
 ```bash
 npm start
 ```
 
-当前项目使用 HTML、CSS、JavaScript 和 Electron 进行开发。
+The project is developed using **HTML, CSS, JavaScript, and Electron**.
 
-`src/index.html` 是 Electron 内部加载的界面入口，不作为玩家或开发者直接双击的启动文件。
+`src/index.html` serves as the interface entry point loaded internally by Electron. It is not intended to be opened directly by players or developers.
