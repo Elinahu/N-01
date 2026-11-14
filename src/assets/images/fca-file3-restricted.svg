@@ -1,0 +1,195 @@
+<svg viewBox="2192.68 214.11 964.67 688.01" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #b26526;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-10, .cls-3, .cls-4, .cls-11, .cls-12, .cls-13, .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-14 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-15, .cls-16 {
+        stroke: #4d3119;
+      }
+
+      .cls-15, .cls-17, .cls-18, .cls-19 {
+        fill: #7a2418;
+      }
+
+      .cls-20 {
+        font-size: 36px;
+      }
+
+      .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-19, .cls-25 {
+        font-weight: 700;
+      }
+
+      .cls-20, .cls-22, .cls-24, .cls-19, .cls-25 {
+        font-family: Consolas-Bold, Consolas;
+      }
+
+      .cls-20, .cls-24, .cls-26, .cls-25 {
+        fill: #ead6b3;
+      }
+
+      .cls-2, .cls-3, .cls-6, .cls-8, .cls-9 {
+        stroke: #ead6b3;
+      }
+
+      .cls-2, .cls-27, .cls-16, .cls-28, .cls-29, .cls-30 {
+        fill: #050606;
+      }
+
+      .cls-31 {
+        fill: #ff921f;
+      }
+
+      .cls-10 {
+        stroke: #ee842b;
+      }
+
+      .cls-10, .cls-29, .cls-13 {
+        stroke-width: 3px;
+      }
+
+      .cls-21 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+        font-size: 18.9px;
+      }
+
+      .cls-21, .cls-32 {
+        fill: #080a07;
+      }
+
+      .cls-21, .cls-32, .cls-24, .cls-19, .cls-25 {
+        isolation: isolate;
+      }
+
+      .cls-33, .cls-34 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-4, .cls-29, .cls-30, .cls-13 {
+        stroke: #ff921f;
+      }
+
+      .cls-11 {
+        stroke: #714115;
+      }
+
+      .cls-12 {
+        stroke: #73552e;
+      }
+
+      .cls-35 {
+        fill: #cbb28a;
+      }
+
+      .cls-36 {
+        fill: #ee922d;
+      }
+
+      .cls-28 {
+        stroke: #a96619;
+      }
+
+      .cls-17 {
+        font-family: Consolas-Italic, Consolas;
+        font-size: 20.57px;
+      }
+
+      .cls-17, .cls-23 {
+        font-style: italic;
+      }
+
+      .cls-5 {
+        fill: #090a07;
+        stroke: #cbb28a;
+      }
+
+      .cls-6 {
+        fill: #c1272d;
+      }
+
+      .cls-32 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+        font-size: 12.57px;
+      }
+
+      .cls-30 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-23 {
+        font-family: Consolas-BoldItalic, Consolas;
+      }
+
+      .cls-7 {
+        stroke: #080a07;
+      }
+
+      .cls-37 {
+        fill: #0a0b07;
+      }
+
+      .cls-24, .cls-19 {
+        font-size: 35.96px;
+      }
+
+      .cls-8 {
+        fill: #666159;
+      }
+
+      .cls-26 {
+        font-size: 14.63px;
+      }
+
+      .cls-34 {
+        fill: #b5a58d;
+        font-size: 13.3px;
+      }
+
+      .cls-25 {
+        font-size: 16.67px;
+      }
+
+      .cls-9 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="file3-root" data-name="?">
+    <g id="window-frame">
+      <path class="cls-29" d="M2194.18,875.35v-462.89l29.26-29.26v-142.32l23.94-25.27h143.65l29.26,29.26h710.29l25.27,26.6v605.21l-23.94,23.94h-911.14l-26.6-25.27Z" />
+      <path class="cls-4" d="M2218.12,860.72v-436.28l23.94-25.27v-67.84h888.53v534.71l-21.28,10.64h-875.23l-15.96-15.96Z" />
+      <g id="header" data-name="08_甲_标题栏">
+        <path class="cls-2" d="M2256.84,234.23h140.95l67.57,83.8h-223.51v-68.82l14.98-14.98Z" />
+        <path class="cls-18" d="M2436.78,255.51h682.22l15.59,18.62v49.21h-645.83l-51.98-67.84Z" />
+        <text class="cls-19" transform="translate(2301.52 287.53) scale(.98 1)">
+          <tspan x="0" y="0">???</tspan>
+        </text>
+        <path class="cls-3" d="M2915.23,287.55v-5.31c3.54-4.25,6.73-4.25,9.57,0v5.31M2913.63,287.55h12.76v12.75h-12.76v-12.75Z" />
+        <path class="cls-7" d="M3004,293.93h17.01M3048.65,283.3h15.95v15.94h-15.95v-15.94ZM3090.12,283.3l14.88,14.88M3105,283.3l-14.88,14.88" />
+      </g>
+    </g>
+    <g id="_11_症状说明区域-5" data-name="11_症状说明区域">
+      <polygon class="cls-15" points="2517.39 558.11 2854.28 558.11 2864.28 568.11 2864.28 625.21 2854.28 635.21 2517.39 635.21 2507.39 625.21 2507.39 568.11 2517.39 558.11" />
+      <text class="cls-20" transform="translate(2593.62 605.48)">
+        <tspan x="0" y="0">S_</tspan>
+      </text>
+    </g>
+    <text class="cls-17" transform="translate(2570.95 674.03)">
+      <tspan x="0" y="0">19/26_</tspan>
+    </text>
+  </g>
+</svg>

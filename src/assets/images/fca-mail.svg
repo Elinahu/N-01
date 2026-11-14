@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1271.97 777.63">
+  <defs>
+    <mask id="mail-live-clean" maskUnits="objectBoundingBox" maskContentUnits="objectBoundingBox" x="0" y="0" width="1" height="1">
+      <rect width="1" height="1" fill="white"/>
+      <rect x=".777" y="0" width=".223" height=".132" fill="black"/>
+      <path d="M0 .0258L1 .996M0 .9774L1 .0081" fill="none" stroke="black" stroke-width=".006"/>
+    </mask>
+    <style>
+      .cls-1 {
+        stroke: #b26526;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: none;
+      }
+
+      .cls-1, .cls-5, .cls-9, .cls-11, .cls-15, .cls-12, .cls-13 {
+        stroke-width: 2px;
+      }
+
+      .cls-16 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-17 {
+        fill: #302e24;
+      }
+
+      .cls-2 {
+        stroke: #584f38;
+      }
+
+      .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39 {
+        isolation: isolate;
+      }
+
+      .cls-18, .cls-19, .cls-24, .cls-40, .cls-26, .cls-27, .cls-29 {
+        fill: #817966;
+      }
+
+      .cls-18, .cls-21, .cls-23, .cls-24, .cls-26, .cls-27, .cls-29, .cls-30, .cls-31, .cls-32, .cls-36, .cls-37, .cls-39 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-18, .cls-32, .cls-36 {
+        font-size: 12.17px;
+      }
+
+      .cls-3 {
+        stroke-width: 4px;
+      }
+
+      .cls-3, .cls-41, .cls-9, .cls-14 {
+        stroke: #ee922d;
+      }
+
+      .cls-41, .cls-15 {
+        fill: #090a07;
+      }
+
+      .cls-4 {
+        stroke: #725631;
+      }
+
+      .cls-5 {
+        stroke: #13140d;
+      }
+
+      .cls-6, .cls-40, .cls-15 {
+        stroke: #cbb28a;
+      }
+
+      .cls-19 {
+        font-size: 12.45px;
+      }
+
+      .cls-19, .cls-42 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+      }
+
+      .cls-20 {
+        font-size: 19.77px;
+      }
+
+      .cls-20, .cls-43, .cls-25, .cls-28, .cls-33, .cls-35 {
+        font-weight: 700;
+      }
+
+      .cls-20, .cls-44, .cls-23, .cls-25, .cls-36, .cls-37, .cls-39 {
+        fill: #cbb28a;
+      }
+
+      .cls-20, .cls-28 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+      }
+
+      .cls-7, .cls-10, .cls-11 {
+        stroke: #817966;
+      }
+
+      .cls-8 {
+        stroke: #99653f;
+      }
+
+      .cls-43, .cls-25, .cls-33, .cls-35 {
+        font-family: Consolas-Bold, Consolas;
+      }
+
+      .cls-21, .cls-45, .cls-30, .cls-31, .cls-32, .cls-33 {
+        fill: #ee922d;
+      }
+
+      .cls-21, .cls-24 {
+        font-size: 15.45px;
+      }
+
+      .cls-10 {
+        stroke-width: 3px;
+      }
+
+      .cls-22 {
+        fill: #0a0806;
+      }
+
+      .cls-46 {
+        fill: #30200f;
+      }
+
+      .cls-23, .cls-30 {
+        font-size: 15.12px;
+      }
+
+      .cls-25 {
+        font-size: 20.77px;
+      }
+
+      .cls-26, .cls-35 {
+        font-size: 18.25px;
+      }
+
+      .cls-27 {
+        font-size: 13.34px;
+      }
+
+      .cls-28 {
+        font-size: 25.96px;
+      }
+
+      .cls-28, .cls-34 {
+        fill: #080a07;
+      }
+
+      .cls-29, .cls-31 {
+        font-size: 18.35px;
+      }
+
+      .cls-12 {
+        stroke: #080a07;
+      }
+
+      .cls-13 {
+        stroke: #454335;
+      }
+
+      .cls-47, .cls-35 {
+        fill: #0a0b07;
+      }
+
+      .cls-33 {
+        font-size: 21.73px;
+      }
+
+      .cls-34 {
+        font-size: 11.01px;
+      }
+
+      .cls-37 {
+        font-size: 20.86px;
+      }
+
+      .cls-38 {
+        fill: #0b0a05;
+        font-size: 10.43px;
+      }
+
+      .cls-39 {
+        font-size: 13px;
+      }
+    </style>
+  </defs>
+  <g id="_003" data-name="# 003">
+    <g>
+      <g id="window-frame">
+        <path class="cls-15" d="M1270.97,38.26v729.84l-6.98,8.54H8.76l-7.76-7.76V37.5l15.94-15.93,1238.11.75,15.92,15.93Z"/>
+        <path class="cls-7" d="M1262.61,762.17l-7.7,6.16H15.69l-6.93-6.16V50.68l15.93-15.93h1221.83l15.93,15.93.15,711.49Z"/>
+        <g>
+          <path class="cls-44" d="M.51,11.8v-6.91L5.4,0h246.17l11.8,12.58h1003.21l5.02,5.02v33.52H.51V11.8Z"/>
+          <rect class="cls-47" x="14.67" y="10.63" width="30.88" height="29.86"/>
+          <text class="cls-28" transform="translate(60.32 34.61)"><tspan x="0" y="0">COMM-LINK</tspan></text>
+          <text class="cls-34" transform="translate(236.86 36.71)"><tspan class="cls-43" x="0" y="0">/// </tspan><tspan class="cls-42" x="24.22" y="0">INTERNAL COMMUNICATION NETWORK</tspan></text>
+          <path class="cls-1" d="M1116.17,29.1v-3.93c2.62-3.15,4.98-3.15,7.08,0v3.93M1114.99,29.1h9.44v9.44h-9.44v-9.44Z"/>
+          <path class="cls-12" d="M1181.88,33.82h12.59M1214.93,25.96h11.8v11.8h-11.8v-11.8ZM1245.63,25.96l11.02,11.01M1256.64,25.96l-11.02,11.01"/>
+        </g>
+        <g>
+          <polygon class="cls-45" points="28.01 14.44 28.01 17.65 27 18.66 21.79 30.38 19.22 30.38 24.8 18.09 28.01 14.44"/>
+          <polygon class="cls-45" points="22.21 30.38 26.87 19.87 26.87 24.85 24.54 30.38 22.21 30.38"/>
+          <polygon class="cls-45" points="31.29 14.44 31.29 17.65 32.3 18.66 36.52 28.15 39.73 28.18 38.81 26.2 38.18 26.2 34.5 18.09 31.29 14.44"/>
+          <polygon class="cls-45" points="32.42 19.87 36.31 28.58 38.07 28.58 39.01 30.38 38.16 30.38 37.49 29.06 37.19 29.06 37.81 30.38 36.65 30.38 34.81 26.12 34.57 26.12 36.45 30.38 34.92 30.38 32.46 24.85 32.42 19.87"/>
+          <polygon class="cls-45" points="39.49 30.38 41.28 30.38 40.21 28.43 38.46 28.43 39.49 30.38"/>
+          <polygon class="cls-45" points="29.3 30.36 29.99 30.36 29.99 18.96 29.3 19.63 29.3 30.36"/>
+          <polygon class="cls-45" points="28.01 30.38 28.87 30.38 28.87 23.34 28.01 24.34 28.01 30.38"/>
+          <polygon class="cls-45" points="30.84 30.32 30.45 30.32 30.45 21.91 30.84 22.49 30.84 30.32"/>
+          <polygon class="cls-45" points="32.45 30.38 31.29 30.38 31.29 26.49 32.45 27.44 32.45 30.38"/>
+          <polygon class="cls-45" points="26.94 30.38 27.58 30.38 27.58 26.49 26.94 27.04 26.94 30.38"/>
+          <path class="cls-45" d="M21.08,28.41c-2.79,0-4.49-.59-4.8-1.66-.31-1.08.85-2.5,3.26-3.99,2.37-1.46,5.68-2.84,9.32-3.88l.04.13-.04-.13c3.64-1.04,7.18-1.62,9.96-1.63,2.84-.01,4.57.58,4.88,1.66.31,1.08-.85,2.5-3.26,3.99-2.37,1.46-5.68,2.84-9.32,3.88-3.64,1.04-7.18,1.62-9.96,1.63-.03,0-.06,0-.08,0ZM28.69,18.96c-3.62,1.03-6.66,2.58-9.01,4.03-2.27,1.4-3.13,2.5-2.7,3.39.23.49,1.17,1.37,3.74,1.55.03,0,.82,0,.85,0,2.76-.01,5.86-.36,9.48-1.39,3.62-1.03,6.91-2.4,9.26-3.85,2.27-1.4,3.02-2.77,2.74-3.72s-1.65-1.58-4.36-1.58-4.34.47-8.12,1.18l-1.88.4Z"/>
+          <path class="cls-45" d="M30.38,11.75l-.32-.02c-.22-.04-.31-.22-.34-.42l-.04-.39-.03-.28-.04.28-.05.4c-.02.22-.09.36-.33.39l-.3.03h-.11s.11.03.11.03l.31.03c.23.03.3.07.35.29l.03.21.02.13.02-.13.02-.21c.03-.24.16-.25.36-.28l.32-.03.1-.02h-.09Z"/>
+          <polygon class="cls-45" points="18.64 31.75 26.94 31.75 25.79 32.9 17.61 32.9 18.64 31.75"/>
+          <polyline class="cls-45" points="17.34 33.36 15.23 36.71 17.61 36.71 19.22 34.3 24.89 34.3 25.28 33.36"/>
+          <path class="cls-45" d="M35.44,31.75h-7.2c-.15,0-.96.7-.99.76l-1.86,2.93c-.07.15-.08.32-.02.47l.18.44c.09.22.3.36.53.36h7.76c.15,0,.3-.06.41-.17l.28-.28c.36-.36.11-.98-.41-.98h-4.35c-.42,0-.7-.44-.52-.82l.58-1.24c.09-.2.3-.33.52-.33h5.08c.17,0,.33-.08.44-.21h0c.31-.37.04-.94-.44-.94Z"/>
+          <polygon class="cls-45" points="34.87 36.71 38.16 31.75 41.15 31.75 44.98 36.71 42.78 36.71 39.92 32.57 37.33 36.71 34.87 36.71"/>
+          <polygon class="cls-45" points="38.96 34.79 38.16 35.97 41.86 35.97 41.12 34.79 38.96 34.79"/>
+          <circle class="cls-45" cx="40.43" cy="17.38" r=".96"/>
+        </g>
+      </g>
+      <g id="channels-and-contacts">
+        <rect class="cls-4" x="16.87" y="61.59" width="269.47" height="698.29"/>
+        <rect class="cls-14" x="242.44" y="82.12" width="25.11" height="26.08"/>
+        <path class="cls-9" d="M248.24,94.68h13.52M255,87.92v13.52"/>
+        <rect class="cls-46" x="19.77" y="152.38" width="256.91" height="65.87"/>
+        <path class="cls-9" d="M19.77,158.11v54.42M276.68,158.11v54.42"/>
+        <path class="cls-14" d="M256.4,178.16l6.76,10.02-6.76,10.02"/>
+        <path class="cls-14" d="M19.77,138.07h263.67"/>
+        <path class="cls-8" d="M19.77,226.37h263.67"/>
+        <path class="cls-8" d="M19.77,299.16h263.67"/>
+        <path class="cls-8" d="M19.77,380.81h263.67"/>
+        <path class="cls-3" d="M23.64,138.07h37.67"/>
+        <text class="cls-25" transform="translate(35.66 102.04)"><tspan x="0" y="0">CONTACTS</tspan></text>
+        <rect class="cls-14" x="38.3" y="159.97" width="48.29" height="49.26"/>
+        <text class="cls-31" transform="translate(101.07 181.22)"><tspan x="0" y="0">0-S-4986</tspan></text>
+        <text class="cls-21" transform="translate(102.04 203.43)"><tspan x="0" y="0">ONLINE</tspan></text>
+        <rect class="cls-7" x="37.83" y="236.77" width="48.29" height="49.26"/>
+        <text class="cls-29" transform="translate(100.61 258.01)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+        <text class="cls-24" transform="translate(101.57 280.23)"><tspan x="0" y="0">OFFLINE</tspan></text>
+        <rect class="cls-7" x="38.3" y="319.73" width="48.29" height="49.26"/>
+        <text class="cls-29" transform="translate(101.07 340.98)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+        <text class="cls-24" transform="translate(102.04 363.19)"><tspan x="0" y="0">OFFLINE</tspan></text>
+        <rect class="cls-22" x="41.67" y="162.87" width="41.54" height="43.46"/>
+        <rect class="cls-22" x="41.67" y="239.66" width="41.54" height="43.46"/>
+        <rect class="cls-22" x="41.67" y="322.63" width="41.54" height="43.46"/>
+        <image href="./fca-contact-partner.png" x="39.3" y="160.97" width="46.29" height="47.26"/>
+        <image href="./fca-contact-unknown.png" x="38.83" y="237.77" width="46.29" height="47.26"/>
+        <image href="./fca-contact-unknown.png" x="39.3" y="320.73" width="46.29" height="47.26"/>
+      </g>
+      <g id="channel-status">
+        <rect class="cls-14" x="295.98" y="61.59" width="960.66" height="698.29"/>
+        <path class="cls-2" d="M982.61,65.94v467.6"/>
+        <text class="cls-33" transform="translate(324.67 92.88)"><tspan x="0" y="0">CONTACTS // 0-S-4986</tspan></text>
+        <path class="cls-7" d="M322.06,107.66h636.21"/>
+        <text class="cls-18" transform="translate(322.06 131.99)"><tspan x="0" y="0">CONNECTION:</tspan></text>
+        <text class="cls-36" transform="translate(415.06 131.99)"><tspan x="0" y="0">ENCRYPTED</tspan></text>
+        <text class="cls-18" transform="translate(605.4 131.99)"><tspan x="0" y="0">SIGNAL:</tspan></text>
+        <rect class="cls-45" x="667.98" y="120.69" width="6.95" height="13.91"/>
+        <rect class="cls-45" x="679.28" y="120.69" width="6.95" height="13.91"/>
+        <rect class="cls-45" x="690.58" y="120.69" width="6.95" height="13.91"/>
+        <rect class="cls-45" x="701.88" y="120.69" width="6.95" height="13.91"/>
+        <rect class="cls-45" x="713.17" y="120.69" width="6.95" height="13.91"/>
+        <rect class="cls-45" x="724.47" y="120.69" width="6.95" height="13.91"/>
+        <rect class="cls-45" x="735.77" y="120.69" width="6.95" height="13.91"/>
+        <rect class="cls-17" x="747.07" y="120.69" width="6.95" height="13.91"/>
+        <rect class="cls-17" x="758.37" y="120.69" width="6.95" height="13.91"/>
+        <rect class="cls-17" x="769.67" y="120.69" width="6.95" height="13.91"/>
+        <text class="cls-18" transform="translate(781.84 131.99)"><tspan x="0" y="0">87%</tspan></text>
+        <text class="cls-18" transform="translate(912.75 130.79)"><tspan x="0" y="0">ONLINE</tspan></text>
+        <path class="cls-7" d="M322.06,145.9h636.21"/>
+      </g>
+      <g id="message-history">
+        <rect class="cls-14" x="331.42" y="168.3" width="54.24" height="59.81"/>
+        <text class="cls-23" transform="translate(406.06 178.31)"><tspan x="0" y="0">0-S-4986</tspan></text>
+        <text class="cls-27" transform="translate(479.36 178.45)"><tspan x="0" y="0">10.07 16:20</tspan></text>
+        <rect class="cls-4" x="406.71" y="189.9" width="424.55" height="47.9"/>
+        <text class="cls-39" transform="translate(416.25 209.98)"><tspan x="0" y="0">I have selected the three investigation reports that </tspan><tspan x="0" y="15.6">appear to be the most representative from the case files.</tspan></text>
+        <text class="cls-30" transform="translate(841.64 282.81)"><tspan x="0" y="0">YOU</tspan></text>
+        <text class="cls-27" transform="translate(742.73 282.95)"><tspan x="0" y="0">10.07 16:22</tspan></text>
+        <rect class="cls-4" x="417.34" y="299.74" width="456.32" height="46.97"/>
+        <text class="cls-39" transform="translate(428.06 320.35)"><tspan x="0" y="0">Received, thanks for your hard work. I&apos;ll start investigating </tspan><tspan x="0" y="15.6">right away. Which one would you like to look at yourself?</tspan></text>
+        <text class="cls-23" transform="translate(406.71 431.7)"><tspan x="0" y="0">0-S-4986</tspan></text>
+        <text class="cls-27" transform="translate(481.77 431.84)"><tspan x="0" y="0">10.07 16:23</tspan></text>
+        <rect class="cls-4" x="406.71" y="446.97" width="384.16" height="69.36"/>
+        <path class="cls-40" d="M428.06,460.31h24.01l8.89,8.89v34.68h-32.9v-43.57Z"/>
+        <path class="cls-5" d="M451.18,460.31v11.56h9.78M433.39,478.1h18.67M433.39,485.21h18.67M433.39,492.32h15.12"/>
+        <text class="cls-20" transform="translate(480.24 479.43)"><tspan x="0" y="0">Investigation File 1</tspan></text>
+        <text class="cls-19" transform="translate(480.52 499.44)"><tspan x="0" y="0">FILE // 214 MB</tspan></text>
+        <rect class="cls-4" x="733.07" y="463.87" width="38.24" height="35.57"/>
+        <path class="cls-9" d="M752.64,471.87v15.12M746.41,480.76l6.22,6.22,6.22-6.22M743.74,486.99v4.45h17.79v-4.45"/>
+        <path class="cls-10" d="M959.68,167.4v58.97"/>
+        <rect class="cls-14" x="331.42" y="421.85" width="54.24" height="59.81"/>
+        <rect class="cls-14" x="885.97" y="269.05" width="54.24" height="59.81"/>
+        <image href="./fca-contact-partner.png" x="332.42" y="169.3" width="52.24" height="57.81"/>
+        <image href="./fca-contact-partner.png" x="332.42" y="422.85" width="52.24" height="57.81"/>
+        <image href="./fca-contact-player.png" x="886.97" y="270.05" width="52.24" height="57.81"/>
+      </g>
+      <g id="contact-details">
+        <image href="./fca-contact-live-source.png" x="984.3" y="120.33" width="271.53" height="255.27" preserveAspectRatio="xMidYMid meet" mask="url(#mail-live-clean)"/>
+        <rect class="cls-14" x="982.74" y="119.33" width="274.65" height="257.27"/>
+        <rect class="cls-45" x="1200.89" y="129.76" width="48.67" height="17.38"/>
+        <text class="cls-38" transform="translate(1206.11 142.8)"><tspan class="cls-16" x="0" y="0">◆</tspan><tspan class="cls-43" x="10.43" y="0" xml:space="preserve"> LIVE</tspan></text>
+        <text class="cls-37" transform="translate(1074.87 410.74)"><tspan x="0" y="0">0-S-4986</tspan></text>
+        <path class="cls-7" d="M982.74,438.31h273.78"/>
+        <text class="cls-18" transform="translate(991.43 465.36)"><tspan x="0" y="0">CLEARANCE</tspan></text>
+        <text class="cls-36" transform="translate(1108.76 465.25)"><tspan x="0" y="0">LEVEL 03</tspan></text>
+        <text class="cls-18" transform="translate(991.43 488.83)"><tspan x="0" y="0">DEPARTMENT</tspan></text>
+        <text class="cls-36" transform="translate(1108.76 488.72)"><tspan x="0" y="0">CENTRAL COMMAND</tspan></text>
+        <text class="cls-18" transform="translate(991.43 512.3)"><tspan x="0" y="0">STATUS</tspan></text>
+        <text class="cls-32" transform="translate(1108.76 512.19)"><tspan x="0" y="0">● ONLINE</tspan></text>
+        <rect class="cls-4" x="982.74" y="527.83" width="274.65" height="41.72"/>
+        <path class="cls-13" d="M991.43,543.48v10.43"/>
+        <path class="cls-13" d="M994.9,545.65v6.08"/>
+        <path class="cls-13" d="M998.38,542.61v12.17"/>
+        <path class="cls-13" d="M1001.86,545.22v6.95"/>
+        <path class="cls-13" d="M1005.33,542.17v13.04"/>
+        <path class="cls-13" d="M1008.81,542.61v12.17"/>
+        <path class="cls-13" d="M1012.29,542.61v12.17"/>
+        <path class="cls-13" d="M1015.76,543.04v11.3"/>
+        <path class="cls-13" d="M1019.24,543.91v9.56"/>
+        <path class="cls-13" d="M1022.72,547.39v2.61"/>
+        <path class="cls-13" d="M1026.19,544.35v8.69"/>
+        <path class="cls-13" d="M1029.67,542.17v13.04"/>
+        <path class="cls-13" d="M1033.15,546.08v5.21"/>
+        <path class="cls-9" d="M1036.62,543.04v11.3"/>
+        <path class="cls-9" d="M1040.1,547.39v2.61"/>
+        <path class="cls-9" d="M1043.58,546.52v4.35"/>
+        <path class="cls-9" d="M1047.05,546.95v3.48"/>
+        <path class="cls-9" d="M1050.53,545.22v6.95"/>
+        <path class="cls-9" d="M1054.01,544.35v8.69"/>
+        <path class="cls-9" d="M1057.48,546.08v5.21"/>
+        <path class="cls-9" d="M1060.96,544.78v7.82"/>
+        <path class="cls-9" d="M1064.44,543.91v9.56"/>
+        <path class="cls-9" d="M1067.91,546.95v3.48"/>
+        <path class="cls-9" d="M1071.39,547.39v2.61"/>
+        <path class="cls-9" d="M1074.87,546.08v5.21"/>
+        <path class="cls-9" d="M1078.34,544.78v7.82"/>
+        <path class="cls-9" d="M1081.82,543.48v10.43"/>
+        <path class="cls-9" d="M1085.3,542.17v13.04"/>
+        <path class="cls-9" d="M1088.77,540.87v15.64"/>
+        <path class="cls-9" d="M1092.25,539.57v18.25"/>
+        <path class="cls-9" d="M1095.73,538.26v20.86"/>
+        <path class="cls-9" d="M1099.2,536.96v23.47"/>
+        <path class="cls-9" d="M1102.68,535.65v26.07"/>
+        <path class="cls-9" d="M1106.16,536.96v23.47"/>
+        <path class="cls-9" d="M1109.63,538.26v20.86"/>
+        <path class="cls-9" d="M1113.11,539.57v18.25"/>
+        <path class="cls-9" d="M1116.59,540.87v15.64"/>
+        <path class="cls-9" d="M1120.06,542.17v13.04"/>
+        <path class="cls-9" d="M1123.54,543.48v10.43"/>
+        <path class="cls-9" d="M1127.02,544.78v7.82"/>
+        <path class="cls-9" d="M1130.49,546.08v5.21"/>
+        <path class="cls-9" d="M1133.97,547.39v2.61"/>
+        <path class="cls-9" d="M1137.44,543.48v10.43"/>
+        <path class="cls-9" d="M1140.92,546.08v5.21"/>
+        <path class="cls-9" d="M1144.4,547.39v2.61"/>
+        <path class="cls-9" d="M1147.87,542.61v12.17"/>
+        <path class="cls-9" d="M1151.35,546.08v5.21"/>
+        <path class="cls-9" d="M1154.83,544.78v7.82"/>
+        <path class="cls-9" d="M1158.3,545.65v6.08"/>
+        <path class="cls-9" d="M1161.78,546.52v4.35"/>
+        <path class="cls-9" d="M1165.26,542.17v13.04"/>
+        <path class="cls-9" d="M1168.73,544.78v7.82"/>
+        <path class="cls-9" d="M1172.21,546.52v4.35"/>
+        <path class="cls-9" d="M1175.69,542.17v13.04"/>
+        <path class="cls-9" d="M1179.16,542.17v13.04"/>
+        <path class="cls-9" d="M1182.64,546.95v3.48"/>
+        <path class="cls-9" d="M1186.12,546.52v4.35"/>
+        <path class="cls-9" d="M1189.59,543.48v10.43"/>
+        <path class="cls-9" d="M1193.07,543.48v10.43"/>
+        <path class="cls-9" d="M1196.55,544.35v8.69"/>
+        <path class="cls-9" d="M1200.02,546.52v4.35"/>
+        <path class="cls-9" d="M1203.5,546.52v4.35"/>
+        <path class="cls-9" d="M1206.98,547.39v2.61"/>
+        <path class="cls-9" d="M1210.45,547.39v2.61"/>
+        <path class="cls-9" d="M1213.93,546.08v5.21"/>
+        <path class="cls-9" d="M1217.41,542.17v13.04"/>
+        <path class="cls-9" d="M1220.88,546.08v5.21"/>
+        <path class="cls-9" d="M1224.36,546.52v4.35"/>
+        <path class="cls-9" d="M1227.84,546.52v4.35"/>
+        <path class="cls-9" d="M1231.31,545.65v6.08"/>
+        <path class="cls-9" d="M1234.79,545.22v6.95"/>
+        <path class="cls-9" d="M1238.27,546.08v5.21"/>
+        <path class="cls-9" d="M1241.74,543.91v9.56"/>
+      </g>
+      <path class="cls-14" d="M295.98,584.33h960.88"/>
+      <rect class="cls-41" x="306" y="622.72" width="785.71" height="78.22"/>
+      <text class="cls-26" transform="translate(318.17 646.18)"><tspan x="0" y="0">&gt; TYPE TRANSMISSION...</tspan></text>
+      <rect class="cls-45" x="319.04" y="660.96" width="9.56" height="19.99"/>
+      <rect class="cls-45" x="1110.94" y="647.02" width="136.46" height="37.37"/>
+      <text class="cls-35" transform="translate(1137.44 672.35)"><tspan x="0" y="0">↑ SEND ↑</tspan></text>
+      <g>
+        <path class="cls-11" d="M320.72,724.29l8.69-6.08c6.48-3.39,10.23,2.73,1.09,9.44l-10.26,7.78c-3.35,2.92-8.07-.83-2.43-5.39l10.11-7.53c4.18-2.33,4.03.44.78,3.35l-7.48,5.59"/>
+        <rect class="cls-7" x="366.78" y="719.95" width="19.12" height="16.51"/>
+        <path class="cls-7" d="M367.65,733.85l6.08-6.08,4.35,4.35,4.35-6.95,3.48,8.69"/>
+        <path class="cls-7" d="M420.67,719.08h10.43l4.35,4.35v14.78h-14.78v-19.12ZM431.1,719.08v5.21h4.35M423.28,727.77h8.69M423.28,731.24h8.69"/>
+      </g>
+      <g>
+        <rect class="cls-45" x="1224.79" y="743.37" width="2.61" height="3.48"/>
+        <rect class="cls-45" x="1229.14" y="739.89" width="2.61" height="6.95"/>
+        <rect class="cls-45" x="1233.49" y="736.41" width="2.61" height="10.43"/>
+        <rect class="cls-45" x="1237.83" y="732.94" width="2.61" height="13.91"/>
+        <rect class="cls-45" x="1242.18" y="729.46" width="2.61" height="17.38"/>
+      </g>
+    </g>
+  </g>
+</svg>

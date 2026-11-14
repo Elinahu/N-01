@@ -1,0 +1,326 @@
+:root {
+  color-scheme: dark;
+  font-family: system-ui, sans-serif;
+  background: #0b0b0b;
+  color: #f2f2f2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#game {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+  background: #090807;
+}
+
+#game {
+  display: grid;
+  place-items: center;
+  isolation: isolate;
+}
+
+#startup-intro {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: #040405;
+}
+
+#startup-intro video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+#startup-intro.is-revealing {
+  background: transparent;
+}
+
+#startup-intro.has-finished-title video {
+  visibility: hidden;
+}
+
+#game.is-startup-reveal {
+  clip-path: inset(var(--startup-edge, 0%) 0);
+}
+
+#startup-intro.is-revealing::before,
+#startup-intro.is-revealing::after {
+  position: absolute;
+  inset-inline: 0;
+  height: 1px;
+  background: #ee922d;
+  box-shadow: 0 0 10px #ee922d;
+  opacity: var(--startup-glow, 0);
+  content: "";
+}
+
+#startup-intro.is-revealing::before { top: var(--startup-edge, 0%); }
+#startup-intro.is-revealing::after { bottom: var(--startup-edge, 0%); }
+
+.system-entry {
+  position: relative;
+  width: min(100vw, calc(100vh * 1919.94 / 1080.05));
+  aspect-ratio: 1919.94 / 1080.05;
+  overflow: hidden;
+  background: #090b09;
+}
+
+.system-entry__art {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.fca-eye-camera-viewport {
+  position: absolute;
+  z-index: 5;
+  /* 具体位置由入口SVG的圆心和半径计算，避免素材更换后沿用旧孔位。 */
+  left: 87.051%;
+  top: 53.588%;
+  width: 6.979%;
+  aspect-ratio: 1;
+  overflow: hidden;
+  visibility: hidden;
+  opacity: 0;
+  border-radius: 50%;
+  background: #120b08;
+  box-shadow: inset 0 0 18px rgba(255, 148, 41, 0.34);
+  color: #ffb464;
+  font-family: Consolas, monospace;
+  pointer-events: none;
+  transition: opacity 220ms ease-out;
+}
+
+.fca-eye-camera-viewport.is-active {
+  visibility: visible;
+  opacity: 1;
+}
+
+.fca-eye-video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: scaleX(-1);
+  filter: contrast(1.12) saturate(0.72) sepia(0.16);
+  opacity: 0;
+  transition: opacity 240ms ease-out;
+}
+
+.fca-eye-camera-viewport.is-camera-ready .fca-eye-video {
+  opacity: 1;
+}
+
+/* 搜索人脸阶段只显示摄像头；识别成功后才显现并运转扫描图层。 */
+.fca-eye-detection-effect {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.fca-eye-camera-viewport.is-face-detected .fca-eye-detection-effect {
+  visibility: visible;
+  opacity: 1;
+}
+
+.fca-eye-scanlines,
+.fca-eye-vignette,
+.fca-eye-reticle,
+.fca-eye-sweep,
+.fca-eye-status {
+  position: absolute;
+  pointer-events: none;
+}
+
+.fca-eye-scanlines {
+  inset: 0;
+  background: repeating-linear-gradient(
+    to bottom,
+    rgba(255, 164, 62, 0.1) 0,
+    rgba(255, 164, 62, 0.1) 1px,
+    transparent 1px,
+    transparent 4px
+  );
+  mix-blend-mode: screen;
+}
+
+.fca-eye-vignette {
+  inset: 0;
+  border-radius: 50%;
+  box-shadow: inset 0 0 22px 9px rgba(15, 7, 3, 0.78);
+}
+
+.fca-eye-reticle {
+  left: 19%;
+  top: 31%;
+  width: 62%;
+  height: 38%;
+  border: 1px solid rgba(255, 175, 85, 0.72);
+  border-radius: 50%;
+  box-shadow: 0 0 5px rgba(255, 148, 41, 0.36);
+  animation: fca-camera-reticle-pulse 1.8s ease-in-out infinite;
+  animation-play-state: paused;
+}
+
+.fca-eye-reticle::before,
+.fca-eye-reticle::after {
+  content: "";
+  position: absolute;
+  background: rgba(255, 183, 98, 0.72);
+}
+
+.fca-eye-reticle::before {
+  left: 50%;
+  top: -18%;
+  width: 1px;
+  height: 136%;
+}
+
+.fca-eye-reticle::after {
+  top: 50%;
+  left: -12%;
+  width: 124%;
+  height: 1px;
+}
+
+.fca-eye-sweep {
+  left: 7%;
+  top: 9%;
+  width: 86%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #fff0c2 30%, #ff9429 50%, #fff0c2 70%, transparent);
+  box-shadow: 0 0 5px rgba(255, 148, 41, 0.75);
+  animation: fca-camera-sweep-down 2.15s ease-in-out infinite;
+  animation-play-state: paused;
+}
+
+.fca-eye-camera-viewport.is-face-detected .fca-eye-reticle,
+.fca-eye-camera-viewport.is-face-detected .fca-eye-sweep {
+  animation-play-state: running;
+}
+
+.fca-eye-status {
+  right: 0;
+  bottom: 9%;
+  left: 0;
+  text-align: center;
+  font-size: clamp(4px, 0.38vw, 7px);
+  letter-spacing: 0.08em;
+  text-shadow: 0 0 3px #ff9429;
+}
+
+.code-error-overlay {
+  position: absolute;
+  z-index: 20;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  visibility: hidden;
+  pointer-events: none;
+  background: rgba(18, 0, 5, 0);
+  outline: none;
+}
+
+.code-error-overlay__panel {
+  width: clamp(110px, 15%, 180px);
+  aspect-ratio: 1;
+  user-select: none;
+  transform-origin: center;
+}
+
+.identity-success-overlay .code-error-overlay__panel,
+.camera-prompt-overlay .code-error-overlay__panel {
+  /* 依资源22外框重新裁切，清除SVG object画布及分段边框空隙的白色余边。 */
+  aspect-ratio: 202.48 / 213.79;
+  clip-path: polygon(
+    10.4% .74%, 89.64% .74%, 97.25% 7.94%, 97.25% 90.92%,
+    88.39% 99.3%, 11.64% 99.3%, 2.82% 90.92%, 2.82% 7.92%
+  );
+}
+
+.code-error-overlay__art {
+  display: block;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.code-error-overlay.is-opening,
+.code-error-overlay.is-open,
+.code-error-overlay.is-closing {
+  visibility: visible;
+}
+
+.code-error-overlay.is-opening,
+.code-error-overlay.is-open {
+  pointer-events: auto;
+}
+
+.code-error-overlay.is-opening {
+  animation: fca-error-backdrop-in 210ms steps(2, end) both;
+}
+
+.code-error-overlay.is-opening .code-error-overlay__panel {
+  animation: fca-error-alert-in 230ms steps(7, end) both;
+}
+
+.code-error-overlay.is-open {
+  background: rgba(18, 0, 5, 0.24);
+}
+
+.code-error-overlay.is-closing {
+  animation: fca-error-backdrop-out 270ms ease-out both;
+}
+
+.code-error-overlay.is-closing .code-error-overlay__panel {
+  animation: fca-error-tv-off 270ms cubic-bezier(0.7, 0, 0.9, 0.25) both;
+}
+
+@keyframes fca-error-backdrop-in {
+  from { background: rgba(18, 0, 5, 0); }
+  to { background: rgba(18, 0, 5, 0.24); }
+}
+
+@keyframes fca-error-alert-in {
+  0% { opacity: 0; transform: scale(1.28, 0.05) translateX(-18px); }
+  18% { opacity: 1; transform: scale(0.82, 0.28) translateX(12px); }
+  37% { transform: scale(1.12, 0.66) translateX(-7px); }
+  56% { transform: scale(0.96, 1.08) translateX(4px); }
+  74% { transform: scale(1.035, 0.97) translateX(-2px); }
+  100% { opacity: 1; transform: scale(1) translateX(0); }
+}
+
+@keyframes fca-error-backdrop-out {
+  from { background: rgba(18, 0, 5, 0.24); }
+  to { background: rgba(18, 0, 5, 0); }
+}
+
+/* 老式电视关机：画面先压成一道亮横线，再向中心收束消失。 */
+@keyframes fca-error-tv-off {
+  0% { opacity: 1; transform: scale(1); filter: brightness(1); }
+  48% { opacity: 1; transform: scale(1.04, 0.028); filter: brightness(1.8); }
+  72% { opacity: 1; transform: scale(0.48, 0.012); filter: brightness(2.8); }
+  100% { opacity: 0; transform: scale(0, 0.006); filter: brightness(3.4); }
+}
+
+@keyframes fca-camera-sweep-down {
+  0% { top: 8%; opacity: 0; }
+  12% { opacity: 0.95; }
+  88% { opacity: 0.95; }
+  100% { top: 90%; opacity: 0; }
+}
+
+@keyframes fca-camera-reticle-pulse {
+  0%, 100% { opacity: 0.52; transform: scale(0.96); }
+  50% { opacity: 0.92; transform: scale(1.03); }
+}

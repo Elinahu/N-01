@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FCA</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./dashboard.css">
+</head>
+<body>
+  <main id="game" aria-label="FCA 游戏区域" inert>
+    <section class="system-entry" aria-label="进入FCA系统">
+      <!-- 资源21为入口底稿，资源22更新圆环及弹窗；动画直接作用于原生矢量组件。 -->
+      <object
+        class="system-entry__art"
+        id="system-entry-art"
+        data="./assets/images/fca-system-entry-sketch.svg"
+        type="image/svg+xml"
+        aria-label="FCA系统入口界面"
+      ></object>
+      <!-- 视频放在主HTML层，避免Electron无法稳定绘制SVG foreignObject中的实时画面。 -->
+      <div
+        class="fca-eye-camera-viewport"
+        id="eye-camera-viewport"
+        aria-hidden="true"
+      >
+        <video class="fca-eye-video" id="eye-camera-video" autoplay playsinline muted></video>
+        <!-- 只有确认画面中有人脸后，下面三层扫描特效才会显示。 -->
+        <div class="fca-eye-scanlines fca-eye-detection-effect"></div>
+        <div class="fca-eye-vignette"></div>
+        <div class="fca-eye-reticle fca-eye-detection-effect"></div>
+        <div class="fca-eye-sweep fca-eye-detection-effect"></div>
+        <div class="fca-eye-status" id="eye-camera-status">CAMERA STANDBY</div>
+      </div>
+      <!-- 扫描音效完全保存在本地，只在人脸被识别后播放一次。 -->
+      <audio id="eye-scan-audio" src="./assets/audio/scan-iris.mp3" preload="auto"></audio>
+      <!-- 两类界面音效使用独立音轨，避免快速连续操作时互相截断。 -->
+      <audio id="screen-open-audio" src="./assets/audio/screen-open.wav" preload="auto"></audio>
+      <audio id="popup-audio" src="./assets/audio/popup.wav" preload="auto"></audio>
+      <audio id="survivor-intrusion-audio" src="./assets/audio/wrong.mp3" preload="auto"></audio>
+      <!-- 密码错误时显示独立警告素材；默认不占用任何交互。 -->
+      <div
+        class="code-error-overlay"
+        id="code-error-overlay"
+        aria-hidden="true"
+        tabindex="-1"
+      >
+        <div class="code-error-overlay__panel" role="img" aria-label="工号输入错误">
+          <object
+            class="code-error-overlay__art"
+            id="code-error-art"
+            data="./assets/images/fca-code-error.svg"
+            type="image/svg+xml"
+            aria-hidden="true"
+          ></object>
+        </div>
+      </div>
+      <!-- 摄像头扫描完成后的身份验证结果，复用警告窗口的进出场方式。 -->
+      <div
+        class="code-error-overlay identity-success-overlay"
+        id="identity-success-overlay"
+        aria-hidden="true"
+        tabindex="-1"
+      >
+        <div class="code-error-overlay__panel" role="img" aria-label="身份验证通过">
+          <object
+            class="code-error-overlay__art"
+            id="identity-success-art"
+            data="./assets/images/fca-identity-verified.svg"
+            type="image/svg+xml"
+            aria-hidden="true"
+          ></object>
+        </div>
+      </div>
+      <!-- 三秒内没有识别到人脸时，复用警告窗口的进出场动画。 -->
+      <div
+        class="code-error-overlay camera-prompt-overlay"
+        id="camera-prompt-overlay"
+        aria-hidden="true"
+        tabindex="-1"
+      >
+        <div class="code-error-overlay__panel" role="img" aria-label="请打开摄像头并正对镜头">
+          <object
+            class="code-error-overlay__art"
+            data="./assets/images/fca-camera-prompt.svg"
+            type="image/svg+xml"
+            aria-hidden="true"
+          ></object>
+        </div>
+      </div>
+    </section>
+    <!-- 素材预载独立于隐藏页面，避免display:none延迟加载造成切换空白。 -->
+    <object id="dashboard-source" data="./assets/images/fca-system-desktop.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="task-dossier-source" data="./assets/images/fca-task-dossier.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="mail-source" data="./assets/images/fca-mail.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="survivor-mail-source" class="file3-source" data="./assets/images/fca-mail-survivor.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="stories-source" class="file3-source" data="./assets/images/fca-stories.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="net-source" class="file3-source" data="./assets/images/fca-net.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="session-control-source" data="./assets/images/fca-session-control.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="file3-contact-source" class="file3-source" data="./assets/images/fca-survivor-contact.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="file-three-report-source" class="file3-source" data="./assets/images/fca-investigation-record3.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="documents-source" data="./assets/images/fca-documents.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="notes-source" data="./assets/images/fca-notes.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="investigation-source" data="./assets/images/fca-investigation-file1.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="investigation-two-source" data="./assets/images/fca-investigation-file2.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="draft-report-source" data="./assets/images/fca-draft-report-button.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="report-source" data="./assets/images/fca-investigation-report.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="report-two-source" data="./assets/images/fca-investigation-report2.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="evaluate-source" data="./assets/images/fca-evaluate-button.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="file3-overview-source" class="file3-source" data="./assets/images/fca-file3-overview.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="file3-alpha-source" class="file3-source" data="./assets/images/fca-file3-alpha.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="file3-beta-source" class="file3-source" data="./assets/images/fca-file3-beta.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="file3-gamma-source" class="file3-source" data="./assets/images/fca-file3-gamma.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="file3-delta-source" class="file3-source" data="./assets/images/fca-file3-delta.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <object id="file3-restricted-source" class="file3-source" data="./assets/images/fca-file3-restricted.svg" type="image/svg+xml" tabindex="-1" aria-hidden="true"></object>
+    <!-- 验证提示关闭后进入资源24桌面，位置、文字与图形均沿用新稿。 -->
+    <section id="system-dashboard" class="system-dashboard is-desktop-layout" aria-label="FCA系统桌面" hidden>
+      <div id="dashboard-desktop-surface" class="dashboard-desktop-surface"></div>
+      <!-- 原稿任务栏独立于窗口层，保持原坐标且能在窗口打开后操作。 -->
+      <div id="dashboard-taskbar-surface" class="dashboard-taskbar-surface"></div>
+      <div id="dashboard-windows" class="dashboard-windows">
+        <!-- 1.svg任务卷宗；透明按钮分别覆盖原标题栏三个控制符号。 -->
+        <section id="dashboard-task" class="dashboard-task" hidden role="dialog" aria-label="FCA任务卷宗">
+          <div id="task-dossier-surface" class="task-dossier-surface">
+            <button id="task-dossier-minimize" class="task-window-control" aria-label="收起任务卷宗" title="收起任务卷宗"></button>
+            <button id="task-dossier-maximize" class="task-window-control" aria-label="窗口大小固定" title="窗口大小固定" aria-disabled="true" disabled></button>
+            <button id="task-dossier-close" class="task-window-control" aria-label="关闭任务卷宗，返回FCA系统" title="关闭任务卷宗"></button>
+          </div>
+        </section>
+      </div>
+      <!-- 每个示例窗口独立创建，收起/恢复不会重复创建或丢失窗口状态。 -->
+      <template id="dashboard-example-template">
+        <section class="dashboard-example" hidden role="dialog" aria-label="模块示例页">
+          <div class="dashboard-example-titlebar" data-window-titlebar><span class="dashboard-example-window-title"></span></div>
+          <div class="dashboard-example-controls">
+            <button data-window-minimize aria-label="最小化窗口" title="最小化窗口">−</button>
+            <button data-window-maximize aria-label="最大化窗口" title="最大化窗口" aria-pressed="false">□</button>
+            <button data-window-close aria-label="关闭窗口" title="关闭窗口">×</button>
+          </div>
+          <button class="dashboard-return">← 返回FCA系统</button>
+          <span class="example-kicker">FCA / MODULE PREVIEW</span>
+          <h1 class="dashboard-example-title"></h1>
+          <p>系统连接已建立。此处为示例页面，后续将替换为正式调查内容。</p>
+          <div class="example-terminal">ACCESS GRANTED<br>SUBJECT: 0-Z-4986<br>AWAITING CASE DATA<span>_</span></div>
+        </section>
+      </template>
+    </section>
+  </main>
+  <div id="startup-intro" aria-hidden="true">
+    <video src="./assets/video/n01-intro.mp4" preload="auto" playsinline disablepictureinpicture></video>
+  </div>
+  <audio id="game-bgm" src="./assets/audio/bgm.mp3" preload="none" loop></audio>
+  <script type="module" src="./game.js"></script>
+  <script type="module" src="./startup.js"></script>
+</body>
+</html>

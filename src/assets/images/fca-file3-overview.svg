@@ -1,0 +1,304 @@
+<svg viewBox="118.01 0 939.5 559.39" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #b26526;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-10, .cls-3, .cls-4, .cls-11, .cls-12, .cls-13, .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-14 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-15, .cls-16 {
+        stroke: #4d3119;
+      }
+
+      .cls-15, .cls-17, .cls-18, .cls-19 {
+        fill: #7a2418;
+      }
+
+      .cls-20 {
+        font-size: 36px;
+      }
+
+      .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-19, .cls-25 {
+        font-weight: 700;
+      }
+
+      .cls-20, .cls-22, .cls-24, .cls-19, .cls-25 {
+        font-family: Consolas-Bold, Consolas;
+      }
+
+      .cls-20, .cls-24, .cls-26, .cls-25 {
+        fill: #ead6b3;
+      }
+
+      .cls-2, .cls-3, .cls-6, .cls-8, .cls-9 {
+        stroke: #ead6b3;
+      }
+
+      .cls-2, .cls-27, .cls-16, .cls-28, .cls-29, .cls-30 {
+        fill: #050606;
+      }
+
+      .cls-31 {
+        fill: #ff921f;
+      }
+
+      .cls-10 {
+        stroke: #ee842b;
+      }
+
+      .cls-10, .cls-29, .cls-13 {
+        stroke-width: 3px;
+      }
+
+      .cls-21 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+        font-size: 18.9px;
+      }
+
+      .cls-21, .cls-32 {
+        fill: #080a07;
+      }
+
+      .cls-21, .cls-32, .cls-24, .cls-19, .cls-25 {
+        isolation: isolate;
+      }
+
+      .cls-33, .cls-34 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-4, .cls-29, .cls-30, .cls-13 {
+        stroke: #ff921f;
+      }
+
+      .cls-11 {
+        stroke: #714115;
+      }
+
+      .cls-12 {
+        stroke: #73552e;
+      }
+
+      .cls-35 {
+        fill: #cbb28a;
+      }
+
+      .cls-36 {
+        fill: #ee922d;
+      }
+
+      .cls-28 {
+        stroke: #a96619;
+      }
+
+      .cls-17 {
+        font-family: Consolas-Italic, Consolas;
+        font-size: 20.57px;
+      }
+
+      .cls-17, .cls-23 {
+        font-style: italic;
+      }
+
+      .cls-5 {
+        fill: #090a07;
+        stroke: #cbb28a;
+      }
+
+      .cls-6 {
+        fill: #c1272d;
+      }
+
+      .cls-32 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+        font-size: 12.57px;
+      }
+
+      .cls-30 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-23 {
+        font-family: Consolas-BoldItalic, Consolas;
+      }
+
+      .cls-7 {
+        stroke: #080a07;
+      }
+
+      .cls-37 {
+        fill: #0a0b07;
+      }
+
+      .cls-24, .cls-19 {
+        font-size: 35.96px;
+      }
+
+      .cls-8 {
+        fill: #666159;
+      }
+
+      .cls-26 {
+        font-size: 14.63px;
+      }
+
+      .cls-34 {
+        fill: #b5a58d;
+        font-size: 13.3px;
+      }
+
+      .cls-25 {
+        font-size: 16.67px;
+      }
+
+      .cls-9 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="file3-root">
+    <g id="window-frame">
+      <path class="cls-5" d="M1056.51,13.32v538.77l-5.16,6.3H124.74l-5.73-5.73V12.76l11.77-11.76,913.98.56,11.75,11.76Z" />
+      <path class="cls-10" d="M1050.33,547.21l-5.69,4.16H129.86l-5.12-4.16V66.87l11.76-10.76h901.96l11.76,10.75.11,480.35Z" />
+      <g>
+        <path class="cls-35" d="M137.59,9.5h899.88l12.86,13.35v25.32H124.74v-25.32l12.86-13.35Z" />
+        <rect class="cls-37" x="133.86" y="16.09" width="25.17" height="24.34" rx="11.29" ry="11.29" />
+        <text class="cls-21" transform="translate(168.29 36.14)">
+          <tspan x="0" y="0">FILE 3</tspan>
+        </text>
+        <text class="cls-32" transform="translate(505.75 34.47)">
+          <tspan x="0" y="0">/// Current Viewer: 0-Z-4986</tspan>
+        </text>
+        <path class="cls-1" d="M935,27.69v-2.86c1.91-2.29,3.63-2.29,5.16,0v2.86M934.14,27.69h6.88v6.87h-6.88v-6.87Z" />
+        <path class="cls-7" d="M982.85,31.13h9.17M1006.92,25.4h8.6v8.59h-8.6v-8.59ZM1029.27,25.4l8.02,8.02M1037.29,25.4l-8.02,8.02" />
+        <g>
+          <polygon class="cls-36" points="144.89 19.7 144.89 22.07 144.15 22.81 140.3 31.47 138.41 31.47 142.53 22.39 144.89 19.7" />
+          <polygon class="cls-36" points="140.61 31.47 144.06 23.71 144.06 27.38 142.33 31.47 140.61 31.47" />
+          <polygon class="cls-36" points="147.32 19.7 147.32 22.07 148.06 22.81 151.18 29.82 153.55 29.84 152.87 28.38 152.4 28.38 149.69 22.39 147.32 19.7" />
+          <polygon class="cls-36" points="148.15 23.71 151.02 30.14 152.33 30.14 153.01 31.47 152.39 31.47 151.89 30.49 151.67 30.49 152.13 31.47 151.27 31.47 149.91 28.32 149.74 28.32 151.13 31.47 149.99 31.47 148.18 27.38 148.15 23.71" />
+          <polygon class="cls-36" points="153.37 31.47 154.69 31.47 153.9 30.02 152.61 30.02 153.37 31.47" />
+          <polygon class="cls-36" points="145.85 31.45 146.36 31.45 146.36 23.03 145.85 23.53 145.85 31.45" />
+          <polygon class="cls-36" points="144.89 31.47 145.53 31.47 145.53 26.27 144.89 27.01 144.89 31.47" />
+          <polygon class="cls-36" points="146.98 31.42 146.69 31.42 146.69 25.22 146.98 25.64 146.98 31.42" />
+          <polygon class="cls-36" points="148.17 31.47 147.32 31.47 147.32 28.59 148.17 29.3 148.17 31.47" />
+          <polygon class="cls-36" points="144.11 31.47 144.58 31.47 144.58 28.59 144.11 29 144.11 31.47" />
+          <path class="cls-36" d="M139.78,30.01c-2.06,0-3.31-.43-3.54-1.23-.23-.8.63-1.84,2.41-2.94,1.75-1.08,4.19-2.1,6.88-2.86l.03.09-.03-.09c2.69-.77,5.3-1.2,7.36-1.2,2.09,0,3.37.43,3.6,1.23.23.8-.63,1.84-2.41,2.94-1.75,1.08-4.19,2.1-6.88,2.86-2.69.77-5.3,1.2-7.36,1.2-.02,0-.04,0-.06,0ZM145.4,23.03c-2.67.76-4.92,1.9-6.65,2.97-1.68,1.03-2.31,1.85-2,2.5.17.36.86,1.01,2.76,1.14.02,0,.61,0,.63,0,2.04,0,4.33-.26,7-1.03,2.67-.76,5.1-1.77,6.83-2.84,1.68-1.03,2.23-2.05,2.03-2.74s-1.22-1.16-3.22-1.16-3.21.34-6,.87l-1.39.3Z" />
+          <path class="cls-36" d="M146.65,17.71l-.23-.02c-.17-.03-.23-.16-.25-.31l-.03-.29-.02-.21-.03.21-.03.3c-.02.16-.06.26-.24.29l-.22.03h-.08s.08.02.08.02l.23.02c.17.02.22.05.26.21l.03.15v.1s.03-.1.03-.1l.02-.15c.02-.18.12-.18.27-.21l.24-.03h.07s-.07-.02-.07-.02Z" />
+          <polygon class="cls-36" points="137.98 32.48 144.11 32.48 143.26 33.33 137.22 33.33 137.98 32.48" />
+          <polyline class="cls-36" points="137.02 33.66 135.46 36.14 137.22 36.14 138.41 34.36 142.59 34.36 142.88 33.66" />
+          <path class="cls-36" d="M150.38,32.48h-5.31c-.11,0-.71.52-.73.56l-1.37,2.17c-.05.11-.06.24-.01.35l.13.32c.06.16.22.27.39.27h5.73c.11,0,.22-.04.3-.12l.2-.2c.27-.27.08-.72-.3-.72h-3.21c-.31,0-.52-.32-.38-.6l.43-.91c.07-.15.22-.24.38-.24h3.75c.13,0,.25-.06.33-.15h0c.23-.28.03-.69-.33-.69Z" />
+          <polygon class="cls-36" points="149.96 36.14 152.39 32.48 154.6 32.48 157.42 36.14 155.8 36.14 153.69 33.08 151.78 36.14 149.96 36.14" />
+          <polygon class="cls-36" points="152.98 34.72 152.39 35.6 155.12 35.6 154.57 34.72 152.98 34.72" />
+          <circle class="cls-36" cx="154.07" cy="21.87" r=".71" />
+        </g>
+        <text />
+      </g>
+    </g>
+    <g id="_06_档案簿_装饰" data-name="06_档案簿_装饰">
+      <rect class="cls-31" x="1009.44" y="70.94" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1009.44" y="82.72" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1009.44" y="94.5" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1021.23" y="70.94" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1021.23" y="82.72" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1021.23" y="94.5" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1033.01" y="70.94" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1033.01" y="82.72" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1033.01" y="94.5" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1009.44" y="502.28" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1009.44" y="514.06" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1009.44" y="525.84" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1021.23" y="502.28" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1021.23" y="514.06" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1021.23" y="525.84" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1033.01" y="502.28" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1033.01" y="514.06" width="4.29" height="4.29" />
+      <rect class="cls-31" x="1033.01" y="525.84" width="4.29" height="4.29" />
+      <rect class="cls-31" x="142.6" y="70.94" width="4.29" height="4.29" />
+      <rect class="cls-31" x="142.6" y="82.72" width="4.29" height="4.29" />
+      <rect class="cls-31" x="142.6" y="94.5" width="4.29" height="4.29" />
+      <rect class="cls-31" x="154.38" y="70.94" width="4.29" height="4.29" />
+      <rect class="cls-31" x="154.38" y="82.72" width="4.29" height="4.29" />
+      <rect class="cls-31" x="154.38" y="94.5" width="4.29" height="4.29" />
+      <rect class="cls-31" x="166.16" y="70.94" width="4.29" height="4.29" />
+      <rect class="cls-31" x="166.16" y="82.72" width="4.29" height="4.29" />
+      <rect class="cls-31" x="166.16" y="94.5" width="4.29" height="4.29" />
+      <rect class="cls-31" x="142.6" y="502.28" width="4.29" height="4.29" />
+      <rect class="cls-31" x="142.6" y="514.06" width="4.29" height="4.29" />
+      <rect class="cls-31" x="142.6" y="525.84" width="4.29" height="4.29" />
+      <rect class="cls-31" x="154.38" y="502.28" width="4.29" height="4.29" />
+      <rect class="cls-31" x="154.38" y="514.06" width="4.29" height="4.29" />
+      <rect class="cls-31" x="154.38" y="525.84" width="4.29" height="4.29" />
+      <rect class="cls-31" x="166.16" y="502.28" width="4.29" height="4.29" />
+      <rect class="cls-31" x="166.16" y="514.06" width="4.29" height="4.29" />
+      <rect class="cls-31" x="166.16" y="525.84" width="4.29" height="4.29" />
+    </g>
+    <g id="_04_文件夹_1_档案甲" data-name="04_文件夹_1_档案甲">
+      <path class="cls-13" d="M224.28,190.82v11.91l5.56,5.56h13.5" />
+      <path class="cls-13" d="M325.69,208.29h11.91l5.56-5.56v-11.91" />
+      <path class="cls-13" d="M224.28,116.26v-11.91l5.56-5.56h13.5" />
+      <path class="cls-13" d="M325.69,98.79h11.91l5.56,5.56v11.91" />
+      <path class="cls-8" d="M241.78,120.16h25.51l10.74,12.7h47.66l-.06,53.2h-83.85v-65.9Z" />
+      <path class="cls-3" d="M241.78,138.42h83.91" />
+      <text class="cls-25" transform="translate(260.82 231.59)">
+        <tspan x="0" y="0">Alpha</tspan>
+      </text>
+    </g>
+    <g id="_04_文件夹_1_档案甲-2" data-name="04_文件夹_1_档案甲">
+      <path class="cls-13" d="M224.29,371.73v11.91l5.56,5.56h13.5" />
+      <path class="cls-13" d="M325.71,389.19h11.91l5.56-5.56v-11.91" />
+      <path class="cls-13" d="M224.29,297.16v-11.91l5.56-5.56h13.5" />
+      <path class="cls-13" d="M325.71,279.7h11.91l5.56,5.56v11.91" />
+      <path class="cls-6" d="M241.79,301.06h25.51l10.74,12.7h47.66l-.06,53.2h-83.85v-65.9Z" />
+      <path class="cls-3" d="M241.79,319.32h83.91" />
+      <text class="cls-25" transform="translate(269.98 413.72)">
+        <tspan x="0" y="0">???</tspan>
+      </text>
+    </g>
+    <g id="_04_文件夹_1_档案甲-3" data-name="04_文件夹_1_档案甲">
+      <path class="cls-13" d="M422.89,190.82v11.91l5.56,5.56h13.5" />
+      <path class="cls-13" d="M524.3,208.29h11.91l5.56-5.56v-11.91" />
+      <path class="cls-13" d="M422.89,116.26v-11.91l5.56-5.56h13.5" />
+      <path class="cls-13" d="M524.3,98.79h11.91l5.56,5.56v11.91" />
+      <path class="cls-8" d="M440.39,120.16h25.51l10.74,12.7h47.66l-.06,53.2h-83.85v-65.9Z" />
+      <path class="cls-3" d="M440.39,138.42h83.91" />
+      <text class="cls-25" transform="translate(460.4 231.59)">
+        <tspan x="0" y="0">Beta</tspan>
+      </text>
+    </g>
+    <g id="_04_文件夹_1_档案甲-4" data-name="04_文件夹_1_档案甲">
+      <path class="cls-13" d="M627,190.82v11.91l5.56,5.56h13.5" />
+      <path class="cls-13" d="M728.41,208.29h11.91l5.56-5.56v-11.91" />
+      <path class="cls-13" d="M627,116.26v-11.91l5.56-5.56h13.5" />
+      <path class="cls-13" d="M728.41,98.79h11.91l5.56,5.56v11.91" />
+      <path class="cls-8" d="M644.5,120.16h25.51l10.74,12.7h47.66l-.06,53.2h-83.85v-65.9Z" />
+      <path class="cls-3" d="M644.5,138.42h83.91" />
+      <text class="cls-25" transform="translate(663.54 231.59)">
+        <tspan x="0" y="0">Gamma</tspan>
+      </text>
+    </g>
+    <g id="_04_文件夹_1_档案甲-5" data-name="04_文件夹_1_档案甲">
+      <path class="cls-13" d="M840.18,190.82v11.91l5.56,5.56h13.5" />
+      <path class="cls-13" d="M941.59,208.29h11.91l5.56-5.56v-11.91" />
+      <path class="cls-13" d="M840.18,116.26v-11.91l5.56-5.56h13.5" />
+      <path class="cls-13" d="M941.59,98.79h11.91l5.56,5.56v11.91" />
+      <path class="cls-8" d="M857.68,120.16h25.51l10.74,12.7h47.66l-.06,53.2h-83.85v-65.9Z" />
+      <path class="cls-3" d="M857.68,138.42h83.91" />
+      <text class="cls-25" transform="translate(876.71 231.59)">
+        <tspan x="0" y="0">Delta</tspan>
+      </text>
+    </g>
+    <path class="cls-11" d="M182.99,82.5l7.14-9.42h803.81l9.28,10.37v409.92l-9.99,13.19H190.13l-7.14-13.19V82.5Z" />
+  </g>
+</svg>

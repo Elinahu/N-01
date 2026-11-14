@@ -1,0 +1,22 @@
+iframe[data-fca-artwork] {
+  border: 0;
+}
+
+#fca-start-game {
+  position: absolute;
+  inset: 50% auto auto 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid #e79337;
+  padding: 0.75em 1.65em;
+  background: #211507;
+  color: #ffbd70;
+  font: 600 1rem system-ui, sans-serif;
+  cursor: pointer;
+}
+
+#fca-start-game:hover,
+#fca-start-game:focus-visible {
+  background: #40250b;
+  outline: 1px solid #ffbd70;
+  outline-offset: 4px;
+}

@@ -1,0 +1,4144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 324.55 442.41">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#luminosity-invert-36);
+      }
+
+      .cls-2 {
+        filter: url(#luminosity-invert-62);
+      }
+
+      .cls-3 {
+        mix-blend-mode: lighten;
+      }
+
+      .cls-4 {
+        filter: url(#luminosity-invert-87);
+      }
+
+      .cls-5 {
+        mask: url(#mask-35);
+      }
+
+      .cls-6 {
+        filter: url(#luminosity-invert-34);
+      }
+
+      .cls-7 {
+        filter: url(#luminosity-invert-142);
+      }
+
+      .cls-8 {
+        mask: url(#mask-104);
+      }
+
+      .cls-9 {
+        mask: url(#mask-64);
+      }
+
+      .cls-10 {
+        mask: url(#mask-15);
+      }
+
+      .cls-11 {
+        mask: url(#mask-105);
+      }
+
+      .cls-12 {
+        filter: url(#luminosity-invert-88);
+      }
+
+      .cls-13 {
+        filter: url(#luminosity-invert-122);
+      }
+
+      .cls-14 {
+        filter: url(#luminosity-invert-17);
+      }
+
+      .cls-15 {
+        mask: url(#mask-5);
+      }
+
+      .cls-16 {
+        mask: url(#mask-78);
+      }
+
+      .cls-17 {
+        mask: url(#mask-13);
+      }
+
+      .cls-18 {
+        mask: url(#mask-106);
+      }
+
+      .cls-19 {
+        mask: url(#mask-63);
+      }
+
+      .cls-20 {
+        filter: url(#luminosity-invert-41);
+      }
+
+      .cls-21 {
+        mask: url(#mask-79);
+      }
+
+      .cls-22 {
+        mask: url(#mask-128);
+      }
+
+      .cls-23 {
+        filter: url(#luminosity-invert-22);
+      }
+
+      .cls-24 {
+        filter: url(#luminosity-invert-120);
+      }
+
+      .cls-25 {
+        filter: url(#luminosity-invert-137);
+      }
+
+      .cls-26 {
+        filter: url(#luminosity-invert-144);
+      }
+
+      .cls-27 {
+        filter: url(#luminosity-invert-112);
+      }
+
+      .cls-28 {
+        mask: url(#mask-143);
+      }
+
+      .cls-29 {
+        filter: url(#luminosity-invert-30);
+      }
+
+      .cls-30 {
+        mask: url(#mask-1);
+      }
+
+      .cls-31 {
+        mask: url(#mask-56);
+      }
+
+      .cls-32 {
+        filter: url(#luminosity-invert-79);
+      }
+
+      .cls-33 {
+        filter: url(#luminosity-invert-3);
+      }
+
+      .cls-34 {
+        filter: url(#luminosity-invert-69);
+      }
+
+      .cls-35 {
+        mask: url(#mask-103);
+      }
+
+      .cls-36 {
+        fill: #ddc47c;
+      }
+
+      .cls-37 {
+        filter: url(#luminosity-invert-54);
+      }
+
+      .cls-38 {
+        filter: url(#luminosity-invert-111);
+      }
+
+      .cls-39 {
+        mask: url(#mask-129);
+      }
+
+      .cls-40 {
+        mask: url(#mask-107);
+      }
+
+      .cls-41 {
+        filter: url(#luminosity-invert-68);
+      }
+
+      .cls-42 {
+        mask: url(#mask-110);
+      }
+
+      .cls-43 {
+        filter: url(#luminosity-invert-78);
+      }
+
+      .cls-44 {
+        mask: url(#mask-111);
+      }
+
+      .cls-45 {
+        mask: url(#mask-77);
+      }
+
+      .cls-46 {
+        mask: url(#mask-138);
+      }
+
+      .cls-47 {
+        filter: url(#luminosity-invert-59);
+      }
+
+      .cls-48 {
+        mask: url(#mask-120);
+      }
+
+      .cls-49 {
+        filter: url(#luminosity-invert-110);
+      }
+
+      .cls-50 {
+        stroke: #ffe876;
+      }
+
+      .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-50, .cls-51, .cls-52, .cls-54, .cls-55, .cls-56 {
+        fill: none;
+      }
+
+      .cls-57 {
+        fill: #e0ca00;
+      }
+
+      .cls-58 {
+        mask: url(#mask-112);
+      }
+
+      .cls-59 {
+        mask: url(#mask-80);
+      }
+
+      .cls-60 {
+        mask: url(#mask-10);
+      }
+
+      .cls-61 {
+        mask: url(#mask-46);
+      }
+
+      .cls-62 {
+        mask: url(#mask-6);
+      }
+
+      .cls-63 {
+        filter: url(#luminosity-invert-46);
+      }
+
+      .cls-64 {
+        mask: url(#mask-97);
+      }
+
+      .cls-65 {
+        filter: url(#luminosity-invert-118);
+      }
+
+      .cls-66 {
+        filter: url(#luminosity-invert-74);
+      }
+
+      .cls-67 {
+        mask: url(#mask-7);
+      }
+
+      .cls-68 {
+        mask: url(#mask-18);
+      }
+
+      .cls-69 {
+        filter: url(#luminosity-invert-58);
+      }
+
+      .cls-70 {
+        filter: url(#luminosity-invert-52);
+      }
+
+      .cls-71 {
+        mask: url(#mask-142);
+      }
+
+      .cls-72 {
+        filter: url(#luminosity-invert-12);
+      }
+
+      .cls-73 {
+        mask: url(#mask-134);
+      }
+
+      .cls-74 {
+        mask: url(#mask-17);
+      }
+
+      .cls-75 {
+        mask: url(#mask);
+      }
+
+      .cls-76 {
+        mask: url(#mask-101);
+      }
+
+      .cls-77 {
+        filter: url(#luminosity-invert-150);
+      }
+
+      .cls-78 {
+        mask: url(#mask-130);
+      }
+
+      .cls-79 {
+        filter: url(#luminosity-invert-106);
+      }
+
+      .cls-80 {
+        mask: url(#mask-148);
+      }
+
+      .cls-81 {
+        filter: url(#luminosity-invert-133);
+      }
+
+      .cls-82 {
+        filter: url(#luminosity-invert-21);
+      }
+
+      .cls-83 {
+        filter: url(#luminosity-invert-14);
+      }
+
+      .cls-84 {
+        filter: url(#luminosity-invert-66);
+      }
+
+      .cls-85 {
+        filter: url(#luminosity-invert-35);
+      }
+
+      .cls-86 {
+        fill: #ffe98a;
+      }
+
+      .cls-87 {
+        mask: url(#mask-30);
+      }
+
+      .cls-88 {
+        mask: url(#mask-117);
+      }
+
+      .cls-89 {
+        mask: url(#mask-37);
+      }
+
+      .cls-90 {
+        mask: url(#mask-73);
+      }
+
+      .cls-91 {
+        mask: url(#mask-67);
+      }
+
+      .cls-92 {
+        filter: url(#luminosity-invert-100);
+      }
+
+      .cls-93 {
+        mask: url(#mask-93);
+      }
+
+      .cls-94 {
+        mask: url(#mask-20);
+      }
+
+      .cls-95 {
+        mask: url(#mask-38);
+      }
+
+      .cls-96 {
+        filter: url(#luminosity-invert-138);
+      }
+
+      .cls-97 {
+        filter: url(#luminosity-invert-65);
+      }
+
+      .cls-98 {
+        filter: url(#luminosity-invert-148);
+      }
+
+      .cls-99 {
+        filter: url(#luminosity-invert-80);
+      }
+
+      .cls-100 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+        font-size: 28.6px;
+      }
+
+      .cls-100, .cls-101 {
+        fill: #ffec00;
+      }
+
+      .cls-102 {
+        mask: url(#mask-133);
+      }
+
+      .cls-103 {
+        fill: #fff143;
+      }
+
+      .cls-104 {
+        mask: url(#mask-59);
+      }
+
+      .cls-105 {
+        mask: url(#mask-136);
+      }
+
+      .cls-106 {
+        fill: #f7e69a;
+      }
+
+      .cls-107 {
+        mask: url(#mask-81);
+      }
+
+      .cls-108 {
+        filter: url(#luminosity-invert-33);
+      }
+
+      .cls-109 {
+        filter: url(#luminosity-invert-57);
+      }
+
+      .cls-110 {
+        filter: url(#luminosity-invert-6);
+      }
+
+      .cls-111 {
+        mask: url(#mask-50);
+      }
+
+      .cls-112 {
+        filter: url(#luminosity-invert-53);
+      }
+
+      .cls-113 {
+        mask: url(#mask-8);
+      }
+
+      .cls-114 {
+        mask: url(#mask-139);
+      }
+
+      .cls-115 {
+        mask: url(#mask-36);
+      }
+
+      .cls-116 {
+        filter: url(#luminosity-invert-16);
+      }
+
+      .cls-117 {
+        mask: url(#mask-83);
+      }
+
+      .cls-118 {
+        mask: url(#mask-2);
+      }
+
+      .cls-119 {
+        mask: url(#mask-100);
+      }
+
+      .cls-120 {
+        filter: url(#luminosity-invert-145);
+      }
+
+      .cls-121 {
+        mask: url(#mask-57);
+      }
+
+      .cls-122 {
+        mask: url(#mask-31);
+      }
+
+      .cls-123 {
+        filter: url(#luminosity-invert-63);
+      }
+
+      .cls-124 {
+        filter: url(#luminosity-invert-15);
+      }
+
+      .cls-125 {
+        mask: url(#mask-9);
+      }
+
+      .cls-126 {
+        mask: url(#mask-123);
+      }
+
+      .cls-127 {
+        filter: url(#luminosity-invert-13);
+      }
+
+      .cls-128 {
+        mask: url(#mask-135);
+      }
+
+      .cls-129 {
+        filter: url(#luminosity-invert-95);
+      }
+
+      .cls-130 {
+        filter: url(#luminosity-invert-40);
+      }
+
+      .cls-131 {
+        filter: url(#luminosity-invert-73);
+      }
+
+      .cls-132 {
+        filter: url(#luminosity-invert-64);
+      }
+
+      .cls-133 {
+        filter: url(#luminosity-invert-4);
+      }
+
+      .cls-134 {
+        mask: url(#mask-87);
+      }
+
+      .cls-135 {
+        mask: url(#mask-95);
+      }
+
+      .cls-136 {
+        filter: url(#luminosity-invert-93);
+      }
+
+      .cls-137 {
+        filter: url(#luminosity-invert-92);
+      }
+
+      .cls-138 {
+        filter: url(#luminosity-invert-31);
+      }
+
+      .cls-139 {
+        filter: url(#luminosity-invert-20);
+      }
+
+      .cls-140 {
+        filter: url(#luminosity-invert-101);
+      }
+
+      .cls-141 {
+        filter: url(#luminosity-invert-24);
+      }
+
+      .cls-142 {
+        mask: url(#mask-21);
+      }
+
+      .cls-143 {
+        filter: url(#luminosity-invert-141);
+      }
+
+      .cls-144 {
+        filter: url(#luminosity-invert-135);
+      }
+
+      .cls-145 {
+        isolation: isolate;
+      }
+
+      .cls-146 {
+        mask: url(#mask-109);
+      }
+
+      .cls-147 {
+        mask: url(#mask-144);
+      }
+
+      .cls-148 {
+        filter: url(#luminosity-invert-131);
+      }
+
+      .cls-149 {
+        mask: url(#mask-43);
+      }
+
+      .cls-150 {
+        filter: url(#luminosity-invert-146);
+      }
+
+      .cls-151 {
+        filter: url(#luminosity-invert-27);
+      }
+
+      .cls-152 {
+        filter: url(#luminosity-invert-45);
+      }
+
+      .cls-153 {
+        mask: url(#mask-137);
+      }
+
+      .cls-154 {
+        filter: url(#luminosity-invert-119);
+      }
+
+      .cls-155 {
+        mask: url(#mask-102);
+      }
+
+      .cls-156 {
+        mask: url(#mask-126);
+      }
+
+      .cls-157 {
+        filter: url(#luminosity-invert-113);
+      }
+
+      .cls-158 {
+        filter: url(#luminosity-invert-104);
+      }
+
+      .cls-159 {
+        mask: url(#mask-65);
+      }
+
+      .cls-160 {
+        filter: url(#luminosity-invert-9);
+      }
+
+      .cls-161 {
+        filter: url(#luminosity-invert-56);
+      }
+
+      .cls-162 {
+        filter: url(#luminosity-invert-70);
+      }
+
+      .cls-163 {
+        filter: url(#luminosity-invert-128);
+      }
+
+      .cls-164 {
+        filter: url(#luminosity-invert-55);
+      }
+
+      .cls-165 {
+        fill: #ead683;
+      }
+
+      .cls-166 {
+        filter: url(#luminosity-invert-126);
+      }
+
+      .cls-167 {
+        filter: url(#luminosity-invert-47);
+      }
+
+      .cls-168 {
+        mask: url(#mask-28);
+      }
+
+      .cls-169 {
+        mask: url(#mask-47);
+      }
+
+      .cls-51 {
+        stroke: #ffec00;
+      }
+
+      .cls-170 {
+        mask: url(#mask-42);
+      }
+
+      .cls-171 {
+        filter: url(#luminosity-invert-42);
+      }
+
+      .cls-172 {
+        filter: url(#luminosity-invert-18);
+      }
+
+      .cls-173 {
+        mask: url(#mask-23);
+      }
+
+      .cls-174 {
+        filter: url(#luminosity-invert-39);
+      }
+
+      .cls-175 {
+        mask: url(#mask-39);
+      }
+
+      .cls-176 {
+        filter: url(#luminosity-invert-7);
+      }
+
+      .cls-177 {
+        filter: url(#luminosity-invert-99);
+      }
+
+      .cls-178 {
+        mask: url(#mask-53);
+      }
+
+      .cls-179 {
+        filter: url(#luminosity-invert-43);
+      }
+
+      .cls-180 {
+        filter: url(#luminosity-invert-29);
+      }
+
+      .cls-181 {
+        mask: url(#mask-34);
+      }
+
+      .cls-182 {
+        mask: url(#mask-26);
+      }
+
+      .cls-183 {
+        fill: #efd59a;
+      }
+
+      .cls-184 {
+        filter: url(#luminosity-invert-10);
+      }
+
+      .cls-185 {
+        mask: url(#mask-55);
+      }
+
+      .cls-186 {
+        filter: url(#luminosity-invert-127);
+      }
+
+      .cls-52 {
+        opacity: .15;
+        stroke-width: .3px;
+      }
+
+      .cls-52, .cls-55 {
+        stroke: #b59f00;
+      }
+
+      .cls-187 {
+        mask: url(#mask-62);
+      }
+
+      .cls-188 {
+        mask: url(#mask-61);
+      }
+
+      .cls-189 {
+        filter: url(#luminosity-invert-61);
+      }
+
+      .cls-190 {
+        filter: url(#luminosity-invert-75);
+      }
+
+      .cls-191 {
+        mask: url(#mask-149);
+      }
+
+      .cls-192 {
+        mask: url(#mask-54);
+      }
+
+      .cls-193 {
+        filter: url(#luminosity-invert-117);
+      }
+
+      .cls-194 {
+        filter: url(#luminosity-invert-71);
+      }
+
+      .cls-195 {
+        filter: url(#luminosity-invert-149);
+      }
+
+      .cls-196 {
+        mask: url(#mask-24);
+      }
+
+      .cls-197 {
+        filter: url(#luminosity-invert-50);
+      }
+
+      .cls-198 {
+        filter: url(#luminosity-invert-89);
+      }
+
+      .cls-199 {
+        mask: url(#mask-88);
+      }
+
+      .cls-200 {
+        mask: url(#mask-119);
+      }
+
+      .cls-201 {
+        mask: url(#mask-66);
+      }
+
+      .cls-202 {
+        filter: url(#luminosity-invert-85);
+      }
+
+      .cls-203 {
+        mask: url(#mask-16);
+      }
+
+      .cls-204 {
+        filter: url(#luminosity-invert-84);
+      }
+
+      .cls-205 {
+        mix-blend-mode: screen;
+      }
+
+      .cls-206 {
+        mask: url(#mask-89);
+      }
+
+      .cls-207 {
+        mask: url(#mask-32);
+      }
+
+      .cls-208 {
+        mask: url(#mask-115);
+      }
+
+      .cls-209 {
+        mask: url(#mask-19);
+      }
+
+      .cls-210 {
+        filter: url(#luminosity-invert-109);
+      }
+
+      .cls-211 {
+        fill: #e0ce85;
+      }
+
+      .cls-212 {
+        filter: url(#luminosity-invert-82);
+      }
+
+      .cls-53 {
+        fill: url(#_未命名的渐变_190);
+        opacity: .5;
+      }
+
+      .cls-53, .cls-54, .cls-56 {
+        stroke: #fff143;
+      }
+
+      .cls-213 {
+        mask: url(#mask-76);
+      }
+
+      .cls-214 {
+        filter: url(#luminosity-invert-124);
+      }
+
+      .cls-215 {
+        filter: url(#luminosity-invert-11);
+      }
+
+      .cls-216 {
+        mask: url(#mask-51);
+      }
+
+      .cls-217 {
+        filter: url(#luminosity-invert-51);
+      }
+
+      .cls-218 {
+        filter: url(#luminosity-invert-90);
+      }
+
+      .cls-219 {
+        mask: url(#mask-94);
+      }
+
+      .cls-220 {
+        mask: url(#mask-146);
+      }
+
+      .cls-221 {
+        filter: url(#luminosity-invert-23);
+      }
+
+      .cls-222 {
+        mask: url(#mask-33);
+      }
+
+      .cls-223 {
+        mask: url(#mask-58);
+      }
+
+      .cls-224 {
+        filter: url(#luminosity-invert-136);
+      }
+
+      .cls-225 {
+        filter: url(#luminosity-invert-103);
+      }
+
+      .cls-226 {
+        mask: url(#mask-25);
+      }
+
+      .cls-227 {
+        mask: url(#mask-147);
+      }
+
+      .cls-228 {
+        mask: url(#mask-72);
+      }
+
+      .cls-229 {
+        filter: url(#luminosity-invert-94);
+      }
+
+      .cls-230 {
+        mask: url(#mask-29);
+      }
+
+      .cls-231 {
+        filter: url(#luminosity-invert-91);
+      }
+
+      .cls-232 {
+        mask: url(#mask-124);
+      }
+
+      .cls-233 {
+        mask: url(#mask-141);
+      }
+
+      .cls-234 {
+        mask: url(#mask-113);
+      }
+
+      .cls-235 {
+        filter: url(#luminosity-invert-38);
+      }
+
+      .cls-236 {
+        filter: url(#luminosity-invert-48);
+      }
+
+      .cls-237 {
+        fill: #b59f00;
+        opacity: .06;
+      }
+
+      .cls-238 {
+        mask: url(#mask-49);
+      }
+
+      .cls-239 {
+        filter: url(#luminosity-invert-105);
+      }
+
+      .cls-240 {
+        filter: url(#luminosity-invert-125);
+      }
+
+      .cls-241 {
+        filter: url(#luminosity-invert-86);
+      }
+
+      .cls-242 {
+        filter: url(#luminosity-invert-121);
+      }
+
+      .cls-243 {
+        mask: url(#mask-11);
+      }
+
+      .cls-244 {
+        mask: url(#mask-48);
+      }
+
+      .cls-54 {
+        stroke-width: 2px;
+      }
+
+      .cls-245 {
+        mask: url(#mask-121);
+      }
+
+      .cls-246 {
+        filter: url(#luminosity-invert-25);
+      }
+
+      .cls-247 {
+        filter: url(#luminosity-invert-116);
+      }
+
+      .cls-248 {
+        mask: url(#mask-98);
+      }
+
+      .cls-249 {
+        filter: url(#luminosity-invert-147);
+      }
+
+      .cls-55 {
+        stroke-width: .5px;
+      }
+
+      .cls-250 {
+        filter: url(#luminosity-invert-37);
+      }
+
+      .cls-251 {
+        filter: url(#luminosity-invert-32);
+      }
+
+      .cls-252 {
+        filter: url(#luminosity-invert-129);
+      }
+
+      .cls-253 {
+        mask: url(#mask-12);
+      }
+
+      .cls-254 {
+        mask: url(#mask-44);
+      }
+
+      .cls-255 {
+        filter: url(#luminosity-invert-8);
+      }
+
+      .cls-256 {
+        fill: #efd39a;
+      }
+
+      .cls-257 {
+        mask: url(#mask-90);
+      }
+
+      .cls-258 {
+        mask: url(#mask-85);
+      }
+
+      .cls-259 {
+        mask: url(#mask-69);
+      }
+
+      .cls-260 {
+        mask: url(#mask-60);
+      }
+
+      .cls-261 {
+        filter: url(#luminosity-invert-132);
+      }
+
+      .cls-262 {
+        mask: url(#mask-22);
+      }
+
+      .cls-263 {
+        filter: url(#luminosity-invert-102);
+      }
+
+      .cls-264 {
+        mask: url(#mask-75);
+      }
+
+      .cls-265 {
+        mask: url(#mask-145);
+      }
+
+      .cls-266 {
+        mask: url(#mask-45);
+      }
+
+      .cls-267 {
+        mask: url(#mask-99);
+      }
+
+      .cls-268 {
+        mask: url(#mask-4);
+      }
+
+      .cls-269 {
+        filter: url(#luminosity-invert-60);
+      }
+
+      .cls-270 {
+        mask: url(#mask-74);
+      }
+
+      .cls-271 {
+        filter: url(#luminosity-invert-114);
+      }
+
+      .cls-272 {
+        filter: url(#luminosity-invert-96);
+      }
+
+      .cls-273 {
+        filter: url(#luminosity-invert-19);
+      }
+
+      .cls-274 {
+        filter: url(#luminosity-invert-81);
+      }
+
+      .cls-275 {
+        mask: url(#mask-70);
+      }
+
+      .cls-276 {
+        mask: url(#mask-122);
+      }
+
+      .cls-277 {
+        mask: url(#mask-132);
+      }
+
+      .cls-278 {
+        filter: url(#luminosity-invert-2);
+      }
+
+      .cls-279 {
+        filter: url(#luminosity-invert-26);
+      }
+
+      .cls-280 {
+        mask: url(#mask-96);
+      }
+
+      .cls-281 {
+        filter: url(#luminosity-invert-140);
+      }
+
+      .cls-282 {
+        mask: url(#mask-52);
+      }
+
+      .cls-283 {
+        filter: url(#luminosity-invert);
+      }
+
+      .cls-284 {
+        mask: url(#mask-14);
+      }
+
+      .cls-285 {
+        mask: url(#mask-84);
+      }
+
+      .cls-286 {
+        mask: url(#mask-91);
+      }
+
+      .cls-287 {
+        filter: url(#luminosity-invert-123);
+      }
+
+      .cls-288 {
+        filter: url(#luminosity-invert-130);
+      }
+
+      .cls-289 {
+        filter: url(#luminosity-invert-67);
+      }
+
+      .cls-290 {
+        mask: url(#mask-114);
+      }
+
+      .cls-291 {
+        mask: url(#mask-140);
+      }
+
+      .cls-292 {
+        filter: url(#luminosity-invert-97);
+      }
+
+      .cls-293 {
+        filter: url(#luminosity-invert-115);
+      }
+
+      .cls-294 {
+        filter: url(#luminosity-invert-134);
+      }
+
+      .cls-295 {
+        mask: url(#mask-92);
+      }
+
+      .cls-296 {
+        filter: url(#luminosity-invert-28);
+      }
+
+      .cls-297 {
+        filter: url(#luminosity-invert-5);
+      }
+
+      .cls-298 {
+        mask: url(#mask-116);
+      }
+
+      .cls-299 {
+        mask: url(#mask-71);
+      }
+
+      .cls-300 {
+        filter: url(#luminosity-invert-139);
+      }
+
+      .cls-301 {
+        filter: url(#luminosity-invert-108);
+      }
+
+      .cls-302 {
+        mask: url(#mask-118);
+      }
+
+      .cls-303 {
+        filter: url(#luminosity-invert-107);
+      }
+
+      .cls-304 {
+        filter: url(#luminosity-invert-44);
+      }
+
+      .cls-305 {
+        mask: url(#mask-27);
+      }
+
+      .cls-306 {
+        filter: url(#luminosity-invert-98);
+      }
+
+      .cls-307 {
+        filter: url(#luminosity-invert-72);
+      }
+
+      .cls-308 {
+        filter: url(#luminosity-invert-83);
+      }
+
+      .cls-309 {
+        mask: url(#mask-86);
+      }
+
+      .cls-310 {
+        mask: url(#mask-40);
+      }
+
+      .cls-311 {
+        filter: url(#luminosity-invert-77);
+      }
+
+      .cls-312 {
+        mask: url(#mask-127);
+      }
+
+      .cls-313 {
+        filter: url(#luminosity-invert-143);
+      }
+
+      .cls-314 {
+        filter: url(#luminosity-invert-49);
+      }
+
+      .cls-315 {
+        mask: url(#mask-68);
+      }
+
+      .cls-316 {
+        mask: url(#mask-3);
+      }
+
+      .cls-317 {
+        mask: url(#mask-41);
+      }
+
+      .cls-318 {
+        filter: url(#luminosity-invert-76);
+      }
+
+      .cls-319 {
+        mask: url(#mask-108);
+      }
+
+      .cls-320 {
+        mask: url(#mask-82);
+      }
+
+      .cls-321 {
+        mask: url(#mask-125);
+      }
+
+      .cls-322 {
+        mask: url(#mask-131);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_190" data-name="未命名的渐变 190" x1="160.7" y1="433.97" x2="160.7" y2="33.56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffec00" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#212823" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <filter id="luminosity-invert" x="46.1" y="137.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask" x="46.1" y="137.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-283">
+        <use transform="translate(46.1 137.57)" xlink:href="#image-6"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-2" x="46.1" y="109.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-1" x="46.1" y="109.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-278">
+        <use transform="translate(46.1 109.57)" xlink:href="#image-11"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-3" x="26.1" y="137.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-2" x="26.1" y="137.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-33">
+        <use transform="translate(26.1 137.57)" xlink:href="#image-10"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-4" x="26.1" y="109.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-3" x="26.1" y="109.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-133">
+        <use transform="translate(26.1 109.57)" xlink:href="#image-21"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-5" x="34.1" y="114.57" width="14" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-4" x="34.1" y="114.57" width="14" height="27" maskUnits="userSpaceOnUse">
+      <g class="cls-297">
+        <image width="14" height="27" transform="translate(34.1 114.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAbCAYAAABMU775AAAACXBIWXMAAAsSAAALEgHS3X78AAAAbUlEQVQ4je2UzQrAMAiDk+D7P3FJdxvt3HaQUXqYN5XPH8QQQEfBVIEAIM4KEqTnOrZhO3d8A0mmXIyObbTW8lgRKVbecVOw93zqTUf9wa1Akos7fgpOry3p/tulSW8m8JoY7SpUAECs1tUyeAB6iR1K9hA2SAAAAABJRU5ErkJggg=="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-6" x="69.1" y="122.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-5" x="69.1" y="122.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-110">
+        <use transform="translate(69.1 122.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-7" x="85.1" y="122.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-6" x="85.1" y="122.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-176">
+        <use transform="translate(85.1 122.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-8" x="101.1" y="122.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-7" x="101.1" y="122.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-255">
+        <use transform="translate(101.1 122.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-9" x="117.1" y="122.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-8" x="117.1" y="122.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-160">
+        <use transform="translate(117.1 122.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-10" x="133.1" y="122.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-9" x="133.1" y="122.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-184">
+        <use transform="translate(133.1 122.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-11" x="73.1" y="140.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-10" x="73.1" y="140.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-215">
+        <use transform="translate(73.1 140.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-12" x="89.1" y="140.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-11" x="89.1" y="140.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-72">
+        <use transform="translate(89.1 140.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-13" x="106.1" y="140.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-12" x="106.1" y="140.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-127">
+        <use transform="translate(106.1 140.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-14" x="122.1" y="140.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-13" x="122.1" y="140.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-83">
+        <use transform="translate(122.1 140.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-15" x="138.1" y="140.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-14" x="138.1" y="140.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-124">
+        <use transform="translate(138.1 140.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-16" x="46.1" y="199.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-15" x="46.1" y="199.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-116">
+        <use transform="translate(46.1 199.57)" xlink:href="#image-6"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-17" x="46.1" y="172.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-16" x="46.1" y="172.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-14">
+        <use transform="translate(46.1 172.57)" xlink:href="#image-11"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-18" x="26.1" y="199.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-17" x="26.1" y="199.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-172">
+        <use transform="translate(26.1 199.57)" xlink:href="#image-10"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-19" x="26.1" y="172.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-18" x="26.1" y="172.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-273">
+        <use transform="translate(26.1 172.57)" xlink:href="#image-21"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-20" x="74.1" y="185.57" width="9" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-19" x="74.1" y="185.57" width="9" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-139">
+        <use transform="translate(74.1 185.57)" xlink:href="#image-9"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-21" x="85.1" y="185.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-20" x="85.1" y="185.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-82">
+        <use transform="translate(85.1 185.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-22" x="101.1" y="185.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-21" x="101.1" y="185.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-23">
+        <use transform="translate(101.1 185.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-23" x="117.1" y="185.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-22" x="117.1" y="185.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-221">
+        <use transform="translate(117.1 185.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-24" x="133.1" y="185.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-23" x="133.1" y="185.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-141">
+        <use transform="translate(133.1 185.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-25" x="89.1" y="203.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-24" x="89.1" y="203.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-246">
+        <use transform="translate(89.1 203.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-26" x="106.1" y="203.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-25" x="106.1" y="203.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-279">
+        <use transform="translate(106.1 203.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-27" x="122.1" y="203.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-26" x="122.1" y="203.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-151">
+        <use transform="translate(122.1 203.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-28" x="138.1" y="203.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-27" x="138.1" y="203.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-296">
+        <use transform="translate(138.1 203.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-29" x="75.1" y="203.57" width="7" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-28" x="75.1" y="203.57" width="7" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-180">
+        <use transform="translate(75.1 203.57)" xlink:href="#image-15"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-30" x="37.1" y="177.57" width="8" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-29" x="37.1" y="177.57" width="8" height="27" maskUnits="userSpaceOnUse">
+      <g class="cls-29">
+        <image width="8" height="27" transform="translate(37.1 177.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAbCAYAAABBTc6+AAAACXBIWXMAAAsSAAALEgHS3X78AAAAYElEQVQoke3TwQrAIAwD0CTt//+xdqfJXK0w8LiAIPhML0oAgU20O0xAEiStgZnB3WsgCWYGkjXYjgCQbk+A5Fhlwyo/OA4iAhH59aWGN5oaeu/fgd+b1tpAzxBH/8UqF2ayJlnE2zILAAAAAElFTkSuQmCC"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-31" x="46.1" y="262.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-30" x="46.1" y="262.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-138">
+        <use transform="translate(46.1 262.57)" xlink:href="#image-6"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-32" x="46.1" y="235.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-31" x="46.1" y="235.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-251">
+        <use transform="translate(46.1 235.57)" xlink:href="#image-11"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-33" x="26.1" y="262.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-32" x="26.1" y="262.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-108">
+        <use transform="translate(26.1 262.57)" xlink:href="#image-10"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-34" x="26.1" y="235.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-33" x="26.1" y="235.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-6">
+        <use transform="translate(26.1 235.57)" xlink:href="#image-21"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-35" x="101.1" y="248.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-34" x="101.1" y="248.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-85">
+        <use transform="translate(101.1 248.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-36" x="117.1" y="248.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-35" x="117.1" y="248.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-1">
+        <use transform="translate(117.1 248.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-37" x="133.1" y="248.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-36" x="133.1" y="248.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-250">
+        <use transform="translate(133.1 248.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-38" x="106.1" y="266.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-37" x="106.1" y="266.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-235">
+        <use transform="translate(106.1 266.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-39" x="122.1" y="266.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-38" x="122.1" y="266.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-174">
+        <use transform="translate(122.1 266.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-40" x="138.1" y="266.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-39" x="138.1" y="266.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-130">
+        <use transform="translate(138.1 266.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-41" x="34.1" y="240.57" width="14" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-40" x="34.1" y="240.57" width="14" height="27" maskUnits="userSpaceOnUse">
+      <g class="cls-20">
+        <image width="14" height="27" transform="translate(34.1 240.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAbCAYAAABMU775AAAACXBIWXMAAAsSAAALEgHS3X78AAAA70lEQVQ4jb2UyxKDMAhFLy///39NoIsOqWmoOi6ajTKTA9zwIACBB4efQACg+SMiYP74iQgQ0bDdHb33NSIzY9s2qL59JWRmMLPJ6RSRmUFEiAjs+z4uiAhUdQEnKyIQsb4VEU1pT2BCFVidAbo73P02ODS6O1prcPflUpXJBFbQES5TLdNRhYiUTk9BEQEA9N7RWrsHHqMdO+YSzILno90CVXW0XhXtJ5jaWmtltBLMvoyI0/IsYDb7L20leEdbCYoIiOhU2wJm3a60LWDO3JW2EehoRASYGWY2mjq/3yM3TUeujO9JKLcC/r1XH4MvGVieOSba9iYAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-42" x="46.1" y="325.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-41" x="46.1" y="325.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-171">
+        <use transform="translate(46.1 325.57)" xlink:href="#image-6"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-43" x="46.1" y="297.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-42" x="46.1" y="297.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-179">
+        <use transform="translate(46.1 297.57)" xlink:href="#image-11"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-44" x="26.1" y="325.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-43" x="26.1" y="325.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-304">
+        <use transform="translate(26.1 325.57)" xlink:href="#image-10"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-45" x="26.1" y="297.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-44" x="26.1" y="297.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-152">
+        <use transform="translate(26.1 297.57)" xlink:href="#image-21"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-46" x="117.1" y="311.57" width="19" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-45" x="117.1" y="311.57" width="19" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-63">
+        <use transform="translate(117.1 311.57)" xlink:href="#image-19"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-47" x="133.1" y="311.57" width="19" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-46" x="133.1" y="311.57" width="19" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-167">
+        <use transform="translate(133.1 311.57)" xlink:href="#image-19"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-48" x="121.69" y="328.68" width="10" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-47" x="121.69" y="328.68" width="10" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-236">
+        <use transform="translate(121.69 328.68)" xlink:href="#image-18"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-49" x="137.69" y="328.68" width="10" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-48" x="137.69" y="328.68" width="10" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-314">
+        <use transform="translate(137.69 328.68)" xlink:href="#image-18"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-50" x="34.1" y="303.57" width="14" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-49" x="34.1" y="303.57" width="14" height="27" maskUnits="userSpaceOnUse">
+      <g class="cls-197">
+        <image width="14" height="27" transform="translate(34.1 303.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAbCAYAAABMU775AAAACXBIWXMAAAsSAAALEgHS3X78AAAA9UlEQVQ4jbWT646EMAiFD9fE939aFcv80p0u7axjsiQmKv04lAsBSDwwfgIBgF4RmMHcxyGi6721huM4quIIBAAzg5kVn75/tNYQEd0BEYGqFvDWHYmoS7tTzPyuuJ3iDP6t1im21m5DHThSc3e4+9A/LY6ZYVkWiEjp4RRUVSzLAndHZmJd19KmAhIRVBUiAgCICGzbVoIXMDMREdcjIjCzAhIm26GqMDO4OyKipKsj6EzxPPhx5EZjdaZ++ofgbDveAw/Bb+2642y0ZvZY8RaYmWVWu3YwM1R/fhERmBmZWbbn41plJvZ9H/qnk/OX/W9xRvYCk9tpvls560UAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-51" x="46.1" y="388.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-50" x="46.1" y="388.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-217">
+        <use transform="translate(46.1 388.57)" xlink:href="#image-6"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-52" x="46.1" y="360.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-51" x="46.1" y="360.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-70">
+        <use transform="translate(46.1 360.57)" xlink:href="#image-11"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-53" x="26.1" y="388.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-52" x="26.1" y="388.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-112">
+        <use transform="translate(26.1 388.57)" xlink:href="#image-10"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-54" x="26.1" y="360.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-53" x="26.1" y="360.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-37">
+        <use transform="translate(26.1 360.57)" xlink:href="#image-21"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-55" x="133.1" y="374.57" width="19" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-54" x="133.1" y="374.57" width="19" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-164">
+        <use transform="translate(133.1 374.57)" xlink:href="#image-19"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-56" x="138.1" y="391.57" width="10" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-55" x="138.1" y="391.57" width="10" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-161">
+        <use transform="translate(138.1 391.57)" xlink:href="#image-16"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-57" x="33.1" y="366.57" width="15" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-56" x="33.1" y="366.57" width="15" height="27" maskUnits="userSpaceOnUse">
+      <g class="cls-109">
+        <image width="15" height="27" transform="translate(33.1 366.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAbCAYAAACjkdXHAAAACXBIWXMAAAsSAAALEgHS3X78AAABCElEQVQ4jcWUQZKDMAwEW5LNgf9/Nokk52QXLAY22cOqigtUz4wkYwEaX5Z+CwKUU1VVVJXWGplJa8eAp85mRillCEwN7pyvavq1lIKZAZy6nsLdNTNx989hEbl0hcm0e+QO1loBiAgy89q5u7o7j8cDEdnN4BbuuwUQkSF4CW/3+jEsIogIEXGY8i1sZmQmEXFoZVbj7Tby1rWnmTmPVanqdKKlFGqthzRTuJQyXMyMdV1HO7VWXq/XEc5MMhMzY1mWsd8uZmaY2RyOiHEo+tPnoKq4+yH6Dp711VpjWRaez+fOdQeflbujqlPh2zus7/3nT/Fr2N2n8G3siNid9W0J/3Vv/wl+AzkIlcBSxT3sAAAAAElFTkSuQmCC"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-58" x="192.1" y="199.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-57" x="192.1" y="199.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-69">
+        <use transform="translate(192.1 199.57)" xlink:href="#image-6"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-59" x="192.1" y="172.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-58" x="192.1" y="172.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-47">
+        <use transform="translate(192.1 172.57)" xlink:href="#image-11"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-60" x="172.1" y="199.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-59" x="172.1" y="199.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-269">
+        <use transform="translate(172.1 199.57)" xlink:href="#image-10"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-61" x="172.1" y="172.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-60" x="172.1" y="172.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-189">
+        <use transform="translate(172.1 172.57)" xlink:href="#image-21"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-62" x="215.1" y="185.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-61" x="215.1" y="185.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-2">
+        <use transform="translate(215.1 185.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-63" x="219.1" y="203.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-62" x="219.1" y="203.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-123">
+        <use transform="translate(219.1 203.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-64" x="235.1" y="185.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-63" x="235.1" y="185.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-132">
+        <use transform="translate(235.1 185.57)" xlink:href="#image-14"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-65" x="237.1" y="203.57" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-64" x="237.1" y="203.57" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-97">
+        <use transform="translate(237.1 203.57)" xlink:href="#image-17"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-66" x="252.1" y="185.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-65" x="252.1" y="185.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-84">
+        <use transform="translate(252.1 185.57)" xlink:href="#image-14"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-67" x="254.1" y="203.57" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-66" x="254.1" y="203.57" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-289">
+        <use transform="translate(254.1 203.57)" xlink:href="#image-17"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-68" x="268.1" y="185.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-67" x="268.1" y="185.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-41">
+        <use transform="translate(268.1 185.57)" xlink:href="#image-14"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-69" x="270.1" y="203.57" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-68" x="270.1" y="203.57" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-34">
+        <use transform="translate(270.1 203.57)" xlink:href="#image-17"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-70" x="284.1" y="185.57" width="9" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-69" x="284.1" y="185.57" width="9" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-162">
+        <use transform="translate(284.1 185.57)" xlink:href="#image-9"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-71" x="285.1" y="203.57" width="7" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-70" x="285.1" y="203.57" width="7" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-194">
+        <use transform="translate(285.1 203.57)" xlink:href="#image-15"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-72" x="180.1" y="177.57" width="13" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-71" x="180.1" y="177.57" width="13" height="27" maskUnits="userSpaceOnUse">
+      <g class="cls-307">
+        <image width="13" height="27" transform="translate(180.1 177.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAbCAYAAACnZAX6AAAACXBIWXMAAAsSAAALEgHS3X78AAAAzElEQVQ4jb2USxKEMAhEm5/3P66WCLNKJqg1ji5klarw0iENIQCJm8F3AQDQTjODuZ5BRH0dEdi2rSqdQQBgZjCzsqdjQkTA3QskIlDVonpZU2YiM59Bmd9HvoQiAhFRIP2R3yF3R0Tcg0agQGOhV1EgM4OqlvsDgLsXKwrUPNmruzvmee5gz8jM3irNFyLCNE0QEYjIObQsC9Z1PdRgZqXmAp3F3iPg4Wj8Bb2n9B60H43SsMx86Ahm7sYfoH0nN4Vm9rhPeOvfewR9AE86gwZKfCMSAAAAAElFTkSuQmCC"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-73" x="192.1" y="137.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-72" x="192.1" y="137.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-131">
+        <use transform="translate(192.1 137.57)" xlink:href="#image-6"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-74" x="192.1" y="109.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-73" x="192.1" y="109.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-66">
+        <use transform="translate(192.1 109.57)" xlink:href="#image-11"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-75" x="172.1" y="137.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-74" x="172.1" y="137.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-190">
+        <use transform="translate(172.1 137.57)" xlink:href="#image-10"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-76" x="172.1" y="109.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-75" x="172.1" y="109.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-318">
+        <use transform="translate(172.1 109.57)" xlink:href="#image-21"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-77" x="220.1" y="122.57" width="9" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-76" x="220.1" y="122.57" width="9" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-311">
+        <use transform="translate(220.1 122.57)" xlink:href="#image-9"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-78" x="221.1" y="140.57" width="7" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-77" x="221.1" y="140.57" width="7" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-43">
+        <use transform="translate(221.1 140.57)" xlink:href="#image-15"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-79" x="235.1" y="122.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-78" x="235.1" y="122.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-32">
+        <use transform="translate(235.1 122.57)" xlink:href="#image-14"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-80" x="237.1" y="140.57" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-79" x="237.1" y="140.57" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-99">
+        <use transform="translate(237.1 140.57)" xlink:href="#image-17"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-81" x="252.1" y="122.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-80" x="252.1" y="122.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-274">
+        <use transform="translate(252.1 122.57)" xlink:href="#image-14"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-82" x="254.1" y="140.57" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-81" x="254.1" y="140.57" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-212">
+        <use transform="translate(254.1 140.57)" xlink:href="#image-17"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-83" x="268.1" y="122.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-82" x="268.1" y="122.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-308">
+        <use transform="translate(268.1 122.57)" xlink:href="#image-14"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-84" x="270.1" y="140.57" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-83" x="270.1" y="140.57" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-204">
+        <use transform="translate(270.1 140.57)" xlink:href="#image-17"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-85" x="284.1" y="122.57" width="9" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-84" x="284.1" y="122.57" width="9" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-202">
+        <use transform="translate(284.1 122.57)" xlink:href="#image-9"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-86" x="285.1" y="140.57" width="7" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-85" x="285.1" y="140.57" width="7" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-241">
+        <use transform="translate(285.1 140.57)" xlink:href="#image-15"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-87" x="181.1" y="114.57" width="13" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-86" x="181.1" y="114.57" width="13" height="27" maskUnits="userSpaceOnUse">
+      <g class="cls-4">
+        <image width="13" height="27" transform="translate(181.1 114.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAbCAYAAACnZAX6AAAACXBIWXMAAAsSAAALEgHS3X78AAAAwElEQVQ4jcVSQQ6DMAxz3MD//1s12WFrCDCxlkmbT1GL7RJbADgmwVkCAGgfSikgnxrum3mfzSzmcCKJdV2hqhCRnXIW2TmRhIjA3VFrvXxeOInIyeEjaQbfkY4/O+w0Sozt9RxIYlmW04dmhtYaAEDwqlEON6ML1FojinBqrYVSRikFqroTHNreMcM/5HSrRiTfbu+SNINY+ejTbjsNkdx910vNlyShuh2JCEjC3WFmZ1I+zA69b/k+CjuD39XoAToYTmnrie8BAAAAAElFTkSuQmCC"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-88" x="192.1" y="262.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-87" x="192.1" y="262.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-12">
+        <use transform="translate(192.1 262.57)" xlink:href="#image-6"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-89" x="192.1" y="235.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-88" x="192.1" y="235.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-198">
+        <use transform="translate(192.1 235.57)" xlink:href="#image-11"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-90" x="172.1" y="262.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-89" x="172.1" y="262.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-218">
+        <use transform="translate(172.1 262.57)" xlink:href="#image-10"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-91" x="172.1" y="235.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-90" x="172.1" y="235.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-231">
+        <use transform="translate(172.1 235.57)" xlink:href="#image-21"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-92" x="215.1" y="248.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-91" x="215.1" y="248.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-137">
+        <use transform="translate(215.1 248.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-93" x="230.1" y="248.57" width="19" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-92" x="230.1" y="248.57" width="19" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-136">
+        <use transform="translate(230.1 248.57)" xlink:href="#image-8"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-94" x="219.1" y="266.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-93" x="219.1" y="266.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-229">
+        <use transform="translate(219.1 266.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-95" x="235.1" y="266.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-94" x="235.1" y="266.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-129">
+        <use transform="translate(235.1 266.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-96" x="252.31" y="248.29" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-95" x="252.31" y="248.29" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-272">
+        <use transform="translate(252.31 248.29)" xlink:href="#image-13"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-97" x="254.31" y="266.29" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-96" x="254.31" y="266.29" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-292">
+        <use transform="translate(254.31 266.29)" xlink:href="#image-12"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-98" x="267.98" y="248.29" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-97" x="267.98" y="248.29" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-306">
+        <use transform="translate(267.98 248.29)" xlink:href="#image-2"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-99" x="269.98" y="266.29" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-98" x="269.98" y="266.29" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-177">
+        <use transform="translate(269.98 266.29)" xlink:href="#image"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-100" x="283.65" y="248.29" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-99" x="283.65" y="248.29" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-92">
+        <use transform="translate(283.65 248.29)" xlink:href="#image-2"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-101" x="285.65" y="266.29" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-100" x="285.65" y="266.29" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-140">
+        <use transform="translate(285.65 266.29)" xlink:href="#image"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-102" x="180.1" y="240.57" width="14" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-101" x="180.1" y="240.57" width="14" height="27" maskUnits="userSpaceOnUse">
+      <g class="cls-263">
+        <image width="14" height="27" transform="translate(180.1 240.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAbCAYAAABMU775AAAACXBIWXMAAAsSAAALEgHS3X78AAAAxElEQVQ4jb2UQQ7DMAgEB8z/XxyghypRnYDT5lBOlvDghZURIHkQ+gQCsKOCKqpzHRE5zu5ORPTgZxLA7LhSg3ti27YJHGNclExgZj2jzCQzr0oqGefXIgJ3n3KHhr3yNzInsAoRmSb7Ewh1Gy1oZowxyhaWoKoiIrj7xaIluMvsbFr22Mm8BSOiHEwLfhpf9XcLrqLMroy/BaGfaAmaGWZW/oglqKpkZmt8C3b/7xaEt3+r/uC0OuC9lL55Ufj3Xn0MvgAinn0YdjsHZgAAAABJRU5ErkJggg=="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-103" x="192.1" y="325.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-102" x="192.1" y="325.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-225">
+        <use transform="translate(192.1 325.57)" xlink:href="#image-6"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-104" x="192.1" y="297.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-103" x="192.1" y="297.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-158">
+        <use transform="translate(192.1 297.57)" xlink:href="#image-11"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-105" x="172.1" y="325.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-104" x="172.1" y="325.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-239">
+        <use transform="translate(172.1 325.57)" xlink:href="#image-10"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-106" x="172.1" y="297.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-105" x="172.1" y="297.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-79">
+        <use transform="translate(172.1 297.57)" xlink:href="#image-21"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-107" x="215.1" y="311.57" width="19" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-106" x="215.1" y="311.57" width="19" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-303">
+        <use transform="translate(215.1 311.57)" xlink:href="#image-19"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-108" x="230.1" y="311.57" width="19" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-107" x="230.1" y="311.57" width="19" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-301">
+        <use transform="translate(230.1 311.57)" xlink:href="#image-19"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-109" x="247.1" y="311.57" width="19" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-108" x="247.1" y="311.57" width="19" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-210">
+        <use transform="translate(247.1 311.57)" xlink:href="#image-19"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-110" x="219.1" y="329.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-109" x="219.1" y="329.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-49">
+        <use transform="translate(219.1 329.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-111" x="235.1" y="329.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-110" x="235.1" y="329.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-38">
+        <use transform="translate(235.1 329.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-112" x="252.1" y="329.57" width="10" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-111" x="252.1" y="329.57" width="10" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-27">
+        <use transform="translate(252.1 329.57)" xlink:href="#image-4"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-113" x="283.65" y="311.16" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-112" x="283.65" y="311.16" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-157">
+        <use transform="translate(283.65 311.16)" xlink:href="#image-2"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-114" x="285.65" y="329.16" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-113" x="285.65" y="329.16" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-271">
+        <use transform="translate(285.65 329.16)" xlink:href="#image"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-115" x="268.44" y="311.16" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-114" x="268.44" y="311.16" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-293">
+        <use transform="translate(268.44 311.16)" xlink:href="#image-13"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-116" x="270.44" y="329.16" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-115" x="270.44" y="329.16" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-247">
+        <use transform="translate(270.44 329.16)" xlink:href="#image-12"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-117" x="180.1" y="303.57" width="14" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-116" x="180.1" y="303.57" width="14" height="27" maskUnits="userSpaceOnUse">
+      <g class="cls-193">
+        <image width="14" height="27" transform="translate(180.1 303.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAbCAYAAABMU775AAAACXBIWXMAAAsSAAALEgHS3X78AAAA/klEQVQ4jb2U2XLDIAwAVyDj4/8/FkcG9aFjtw6kSd1p9MS1upEAzgUJVyAAPTSEQAhnPSJyrGutlFJaiz0QYBgGhmFo7vT7ptbKtm2nBzFGVLUBX4pRRE5uvwz25O9ZvXflV2CMEQAzewoerooIKSWWZSGlBHyVAj4z3rVYa0VEGMcRVcXMiDHi7uScH4NmRinlsKyq1FrJOZNzfhzjXmQzw90ppRBCQFWZpulQ3E2OmbGuK6UUzIyUEvM8k1JqevUA3R0zO2X0drsRY+z26mnn3n7N3lkDPpIe/P5e/V/Q3Zs4TxNgL/guIkIIAXf/uVd7lva63t8L756rl8EPteOAfxSuSEoAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-118" x="192.1" y="388.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-117" x="192.1" y="388.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-65">
+        <use transform="translate(192.1 388.57)" xlink:href="#image-6"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-119" x="192.1" y="360.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-118" x="192.1" y="360.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-154">
+        <use transform="translate(192.1 360.57)" xlink:href="#image-11"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-120" x="172.1" y="388.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-119" x="172.1" y="388.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-24">
+        <use transform="translate(172.1 388.57)" xlink:href="#image-10"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-121" x="172.1" y="360.57" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-120" x="172.1" y="360.57" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-242">
+        <use transform="translate(172.1 360.57)" xlink:href="#image-21"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-122" x="215.1" y="374.57" width="19" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-121" x="215.1" y="374.57" width="19" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-13">
+        <use transform="translate(215.1 374.57)" xlink:href="#image-19"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-123" x="230.1" y="374.57" width="19" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-122" x="230.1" y="374.57" width="19" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-287">
+        <use transform="translate(230.1 374.57)" xlink:href="#image-19"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-124" x="247.1" y="374.57" width="19" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-123" x="247.1" y="374.57" width="19" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-214">
+        <use transform="translate(247.1 374.57)" xlink:href="#image-19"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-125" x="263.1" y="374.57" width="19" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-124" x="263.1" y="374.57" width="19" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-240">
+        <use transform="translate(263.1 374.57)" xlink:href="#image-19"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-126" x="219.1" y="391.57" width="10" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-125" x="219.1" y="391.57" width="10" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-166">
+        <use transform="translate(219.1 391.57)" xlink:href="#image-16"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-127" x="235.1" y="391.57" width="10" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-126" x="235.1" y="391.57" width="10" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-186">
+        <use transform="translate(235.1 391.57)" xlink:href="#image-16"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-128" x="252.1" y="391.57" width="10" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-127" x="252.1" y="391.57" width="10" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-163">
+        <use transform="translate(252.1 391.57)" xlink:href="#image-16"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-129" x="268.1" y="391.57" width="10" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-128" x="268.1" y="391.57" width="10" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-252">
+        <use transform="translate(268.1 391.57)" xlink:href="#image-16"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-130" x="283.65" y="374.02" width="10" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-129" x="283.65" y="374.02" width="10" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-288">
+        <image width="10" height="10" transform="translate(283.65 374.02)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALCAYAAACprHcmAAAACXBIWXMAAAsSAAALEgHS3X78AAAAYElEQVQYlZWQMQ7AIAwDTdyB/7+WITYdKqoytIXbIp0TKwUXHQvEijQ4ngNJkEREwDYkQdK7XGsFSUhCa22SpxoRcW8upXzXGKdtIzNhe5JHvD87j2Bmvst/bL1uS97iBHHIKgYpI8t4AAAAAElFTkSuQmCC"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-131" x="285.65" y="392.02" width="6" height="6" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-130" x="285.65" y="392.02" width="6" height="6" maskUnits="userSpaceOnUse">
+      <g class="cls-148">
+        <image width="6" height="6" transform="translate(285.65 392.02)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAAsSAAALEgHS3X78AAAAJElEQVQImWNkgID/DFgAEzZBrJKMjIwMjIyMxOmEKSPdTrwAABnKAg/6ffSGAAAAAElFTkSuQmCC"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-132" x="180.1" y="366.57" width="14" height="27" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-131" x="180.1" y="366.57" width="14" height="27" maskUnits="userSpaceOnUse">
+      <g class="cls-261">
+        <image width="14" height="27" transform="translate(180.1 366.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAbCAYAAABMU775AAAACXBIWXMAAAsSAAALEgHS3X78AAAA40lEQVQ4jb2UyQ7DMAhEh+2Q///dmOmlduOapIvUcrKFH+ABIQCIL0y/gQDARwRVqM5xRGScMxOttTVjBQJARCAiFp8fL5mJfd+nB2YGd1/At/4oIlPZb4OV/RZ8LvO3GSthFrB8cO/vs8+PkLvDzMbdzLBtWxl0gJkJknB3iAhUdTQ/M8/BPoeZOUrrFYgISNZgh4+DDAAkEREL+FLV1tr4RgmqajnMJBdoArsQXdVXNsCuZNXLy4x9QirwMmOPepbxtB3doaqIiEdkVZBEZk6g4L4ezWxSlOTlshrgp/b/1XEDdXJbOCWYvhQAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-133" x="87.69" y="248.68" width="9" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-132" x="87.69" y="248.68" width="9" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-81">
+        <image width="9" height="10" transform="translate(87.69 248.68)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAACXBIWXMAAAsSAAALEgHS3X78AAAAX0lEQVQYlY2QMQ7AMAgDHdwh/39tBux0qBK1UtvkNsSBEQUXHQtiJQyOe0ESJBERsA1JkPQu1lpBEpLQWpviIzoi5sZSynf0iLONzITt2Rtj/X7jGMrMd/GP7fdsi9uc3DkqBrtOv/gAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-134" x="88.69" y="265.68" width="7" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-133" x="88.69" y="265.68" width="7" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-294">
+        <use transform="translate(88.69 265.68)" xlink:href="#image-20"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-135" x="74.1" y="248.57" width="9" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-134" x="74.1" y="248.57" width="9" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-144">
+        <use transform="translate(74.1 248.57)" xlink:href="#image-9"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-136" x="75.1" y="265.57" width="7" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-135" x="75.1" y="265.57" width="7" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-224">
+        <use transform="translate(75.1 265.57)" xlink:href="#image-5"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-137" x="103.69" y="311.68" width="9" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-136" x="103.69" y="311.68" width="9" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-25">
+        <use transform="translate(103.69 311.68)" xlink:href="#image-7"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-138" x="104.69" y="328.68" width="7" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-137" x="104.69" y="328.68" width="7" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-96">
+        <use transform="translate(104.69 328.68)" xlink:href="#image-20"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-139" x="88.25" y="311.45" width="9" height="10" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-138" x="88.25" y="311.45" width="9" height="10" maskUnits="userSpaceOnUse">
+      <g class="cls-300">
+        <image width="9" height="10" transform="translate(88.25 311.45)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAABGbhwYAAAACXBIWXMAAAsSAAALEgHS3X78AAAAXklEQVQYla2QsQ6AQAxCaXG4///aGwq6eCaXaNLBTh0eUAo0JwCcHS67jsdaSIIkMhO2IQmS3sExBkhCEuacG/hEZ+bjGBHf0SvONqoKtvc2uFuvG5eoqjbu//e0wQvLCyoJSnbXQAAAAABJRU5ErkJggg=="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-140" x="89.25" y="328.45" width="7" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-139" x="89.25" y="328.45" width="7" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-281">
+        <image width="7" height="7" transform="translate(89.25 328.45)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAACXBIWXMAAAsSAAALEgHS3X78AAAAJklEQVQYlWNgIAAYGRgY/uOTZyJkAlwBIyMjAyMjI24FdHADLgAATGMCE2BkijEAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-141" x="73.69" y="311.68" width="9" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-140" x="73.69" y="311.68" width="9" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-143">
+        <use transform="translate(73.69 311.68)" xlink:href="#image-7"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-142" x="74.69" y="328.68" width="7" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-141" x="74.69" y="328.68" width="7" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-7">
+        <use transform="translate(74.69 328.68)" xlink:href="#image-20"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-143" x="120.1" y="374.57" width="10" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-142" x="120.1" y="374.57" width="10" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-313">
+        <use transform="translate(120.1 374.57)" xlink:href="#image-3"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-144" x="122.1" y="391.57" width="6" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-143" x="122.1" y="391.57" width="6" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-26">
+        <image width="6" height="7" transform="translate(122.1 391.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAHCAYAAAArkDztAAAACXBIWXMAAAsSAAALEgHS3X78AAAAI0lEQVQImWNkYGD4z4AFMGETRJFgZGRkYGRkJKyDkXw70AEA+OECEefjMYMAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-145" x="106.1" y="374.57" width="9" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-144" x="106.1" y="374.57" width="9" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-120">
+        <image width="9" height="9" transform="translate(106.1 374.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAACXBIWXMAAAsSAAALEgHS3X78AAAAWElEQVQYlaWQIRLEQAgEG4jY/792BTMXxZqkKuJQiB4aCODHR+UXAHBNU1VUFZmJbSQh6QmttagqJLH3PtDRZeaZFBHvulHYpruxfaCY62anCXT3E/r7BTfIASoErGkYAgAAAABJRU5ErkJggg=="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-146" x="107.1" y="391.57" width="7" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-145" x="107.1" y="391.57" width="7" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-150">
+        <use transform="translate(107.1 391.57)" xlink:href="#image-5"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-147" x="88.69" y="374.68" width="9" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-146" x="88.69" y="374.68" width="9" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-249">
+        <use transform="translate(88.69 374.68)" xlink:href="#image-7"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-148" x="89.69" y="391.68" width="7" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-147" x="89.69" y="391.68" width="7" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-98">
+        <use transform="translate(89.69 391.68)" xlink:href="#image-20"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-149" x="73.1" y="374.57" width="10" height="9" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-148" x="73.1" y="374.57" width="10" height="9" maskUnits="userSpaceOnUse">
+      <g class="cls-195">
+        <use transform="translate(73.1 374.57)" xlink:href="#image-3"/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-150" x="75.1" y="391.57" width="7" height="7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-149" x="75.1" y="391.57" width="7" height="7" maskUnits="userSpaceOnUse">
+      <g class="cls-77">
+        <use transform="translate(75.1 391.57)" xlink:href="#image-5"/>
+      </g>
+    </mask>
+    <image id="image" width="6" height="6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAAsSAAALEgHS3X78AAAAIklEQVQImWNgwAMYofR/bJJM+HSiSDIyMjIwMjJil6SenQDeJQIPjjvLEQAAAABJRU5ErkJggg=="/>
+    <image id="image-2" width="10" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALCAYAAACprHcmAAAACXBIWXMAAAsSAAALEgHS3X78AAAAYUlEQVQYlZWQwQqAMAxDs8bD/v9rd2iiFydWEF0upfCahgALaufc/8Cx4rzdF5IgiYiAbUiCpHe49w6SkIQxRoFLjIi4nFtreKo4z9e2kZmwXeDSxsw8DzPzHf7SUnVL8AEOfioGa8VI7AAAAABJRU5ErkJggg=="/>
+    <image id="image-3" width="10" height="9" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAJCAYAAAALpr0TAAAACXBIWXMAAAsSAAALEgHS3X78AAAAXElEQVQYlY2QMQ7EMAgEB7jC/3+tC3bvmnMkS4nirSgGBgjgy0HyBAL4rKKqqCoyE9tIQtI9OMagqpDEnHMDL3VmXhMj4lm9dLbpbmxvYPC/eu24mrr7HnzL8Xt+DVEqBOhcuGoAAAAASUVORK5CYII="/>
+    <image id="image-4" width="10" height="6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAGCAYAAAD68A/GAAAACXBIWXMAAAsSAAALEgHS3X78AAAAMElEQVQImWNkYGD4z0AEYCJGEQMDAwMLjMHIyMjAxATR9///fzjGaiKyBDpgpLobAWcKDghK+sCvAAAAAElFTkSuQmCC"/>
+    <image id="image-5" width="7" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAAsSAAALEgHS3X78AAAAI0lEQVQImWNkYGD4z4ADMOGSQJFkZGRkYGRkJF4nI+V2YgMAIhQCEaBUb+0AAAAASUVORK5CYII="/>
+    <image id="image-6" width="10" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsSAAALEgHS3X78AAAAK0lEQVQYlWNkYGD4z0AEYCJGEeUKGRkZqWgiNtMwFMIU/f+PGRCMDAMWPADLpwUXhIixKgAAAABJRU5ErkJggg=="/>
+    <image id="image-7" width="9" height="9" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsSAAALEgHS3X78AAAAXklEQVQYlY2QOw7AMAhDHdwh9z9tBux0qBKlUj95G+KBEQUXHT/EnzA41oIkSCIiYBuSIOlZrLWCJCShtTbFW3REzI2llPfoEWcbmQnbszfG+nrjGMrMZ/GL7fdscwIglyoE7fKSIgAAAABJRU5ErkJggg=="/>
+    <image id="image-8" width="19" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAKCAYAAABWiWWfAAAACXBIWXMAAAsSAAALEgHS3X78AAAAjElEQVQoka3Suw7DIAxA0WvjKBP//6cM4NhdWlSadqnwhIR18AMBkk2huyAAmwczjuPAzCilICKIyJKcmWQmEYG7M8ZgjPEdq7VynucCfmIvqPdOa43MxN1XTFUppczqzAxVvWHujogQEbf7ib2/mJlc13VLjoilxd77rApAeG7zn5n9xHbE1q+xFXsA2+Fl5O5fS00AAAAASUVORK5CYII="/>
+    <image id="image-9" width="9" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAKCAYAAABmBXS+AAAACXBIWXMAAAsSAAALEgHS3X78AAAAW0lEQVQYlaWQMQ7DQAgEB0hx/3/tFew6Fdc4kiOZimKWAQK4eKh8AgA+01QVVUVmYhtJSLpDay2qCknsvQ90dJl5JkXEb90obNPd2D5QzHWz0wS6+w69fsFf0BfbOSoG+lnYIAAAAABJRU5ErkJggg=="/>
+    <image id="image-10" width="10" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsSAAALEgHS3X78AAAAL0lEQVQYlWNkYGD4z0AEYCJGEXkKGRkZaWA1PlMZGZB8jazw////uBUSbTVVFAIAXq4GFbyPsRoAAAAASUVORK5CYII="/>
+    <image id="image-11" width="10" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsSAAALEgHS3X78AAAAKklEQVQYlWNkYGD4z0AEYCJGEYZCRkZGnAoZKbIam8nkuREfoMyNFCkEADtXAxXTgbLnAAAAAElFTkSuQmCC"/>
+    <image id="image-12" width="6" height="6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAACXBIWXMAAAsSAAALEgHS3X78AAAAJElEQVQImWNgwAMYGRgY/uOSY8KnEy7JyMjIwMjIiF2SunYCAOblAhHhPKBkAAAAAElFTkSuQmCC"/>
+    <image id="image-13" width="10" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAALCAYAAACprHcmAAAACXBIWXMAAAsSAAALEgHS3X78AAAAXklEQVQYlbWQMRaAMAxCSXDo/U/bIaCL7dKnzw5myvBDAGBjAsD5lc0d5WMsJEESmQnbkARJz3BrDSQhCb33BZ42MnMqR8S7jfHaNqoKtteEuNsYnsdhVS3sf9VtwRe4ryoJBc5xmAAAAABJRU5ErkJggg=="/>
+    <image id="image-14" width="10" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsSAAALEgHS3X78AAAAXklEQVQYlY2QMQ7EMAgEB7jC/3+tC3bvmnMkS4nirSgGBgjgy0HyBAL4rKKqqCoyE9tIQtI9OMagqpDEnHMDL3VmXhMj4lm9dLbpbmxvYPC/eu24mrr7HnzL8XuOwR/IoSoG2ys/KwAAAABJRU5ErkJggg=="/>
+    <image id="image-15" width="7" height="6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAGCAYAAAAPDoR2AAAACXBIWXMAAAsSAAALEgHS3X78AAAAIklEQVQImWNkYGD4z4ADMOGSQJFkZGRkYGRkJF4nI9l2AgDmGAIPdBBhpwAAAABJRU5ErkJggg=="/>
+    <image id="image-16" width="10" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAHCAYAAAAxrNxjAAAACXBIWXMAAAsSAAALEgHS3X78AAAAM0lEQVQYlWNkYGD4z0AEYCJGEQMDAwMLjMHIyMjAxATR9///fzjGaiKyBDpgpLobiVYIAKbCDgoUAX7QAAAAAElFTkSuQmCC"/>
+    <image id="image-17" width="6" height="6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAACXBIWXMAAAsSAAALEgHS3X78AAAAIUlEQVQImWNkYGD4z4AFMGETRJFgZGRkYGRkJKyDkWQ7AMU4Ag8Au8YTAAAAAElFTkSuQmCC"/>
+    <image id="image-18" width="10" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAICAYAAAAvOAWIAAAACXBIWXMAAAsSAAALEgHS3X78AAAANklEQVQYlWNkgID/DEQAJmIUwQALMoeRkZGBiQmi/////3CM02RkSXTACFNDjDNIcjNJikkCAPNpDgrDkKRIAAAAAElFTkSuQmCC"/>
+    <image id="image-19" width="19" height="9" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAJCAYAAADQHRcxAAAACXBIWXMAAAsSAAALEgHS3X78AAAAiklEQVQoka3Suw7DIAxA0WvjKFP+/08zgLG7tKiUdqnwhIR18AMBkk2huyAAGwczjuPAzCilICKIyJScmWQmEYG701qjtfYdu66L8zwn8BN7QbVW7vsmM3H3GVNVSimjOjNDVRfM3RERImK5H9j7i5lJ731JjoipxVrrqApAeG7zn5n9xHbE1q/xADSLZeIB2GcwAAAAAElFTkSuQmCC"/>
+    <image id="image-20" width="7" height="7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAACXBIWXMAAAsSAAALEgHS3X78AAAAJUlEQVQYlWNkgID/DDgAEy4JrAoYGRkZGBkZSTMBppxKbiALAACHWQIRKOL0xQAAAABJRU5ErkJggg=="/>
+    <image id="image-21" width="10" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAACXBIWXMAAAsSAAALEgHS3X78AAAALklEQVQYlWNkYGD4z0AEYCJGEVaFjIyMDIyMjBgKGUm2GpspeK2mWCHpbqSaQgA/BQMYj6iHIgAAAABJRU5ErkJggg=="/>
+  </defs>
+  <g class="cls-145">
+    <g id="_图层_2" data-name="图层 2">
+      <g id="_进入系统" data-name="进入系统">
+        <g>
+          <g>
+            <polygon class="cls-54" points="5.61 18.47 13.45 10.64 77.68 10.64 84.24 4.08 271.71 4.08 282.77 15.14 315.36 47.74 315.36 417.62 302.94 430.04 145.98 430.04 136.75 439.27 44.97 439.27 6.33 400.63 5.61 18.47"/>
+            <polygon class="cls-103" points="289.15 14.61 282.77 14.61 315.63 47.47 315.63 83.56 324.55 74.64 324.55 50.76 289.15 14.61"/>
+            <polyline class="cls-56" points="319.51 88.82 319.51 418.77 314.25 424.03"/>
+            <polyline class="cls-54" points="40.04 426.98 47.36 434.3 119.83 434.3"/>
+            <polygon class="cls-103" points="141.43 438.1 144.6 438.1 149.46 433.24 146.58 433.24 141.43 438.1"/>
+            <polygon class="cls-103" points="145.98 438.1 149.14 438.1 154.01 433.24 151.13 433.24 145.98 438.1"/>
+            <polygon class="cls-103" points="150.48 438.1 153.65 438.1 158.51 433.24 155.63 433.24 150.48 438.1"/>
+            <polygon class="cls-103" points="155.03 438.1 158.19 438.1 163.06 433.24 160.18 433.24 155.03 438.1"/>
+            <polygon class="cls-103" points="159.53 438.1 162.7 438.1 167.56 433.24 164.68 433.24 159.53 438.1"/>
+            <polygon class="cls-103" points="164.08 438.1 167.25 438.1 172.11 433.24 169.23 433.24 164.08 438.1"/>
+            <polygon class="cls-103" points="168.58 438.1 171.75 438.1 176.61 433.24 173.73 433.24 168.58 438.1"/>
+            <polygon class="cls-103" points="173.13 438.1 176.3 438.1 181.16 433.24 178.28 433.24 173.13 438.1"/>
+            <polygon class="cls-103" points="177.63 438.1 180.8 438.1 185.66 433.24 182.78 433.24 177.63 438.1"/>
+            <polygon class="cls-103" points="182.18 438.1 185.35 438.1 190.21 433.24 187.33 433.24 182.18 438.1"/>
+            <polygon class="cls-103" points="186.68 438.1 189.85 438.1 194.71 433.24 191.83 433.24 186.68 438.1"/>
+            <polygon class="cls-103" points="191.23 438.1 194.4 438.1 199.26 433.24 196.38 433.24 191.23 438.1"/>
+            <polygon class="cls-103" points="195.73 438.1 198.9 438.1 203.76 433.24 200.88 433.24 195.73 438.1"/>
+            <polygon class="cls-103" points="200.28 438.1 203.45 438.1 208.31 433.24 205.43 433.24 200.28 438.1"/>
+            <polygon class="cls-103" points="204.79 438.1 207.95 438.1 212.81 433.24 209.93 433.24 204.79 438.1"/>
+            <polygon class="cls-103" points="209.33 438.1 212.5 438.1 217.36 433.24 214.48 433.24 209.33 438.1"/>
+            <polygon class="cls-103" points="213.84 438.1 217 438.1 221.86 433.24 218.98 433.24 213.84 438.1"/>
+            <polygon class="cls-103" points="218.39 438.1 221.55 438.1 226.41 433.24 223.53 433.24 218.39 438.1"/>
+            <polygon class="cls-103" points="222.89 438.1 226.05 438.1 230.92 433.24 228.04 433.24 222.89 438.1"/>
+            <polygon class="cls-103" points="227.44 438.1 230.6 438.1 235.46 433.24 232.58 433.24 227.44 438.1"/>
+            <polygon class="cls-103" points="231.94 438.1 235.1 438.1 239.97 433.24 237.09 433.24 231.94 438.1"/>
+            <polygon class="cls-103" points="236.49 438.1 239.65 438.1 244.51 433.24 241.64 433.24 236.49 438.1"/>
+            <polygon class="cls-103" points="240.99 438.1 244.15 438.1 249.02 433.24 246.14 433.24 240.99 438.1"/>
+            <polygon class="cls-103" points="245.54 438.1 248.7 438.1 253.57 433.24 250.69 433.24 245.54 438.1"/>
+            <polygon class="cls-103" points="250.04 438.1 253.21 438.1 258.07 433.24 255.19 433.24 250.04 438.1"/>
+            <polygon class="cls-103" points="254.59 438.1 257.75 438.1 262.62 433.24 259.74 433.24 254.59 438.1"/>
+            <polygon class="cls-103" points="259.09 438.1 262.26 438.1 267.12 433.24 264.24 433.24 259.09 438.1"/>
+            <polygon class="cls-103" points="263.64 438.1 266.81 438.1 271.67 433.24 268.79 433.24 263.64 438.1"/>
+            <polygon class="cls-103" points="268.14 438.1 271.31 438.1 276.17 433.24 273.29 433.24 268.14 438.1"/>
+            <polygon class="cls-103" points="272.69 438.1 275.86 438.1 280.72 433.24 277.84 433.24 272.69 438.1"/>
+            <polygon class="cls-103" points="277.19 438.1 280.36 438.1 285.22 433.24 282.34 433.24 277.19 438.1"/>
+            <polygon class="cls-103" points="281.74 438.1 284.91 438.1 289.77 433.24 286.89 433.24 281.74 438.1"/>
+            <polygon class="cls-103" points="286.24 438.1 289.41 438.1 294.27 433.24 291.39 433.24 286.24 438.1"/>
+            <polygon class="cls-103" points="290.75 438.1 293.91 438.1 298.77 433.24 295.89 433.24 290.75 438.1"/>
+            <polygon class="cls-103" points="295.29 438.1 298.46 438.1 303.32 433.24 300.44 433.24 295.29 438.1"/>
+            <polyline class="cls-56" points="76.1 6.75 82.36 .5 245.88 .5"/>
+            <path class="cls-103" d="M44.49,439.75l-39.11-39.11V32.97l-2.78,2.78.25,21.55-2.85,2.85v339.06l13.67,13.67v8.56l20.97,20.97h53.9l2.66-2.66h-46.7ZM19.11,422.45h-1.68v-6.48h1.68v6.48ZM22.57,425.7h-1.68v-6.48h1.68v6.48ZM26.03,429.67h-1.68v-6.48h1.68v6.48ZM29.49,432.92h-1.68v-6.48h1.68v6.48ZM32.64,436.59h-1.68v-6.48h1.68v6.48ZM36.1,439.83h-1.68v-6.48h1.68v6.48Z"/>
+            <polygon class="cls-53" points="10.75 40.67 10.75 397.31 47.41 433.97 135.06 433.97 143.4 425.63 300.87 425.63 310.65 415.86 310.65 50.81 293.39 33.56 273.02 53.93 186.3 53.93 175.03 42.65 61.88 42.65 55.2 49.33 20.54 49.33 10.75 40.67"/>
+            <polyline class="cls-54" points="292.84 425.63 300.87 425.63 310.65 415.86 310.65 407.51"/>
+            <polyline class="cls-54" points="180.03 47.66 186.3 53.93 264.71 53.93"/>
+            <g>
+              <path class="cls-103" d="M258.15,27.01v5.13c0,.52.25.79.76.79.12,0,.63-.04,1.54-.12v-6.61h-1.5c-.54,0-.81.27-.81.81Z"/>
+              <rect class="cls-103" x="223.43" y="25.96" width="2.29" height="2.57"/>
+              <rect class="cls-103" x="249.32" y="26.2" width="2.31" height="6.68"/>
+              <rect class="cls-103" x="266.97" y="25.96" width="2.29" height="2.57"/>
+              <path class="cls-103" d="M268.08,9.14H85.95l-6.27,6.27H14.75l-4.17,4.26v15.32l10.92,10.92h30.64l7.74-7.74h115.72l11.52,11.52h83.87l18.83-18.83-21.72-21.72ZM193.82,34.91h-2.39v-8.2c0-.43.05-1.03.15-1.81l-2.15,8.49h-1.26l-2.16-8.49c.1.79.15,1.39.15,1.81v8.2h-2.39v-16.63h2.35l2.61,9.19c.03.1.05.35.06.75,0-.18.02-.43.06-.75l2.61-9.19h2.35v16.63ZM202.76,33.58c0,.89-.45,1.33-1.35,1.33h-4.36c-.91,0-1.37-.44-1.37-1.33v-8.08c0-.88.46-1.33,1.37-1.33h4.36c.9,0,1.35.44,1.35,1.33v8.08ZM211.28,28.66h-2.41v-2.45l-1.92.04v8.66h-2.43v-10.73h2.43v.39c.5-.09,1-.18,1.5-.28.6-.11,1.1-.16,1.51-.16.89,0,1.33.44,1.33,1.31v3.22ZM219.4,33.58c0,.89-.45,1.33-1.35,1.33h-4.09c-.9,0-1.35-.44-1.35-1.33v-2.31h2.33v1.81h2.14v-1.7l-3.73-2.2c-.49-.29-.73-.68-.73-1.17v-2.51c0-.88.46-1.33,1.37-1.33h4.05c.9,0,1.35.44,1.35,1.33v2.16h-2.31v-1.66h-2.14v1.55l3.72,2.18c.5.28.74.68.74,1.19v2.66ZM228.04,29.44l-.67.67h-3.94v3.01h2.29v-1.79h2.33v2.24c0,.89-.46,1.33-1.37,1.33h-4.2c-.91,0-1.37-.44-1.37-1.33v-8.08c0-.88.46-1.33,1.37-1.33h4.2c.91,0,1.37.44,1.37,1.33v3.94ZM245.1,23.69h-2.48v-3.28h-3.22v12.36h3.22v-3.5h2.48v4.11c0,1.01-.51,1.52-1.52,1.52h-5.19c-.98,0-1.48-.51-1.48-1.52v-13.58c0-1.02.49-1.53,1.48-1.53h5.19c1.01,0,1.52.51,1.52,1.53v3.89ZM254,33.58c0,.89-.45,1.33-1.35,1.33h-4.36c-.91,0-1.37-.44-1.37-1.33v-8.08c0-.88.46-1.33,1.37-1.33h4.36c.9,0,1.35.44,1.35,1.33v8.08ZM262.88,34.91h-2.42v-.37c-1.64.29-2.56.44-2.76.44-.61,0-1.09-.18-1.43-.54-.35-.36-.52-.84-.52-1.46v-6.64c0-.87.31-1.48.93-1.82.45-.25,1.14-.38,2.06-.38.21,0,.5,0,.89.02.39.01.67.02.83.02v-5.9h2.42v16.63ZM269.25,33.12v-1.79h2.33v2.24c0,.89-.46,1.33-1.37,1.33h-4.2c-.91,0-1.37-.44-1.37-1.33v-8.08c0-.88.46-1.33,1.37-1.33h4.2c.91,0,1.37.44,1.37,1.33v3.94l-.67.67h-3.94v3.01h2.29Z"/>
+              <rect class="cls-103" x="198.07" y="26.2" width="2.31" height="6.68"/>
+            </g>
+          </g>
+          <g>
+            <path class="cls-57" d="M29.41,87.46h-.91l-3.97-9.55v9.55h-1.24v-12.99h.99l3.89,9.39v-9.39h1.24v12.99Z"/>
+            <path class="cls-57" d="M37.94,86.54c0,.27-.1.49-.3.66-.2.17-.45.26-.76.26h-4.04c-.31,0-.56-.09-.76-.26-.2-.17-.29-.39-.29-.66v-12.07h1.32v11.97h3.52v-11.97h1.32v12.07Z"/>
+            <path class="cls-57" d="M47.66,87.46h-1.24v-8.23c0-.12.04-.46.13-1.02l-2.43,8.03h-.27l-2.43-8.03c.09.57.13.91.13,1.02v8.23h-1.24v-12.99h1.22l2.41,8.45s.03.17.04.37c0-.08.01-.21.04-.37l2.41-8.45h1.22v12.99Z"/>
+            <path class="cls-57" d="M55.98,86.54c0,.27-.1.49-.29.66-.2.17-.45.26-.76.26h-4.9v-12.99h4.86c.31,0,.56.08.76.26s.29.39.29.66v3.86c0,.34-.18.63-.53.86-.35.18-.7.37-1.04.55l1.12.63c.33.18.49.45.49.83v4.42ZM54.61,79.4v-3.91h-3.26v4.69h1.94l1.32-.78ZM54.65,86.44v-4.49l-1.34-.76h-1.96v5.25h3.3Z"/>
+            <path class="cls-57" d="M63.16,87.46h-4.88v-12.99h4.82v1.02h-3.5v4.85h3.19v1.04h-3.19v5.06h3.56v1.02Z"/>
+            <path class="cls-57" d="M71.54,87.46h-1.39l-2.76-6.96.18-.23h2.35v-4.78h-3.39v11.97h-1.32v-12.99h4.97c.31,0,.56.08.76.26.2.17.29.39.29.66v4.93c0,.62-.48.94-1.44.94-.09,0-.23,0-.42-.01-.18,0-.32-.01-.4-.01.85,2.07,1.7,4.14,2.55,6.23Z"/>
+          </g>
+          <g>
+            <path class="cls-57" d="M85.61,86.54c0,.27-.1.49-.3.66-.2.17-.46.26-.77.26h-3.94c-.31,0-.56-.09-.76-.26-.2-.17-.29-.39-.29-.66v-11.15c0-.27.1-.49.29-.66.2-.17.45-.26.76-.26h3.94c.31,0,.57.08.77.26.2.17.3.39.3.66v11.15ZM84.29,86.44v-10.95h-3.42v10.95h3.42Z"/>
+            <path class="cls-57" d="M91.62,83.02h-3.91v-1.03h3.91v1.03Z"/>
+            <path class="cls-57" d="M99.54,86.54c0,.27-.1.49-.29.66-.19.17-.44.26-.75.26h-3.71c-.31,0-.57-.09-.77-.26-.2-.17-.3-.39-.3-.66v-2.87h1.32v2.77h3.19v-4.81h-3.52c-.31,0-.56-.09-.75-.26-.19-.17-.29-.39-.29-.66v-5.32c0-.27.1-.49.29-.66s.44-.26.75-.26h3.79c.31,0,.56.08.75.26s.29.39.29.66v11.15ZM98.22,80.63v-5.14h-3.25v5.14h3.25Z"/>
+          </g>
+          <g>
+            <polygon class="cls-57" points="105.45 85.59 107.58 85.59 111.45 81.73 109.01 81.73 105.45 85.59"/>
+            <polygon class="cls-57" points="109.56 85.59 111.7 85.59 115.56 81.73 113.12 81.73 109.56 85.59"/>
+            <polygon class="cls-57" points="113.58 85.59 115.72 85.59 119.58 81.73 117.14 81.73 113.58 85.59"/>
+            <polygon class="cls-57" points="117.7 85.59 119.84 85.59 123.7 81.73 121.26 81.73 117.7 85.59"/>
+            <polygon class="cls-57" points="121.72 85.59 123.85 85.59 127.72 81.73 125.28 81.73 121.72 85.59"/>
+            <polygon class="cls-57" points="244.62 85.23 130.77 85.23 128.79 82.48 129.6 81.89 131.28 84.23 244.62 84.23 244.62 85.23"/>
+            <g>
+              <polygon class="cls-55" points="246.54 79.18 246.54 88.54 248.58 90.57 301.15 90.57 303.09 88.64 303.09 78.57 300.95 76.44 249.19 76.44 246.54 79.18"/>
+              <polygon class="cls-101" points="247.04 79.79 246.04 79.79 246.04 78.57 248.68 75.94 249.85 75.94 249.85 76.94 249.09 76.94 247.04 78.98 247.04 79.79"/>
+              <polygon class="cls-101" points="247.04 87.44 246.04 87.44 246.04 88.66 248.68 91.29 249.85 91.29 249.85 90.29 249.09 90.29 247.04 88.25 247.04 87.44"/>
+              <polygon class="cls-101" points="302.58 79.68 303.58 79.68 303.58 78.46 300.95 75.83 299.77 75.83 299.77 76.83 300.53 76.83 302.58 78.87 302.58 79.68"/>
+              <polygon class="cls-101" points="302.58 87.33 303.58 87.33 303.58 88.55 300.95 91.18 299.77 91.18 299.77 90.18 300.53 90.18 302.58 88.14 302.58 87.33"/>
+              <g>
+                <path class="cls-57" d="M259.35,83.14h-2.86v-.5h2.86v.5ZM259.35,84.63h-2.86v-.49h2.86v.49Z"/>
+                <path class="cls-57" d="M262.47,86.23h-.54v-.11c-.58.09-.91.13-.97.13-.23,0-.42-.08-.56-.24-.14-.16-.21-.35-.21-.59v-2.33c0-.25.08-.45.24-.61.16-.16.36-.24.61-.24h.9v-2.42h.54v6.4ZM261.93,85.74v-3.01h-.75c-.3,0-.45.15-.45.46v2.13c0,.31.15.46.45.46.07,0,.32-.01.75-.04Z"/>
+                <path class="cls-57" d="M265.66,85.77c0,.31-.15.46-.46.46h-1.37c-.31,0-.46-.15-.46-.46v-3.06c0-.31.15-.46.46-.46h1.37c.31,0,.46.15.46.46v3.06ZM265.11,85.76v-3.02h-1.2v3.02h1.2Z"/>
+                <path class="cls-57" d="M267.98,86.23h-.77c-.31,0-.46-.15-.46-.46v-3.04h-.48v-.48h.48v-1.24h.54v1.24h.7v.48h-.7v3.02h.7v.48Z"/>
+              </g>
+              <g>
+                <path class="cls-57" d="M282.55,84.2h-1.69v-.51h1.69v.51Z"/>
+                <path class="cls-57" d="M286.22,83.29h-2.86v-.5h2.86v.5ZM286.22,84.79h-2.86v-.49h2.86v.49Z"/>
+                <path class="cls-57" d="M289.35,86.39h-.54v-.11c-.58.09-.91.13-.97.13-.23,0-.42-.08-.56-.24-.14-.16-.21-.35-.21-.59v-2.33c0-.25.08-.45.24-.61.16-.16.36-.24.61-.24h.9v-2.42h.54v6.4ZM288.81,85.89v-3.01h-.75c-.3,0-.45.15-.45.46v2.13c0,.31.15.46.45.46.07,0,.32-.01.75-.04Z"/>
+                <path class="cls-57" d="M292.5,86.39h-.54v-.11c-.22.03-.43.06-.65.09-.27.03-.48.05-.64.05-.3,0-.45-.15-.45-.44v-1.45c0-.3.15-.46.46-.46h1.28v-1.2h-1.17v.68h-.53v-.67c0-.31.15-.46.46-.46h1.31c.31,0,.46.15.46.46v3.52ZM291.97,85.89v-1.41h-1.22v1.43l1.22-.02Z"/>
+                <path class="cls-57" d="M295.53,85.92c0,.31-.15.46-.46.46h-1.25c-.31,0-.46-.15-.46-.46v-.9h.54v.9h1.1v-.79l-1.42-1.17c-.14-.11-.2-.25-.2-.43v-.66c0-.31.15-.46.46-.46h1.23c.31,0,.46.15.46.46v.79h-.53v-.79h-1.1v.7l1.44,1.17c.13.11.2.25.2.43v.75Z"/>
+                <path class="cls-57" d="M298.68,86.39h-.54v-3.49l-1.2.03v3.46h-.54v-6.4h.54v2.53l.65-.08c.27-.04.49-.05.64-.05.3,0,.45.15.45.45v3.56Z"/>
+              </g>
+              <rect class="cls-57" x="274.26" y="78.79" width="1.65" height="1.65"/>
+              <rect class="cls-57" x="274.26" y="81.37" width="1.65" height="1.65"/>
+              <rect class="cls-57" x="274.18" y="84.29" width="1.65" height="1.65"/>
+              <rect class="cls-57" x="274.18" y="86.87" width="1.65" height="1.65"/>
+              <circle class="cls-57" cx="253.34" cy="83.61" r=".94"/>
+            </g>
+          </g>
+          <g>
+            <polygon class="cls-55" points="21.33 110.6 29.06 102.88 157.75 102.88 157.75 146.4 150.25 153.9 26.82 153.9 21.65 148.73 21.33 110.6"/>
+            <rect class="cls-101" x="19.73" y="106.43" width="11.32" height=".93" transform="translate(-68.15 49.27) rotate(-45)"/>
+            <rect class="cls-101" x="148.27" y="149.36" width="11.32" height=".93" transform="translate(-60.86 152.73) rotate(-45)"/>
+            <g>
+              <polygon class="cls-55" points="29.41 113.52 29.41 142.81 30.79 144.18 51.38 144.18 52.83 142.73 52.83 113.52 51.53 112.23 31.02 112.23 29.41 113.52"/>
+              <g>
+                <line class="cls-52" x1="29.55" y1="115.96" x2="52.69" y2="115.96"/>
+                <line class="cls-52" x1="29.55" y1="119.6" x2="52.69" y2="119.6"/>
+                <line class="cls-52" x1="29.55" y1="123.75" x2="52.69" y2="123.75"/>
+                <line class="cls-52" x1="29.48" y1="127.34" x2="52.62" y2="127.34"/>
+                <line class="cls-52" x1="29.52" y1="130.92" x2="52.65" y2="130.92"/>
+                <line class="cls-52" x1="29.52" y1="135.18" x2="52.65" y2="135.18"/>
+                <line class="cls-52" x1="29.48" y1="140.18" x2="52.62" y2="140.18"/>
+                <line class="cls-52" x1="32.24" y1="112.23" x2="32.24" y2="143.93"/>
+                <line class="cls-52" x1="35.81" y1="112.23" x2="35.81" y2="143.93"/>
+                <line class="cls-52" x1="39.88" y1="112.35" x2="39.88" y2="144.06"/>
+                <line class="cls-52" x1="44.15" y1="112.23" x2="44.15" y2="143.93"/>
+                <line class="cls-52" x1="47.86" y1="112.23" x2="47.86" y2="143.93"/>
+                <line class="cls-52" x1="50.6" y1="112.35" x2="50.6" y2="144.06"/>
+              </g>
+              <g>
+                <polyline class="cls-51" points="48.94 144.18 51.23 144.18 52.83 142.58 52.83 139.58"/>
+                <g class="cls-75">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="48.94 144.18 51.23 144.18 52.83 142.58 52.83 139.58"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="48.94 112.35 51.23 112.35 52.83 113.95 52.83 116.95"/>
+                <g class="cls-30">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="48.94 112.35 51.23 112.35 52.83 113.95 52.83 116.95"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="33.3 144.18 31.02 144.18 29.41 142.58 29.41 139.58"/>
+                <g class="cls-118">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="33.3 144.18 31.02 144.18 29.41 142.58 29.41 139.58"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="33.3 112.35 31.02 112.35 29.41 113.95 29.41 116.95"/>
+                <g class="cls-316">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="33.3 112.35 31.02 112.35 29.41 113.95 29.41 116.95"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <path class="cls-101" d="M45.54,137.69c0,.46-.15.83-.45,1.12s-.68.44-1.14.44h-5.83c-.46,0-.83-.15-1.12-.44-.29-.29-.44-.67-.44-1.12v-18.86c0-.46.15-.83.44-1.12.29-.29.66-.44,1.12-.44h5.83c.46,0,.84.15,1.14.44s.45.67.45,1.12v18.86ZM43.59,137.52v-18.53h-5.07v18.53h5.07Z"/>
+                <g class="cls-268">
+                  <g class="cls-205">
+                    <path class="cls-86" d="M45.54,137.69c0,.46-.15.83-.45,1.12s-.68.44-1.14.44h-5.83c-.46,0-.83-.15-1.12-.44-.29-.29-.44-.67-.44-1.12v-18.86c0-.46.15-.83.44-1.12.29-.29.66-.44,1.12-.44h5.83c.46,0,.84.15,1.14.44s.45.67.45,1.12v18.86ZM43.59,137.52v-18.53h-5.07v18.53h5.07Z"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g>
+              <rect class="cls-237" x="69.75" y="113.93" width="82.28" height="25.3"/>
+              <g>
+                <rect class="cls-101" x="71.49" y="125.51" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-15">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="71.49" y="125.51" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="87.16" y="125.51" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-62">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="87.16" y="125.51" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="103.96" y="125.51" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-67">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="103.96" y="125.51" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="119.62" y="125.51" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-113">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="119.62" y="125.51" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="135.76" y="125.51" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-125">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="135.76" y="125.51" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="76.1" y="142.98" width="4.87" height="1.2"/>
+                <g class="cls-60">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="76.1" y="142.98" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="91.98" y="142.98" width="4.87" height="1.2"/>
+                <g class="cls-243">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="91.98" y="142.98" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="109.01" y="142.98" width="4.87" height="1.2"/>
+                <g class="cls-253">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="109.01" y="142.98" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="124.68" y="142.98" width="4.87" height="1.2"/>
+                <g class="cls-17">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="124.68" y="142.98" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="140.35" y="142.98" width="4.87" height="1.2"/>
+                <g class="cls-284">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="140.35" y="142.98" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <rect class="cls-57" x="61.54" y="110.59" width=".41" height="36"/>
+          </g>
+          <g>
+            <polygon class="cls-55" points="21.33 173.47 29.06 165.74 157.75 165.74 157.75 209.26 150.25 216.76 26.82 216.76 21.65 211.59 21.33 173.47"/>
+            <rect class="cls-101" x="19.73" y="169.29" width="11.32" height=".93" transform="translate(-112.6 67.68) rotate(-45)"/>
+            <rect class="cls-101" x="148.27" y="212.23" width="11.32" height=".93" transform="translate(-105.31 171.14) rotate(-45)"/>
+            <g>
+              <polygon class="cls-55" points="29.41 176.39 29.41 205.67 30.79 207.05 51.38 207.05 52.83 205.6 52.83 176.39 51.53 175.09 31.02 175.09 29.41 176.39"/>
+              <g>
+                <line class="cls-52" x1="29.55" y1="178.83" x2="52.69" y2="178.83"/>
+                <line class="cls-52" x1="29.55" y1="182.46" x2="52.69" y2="182.46"/>
+                <line class="cls-52" x1="29.55" y1="186.62" x2="52.69" y2="186.62"/>
+                <line class="cls-52" x1="29.48" y1="190.2" x2="52.62" y2="190.2"/>
+                <line class="cls-52" x1="29.52" y1="193.79" x2="52.65" y2="193.79"/>
+                <line class="cls-52" x1="29.52" y1="198.05" x2="52.65" y2="198.05"/>
+                <line class="cls-52" x1="29.48" y1="203.04" x2="52.62" y2="203.04"/>
+                <line class="cls-52" x1="32.24" y1="175.09" x2="32.24" y2="206.79"/>
+                <line class="cls-52" x1="35.81" y1="175.09" x2="35.81" y2="206.79"/>
+                <line class="cls-52" x1="39.88" y1="175.22" x2="39.88" y2="206.92"/>
+                <line class="cls-52" x1="44.15" y1="175.09" x2="44.15" y2="206.79"/>
+                <line class="cls-52" x1="47.86" y1="175.09" x2="47.86" y2="206.79"/>
+                <line class="cls-52" x1="50.6" y1="175.22" x2="50.6" y2="206.92"/>
+              </g>
+              <g>
+                <polyline class="cls-51" points="48.94 207.05 51.23 207.05 52.83 205.44 52.83 202.44"/>
+                <g class="cls-10">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="48.94 207.05 51.23 207.05 52.83 205.44 52.83 202.44"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="48.94 175.22 51.23 175.22 52.83 176.82 52.83 179.82"/>
+                <g class="cls-203">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="48.94 175.22 51.23 175.22 52.83 176.82 52.83 179.82"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="33.3 207.05 31.02 207.05 29.41 205.44 29.41 202.44"/>
+                <g class="cls-74">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="33.3 207.05 31.02 207.05 29.41 205.44 29.41 202.44"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="33.3 175.22 31.02 175.22 29.41 176.82 29.41 179.82"/>
+                <g class="cls-68">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="33.3 175.22 31.02 175.22 29.41 176.82 29.41 179.82"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g>
+              <rect class="cls-237" x="69.75" y="176.79" width="82.28" height="25.3"/>
+              <g>
+                <rect class="cls-101" x="76.52" y="188.38" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-209">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="76.52" y="188.38" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="87.16" y="188.38" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-94">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="87.16" y="188.38" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="103.96" y="188.38" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-142">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="103.96" y="188.38" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="119.62" y="188.38" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-262">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="119.62" y="188.38" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="135.76" y="188.38" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-173">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="135.76" y="188.38" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="91.98" y="205.85" width="4.87" height="1.2"/>
+                <g class="cls-196">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="91.98" y="205.85" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="109.01" y="205.85" width="4.87" height="1.2"/>
+                <g class="cls-226">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="109.01" y="205.85" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="124.68" y="205.85" width="4.87" height="1.2"/>
+                <g class="cls-182">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="124.68" y="205.85" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="140.35" y="205.85" width="4.87" height="1.2"/>
+                <g class="cls-305">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="140.35" y="205.85" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <circle class="cls-101" cx="78.75" cy="206.45" r=".81"/>
+                <g class="cls-168">
+                  <g class="cls-205">
+                    <circle class="cls-36" cx="78.75" cy="206.45" r=".81"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <rect class="cls-57" x="61.54" y="173.45" width=".41" height="36"/>
+            <g>
+              <text class="cls-100" transform="translate(38.29 202.09)"><tspan x="0" y="0">1</tspan></text>
+              <g class="cls-230">
+                <g class="cls-205">
+                  <polygon class="cls-106" points="40.63 180.24 39.4 186.87 39.4 186.94 40.25 186.94 40.25 202.09 42.21 202.09 42.21 180.24 40.63 180.24"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <polygon class="cls-55" points="21.33 236.33 29.06 228.6 157.75 228.6 157.75 272.13 150.25 279.63 26.82 279.63 21.65 274.45 21.33 236.33"/>
+          <rect class="cls-101" x="19.73" y="232.16" width="11.32" height=".93" transform="translate(-157.05 86.09) rotate(-45)"/>
+          <rect class="cls-101" x="148.27" y="275.09" width="11.32" height=".93" transform="translate(-149.76 189.55) rotate(-45)"/>
+          <g>
+            <polygon class="cls-55" points="29.41 239.25 29.41 268.54 30.79 269.91 51.38 269.91 52.83 268.46 52.83 239.25 51.53 237.95 31.02 237.95 29.41 239.25"/>
+            <g>
+              <line class="cls-52" x1="29.55" y1="241.69" x2="52.69" y2="241.69"/>
+              <line class="cls-52" x1="29.55" y1="245.32" x2="52.69" y2="245.32"/>
+              <line class="cls-52" x1="29.55" y1="249.48" x2="52.69" y2="249.48"/>
+              <line class="cls-52" x1="29.48" y1="253.07" x2="52.62" y2="253.07"/>
+              <line class="cls-52" x1="29.52" y1="256.65" x2="52.65" y2="256.65"/>
+              <line class="cls-52" x1="29.52" y1="260.91" x2="52.65" y2="260.91"/>
+              <line class="cls-52" x1="29.48" y1="265.91" x2="52.62" y2="265.91"/>
+              <line class="cls-52" x1="32.24" y1="237.95" x2="32.24" y2="269.66"/>
+              <line class="cls-52" x1="35.81" y1="237.95" x2="35.81" y2="269.66"/>
+              <line class="cls-52" x1="39.88" y1="238.08" x2="39.88" y2="269.78"/>
+              <line class="cls-52" x1="44.15" y1="237.95" x2="44.15" y2="269.66"/>
+              <line class="cls-52" x1="47.86" y1="237.95" x2="47.86" y2="269.66"/>
+              <line class="cls-52" x1="50.6" y1="238.08" x2="50.6" y2="269.78"/>
+            </g>
+            <g>
+              <polyline class="cls-51" points="48.94 269.91 51.23 269.91 52.83 268.31 52.83 265.31"/>
+              <g class="cls-87">
+                <g class="cls-3">
+                  <polyline class="cls-50" points="48.94 269.91 51.23 269.91 52.83 268.31 52.83 265.31"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <polyline class="cls-51" points="48.94 238.08 51.23 238.08 52.83 239.68 52.83 242.68"/>
+              <g class="cls-122">
+                <g class="cls-3">
+                  <polyline class="cls-50" points="48.94 238.08 51.23 238.08 52.83 239.68 52.83 242.68"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <polyline class="cls-51" points="33.3 269.91 31.02 269.91 29.41 268.31 29.41 265.31"/>
+              <g class="cls-207">
+                <g class="cls-3">
+                  <polyline class="cls-50" points="33.3 269.91 31.02 269.91 29.41 268.31 29.41 265.31"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <polyline class="cls-51" points="33.3 238.08 31.02 238.08 29.41 239.68 29.41 242.68"/>
+              <g class="cls-222">
+                <g class="cls-3">
+                  <polyline class="cls-50" points="33.3 238.08 31.02 238.08 29.41 239.68 29.41 242.68"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect class="cls-237" x="69.75" y="239.65" width="82.28" height="25.3"/>
+          <g>
+            <rect class="cls-101" x="103.96" y="251.24" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+            <g class="cls-181">
+              <g class="cls-205">
+                <rect class="cls-165" x="103.96" y="251.24" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-101" x="119.62" y="251.24" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+            <g class="cls-5">
+              <g class="cls-205">
+                <rect class="cls-165" x="119.62" y="251.24" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-101" x="135.76" y="251.24" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+            <g class="cls-115">
+              <g class="cls-205">
+                <rect class="cls-165" x="135.76" y="251.24" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-101" x="109.01" y="268.71" width="4.87" height="1.2"/>
+            <g class="cls-89">
+              <g class="cls-205">
+                <rect class="cls-211" x="109.01" y="268.71" width="4.87" height="1.2"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-101" x="124.68" y="268.71" width="4.87" height="1.2"/>
+            <g class="cls-95">
+              <g class="cls-205">
+                <rect class="cls-211" x="124.68" y="268.71" width="4.87" height="1.2"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-101" x="140.35" y="268.71" width="4.87" height="1.2"/>
+            <g class="cls-175">
+              <g class="cls-205">
+                <rect class="cls-211" x="140.35" y="268.71" width="4.87" height="1.2"/>
+              </g>
+            </g>
+          </g>
+          <rect class="cls-57" x="61.54" y="236.32" width=".41" height="36"/>
+          <g>
+            <text class="cls-100" transform="translate(35.81 264.95)"><tspan x="0" y="0">2</tspan></text>
+            <g class="cls-310">
+              <g class="cls-205">
+                <path class="cls-106" d="M39.35,263.23l5.78-12.04c.34-.72.52-1.35.52-1.91v-4.64c0-.46-.14-.83-.43-1.12-.29-.29-.66-.43-1.12-.43h-5.26c-.46,0-.83.14-1.12.43-.29.29-.43.66-.43,1.12v5.08h1.96v-4.92h4.45v5.21l-6.69,13.89v1.03h8.67v-1.72h-6.33Z"/>
+              </g>
+            </g>
+          </g>
+          <polygon class="cls-55" points="21.33 299.19 29.06 291.47 157.75 291.47 157.75 334.99 150.25 342.49 26.82 342.49 21.65 337.32 21.33 299.19"/>
+          <rect class="cls-101" x="19.73" y="295.02" width="11.32" height=".93" transform="translate(-201.5 104.5) rotate(-45)"/>
+          <rect class="cls-101" x="148.27" y="337.95" width="11.32" height=".93" transform="translate(-194.21 207.97) rotate(-45)"/>
+          <polygon class="cls-55" points="29.41 302.11 29.41 331.4 30.79 332.77 51.38 332.77 52.83 331.32 52.83 302.11 51.53 300.82 31.02 300.82 29.41 302.11"/>
+          <line class="cls-52" x1="29.55" y1="304.55" x2="52.69" y2="304.55"/>
+          <line class="cls-52" x1="29.55" y1="308.19" x2="52.69" y2="308.19"/>
+          <line class="cls-52" x1="29.55" y1="312.34" x2="52.69" y2="312.34"/>
+          <line class="cls-52" x1="29.48" y1="315.93" x2="52.62" y2="315.93"/>
+          <line class="cls-52" x1="29.52" y1="319.51" x2="52.65" y2="319.51"/>
+          <line class="cls-52" x1="29.52" y1="323.77" x2="52.65" y2="323.77"/>
+          <line class="cls-52" x1="29.48" y1="328.77" x2="52.62" y2="328.77"/>
+          <line class="cls-52" x1="32.24" y1="300.82" x2="32.24" y2="332.52"/>
+          <line class="cls-52" x1="35.81" y1="300.82" x2="35.81" y2="332.52"/>
+          <line class="cls-52" x1="39.88" y1="300.94" x2="39.88" y2="332.65"/>
+          <line class="cls-52" x1="44.15" y1="300.82" x2="44.15" y2="332.52"/>
+          <line class="cls-52" x1="47.86" y1="300.82" x2="47.86" y2="332.52"/>
+          <line class="cls-52" x1="50.6" y1="300.94" x2="50.6" y2="332.65"/>
+          <g>
+            <polyline class="cls-51" points="48.94 332.77 51.23 332.77 52.83 331.17 52.83 328.17"/>
+            <g class="cls-317">
+              <g class="cls-3">
+                <polyline class="cls-50" points="48.94 332.77 51.23 332.77 52.83 331.17 52.83 328.17"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polyline class="cls-51" points="48.94 300.94 51.23 300.94 52.83 302.54 52.83 305.54"/>
+            <g class="cls-170">
+              <g class="cls-3">
+                <polyline class="cls-50" points="48.94 300.94 51.23 300.94 52.83 302.54 52.83 305.54"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polyline class="cls-51" points="33.3 332.77 31.02 332.77 29.41 331.17 29.41 328.17"/>
+            <g class="cls-149">
+              <g class="cls-3">
+                <polyline class="cls-50" points="33.3 332.77 31.02 332.77 29.41 331.17 29.41 328.17"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polyline class="cls-51" points="33.3 300.94 31.02 300.94 29.41 302.54 29.41 305.54"/>
+            <g class="cls-254">
+              <g class="cls-3">
+                <polyline class="cls-50" points="33.3 300.94 31.02 300.94 29.41 302.54 29.41 305.54"/>
+              </g>
+            </g>
+          </g>
+          <rect class="cls-237" x="69.75" y="302.52" width="82.28" height="25.3"/>
+          <g>
+            <rect class="cls-101" x="119.62" y="314.1" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+            <g class="cls-266">
+              <g class="cls-205">
+                <rect class="cls-165" x="119.62" y="314.1" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-101" x="135.76" y="314.1" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+            <g class="cls-61">
+              <g class="cls-205">
+                <rect class="cls-165" x="135.76" y="314.1" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-101" x="124.68" y="331.57" width="4.87" height="1.2"/>
+            <g class="cls-169">
+              <g class="cls-205">
+                <rect class="cls-183" x="124.68" y="331.57" width="4.87" height="1.2"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-101" x="140.35" y="331.57" width="4.87" height="1.2"/>
+            <g class="cls-244">
+              <g class="cls-205">
+                <rect class="cls-183" x="140.35" y="331.57" width="4.87" height="1.2"/>
+              </g>
+            </g>
+          </g>
+          <rect class="cls-57" x="61.54" y="299.18" width=".41" height="36"/>
+          <g>
+            <text class="cls-100" transform="translate(34.83 327.82)"><tspan x="0" y="0">3</tspan></text>
+            <g class="cls-238">
+              <g class="cls-205">
+                <path class="cls-106" d="M44.46,318.13l-2.62-1.83,2.6-1.83c.56-.39.84-.94.84-1.63v-5.32c0-.46-.14-.83-.43-1.12s-.66-.43-1.12-.43h-5.57c-.46,0-.83.14-1.12.43-.29.29-.43.66-.43,1.12v5.08h1.94v-4.92h4.78v5.56l-3.83,2.85v.43l3.85,2.89v6.69h-4.83v-5.38h-1.94v5.54c0,.46.14.83.43,1.12.29.29.66.43,1.12.43h5.63c.46,0,.83-.14,1.12-.43.29-.29.43-.66.43-1.12v-6.48c0-.73-.28-1.28-.84-1.66Z"/>
+              </g>
+            </g>
+          </g>
+          <polygon class="cls-55" points="21.33 362.06 29.06 354.33 157.75 354.33 157.75 397.85 150.25 405.35 26.82 405.35 21.65 400.18 21.33 362.06"/>
+          <rect class="cls-101" x="19.73" y="357.88" width="11.32" height=".93" transform="translate(-245.95 122.91) rotate(-45)"/>
+          <rect class="cls-101" x="148.27" y="400.82" width="11.32" height=".93" transform="translate(-238.66 226.38) rotate(-45)"/>
+          <polygon class="cls-55" points="29.41 364.97 29.41 394.26 30.79 395.64 51.38 395.64 52.83 394.19 52.83 364.97 51.53 363.68 31.02 363.68 29.41 364.97"/>
+          <line class="cls-52" x1="29.55" y1="367.42" x2="52.69" y2="367.42"/>
+          <line class="cls-52" x1="29.55" y1="371.05" x2="52.69" y2="371.05"/>
+          <line class="cls-52" x1="29.55" y1="375.21" x2="52.69" y2="375.21"/>
+          <line class="cls-52" x1="29.48" y1="378.79" x2="52.62" y2="378.79"/>
+          <line class="cls-52" x1="29.52" y1="382.38" x2="52.65" y2="382.38"/>
+          <line class="cls-52" x1="29.52" y1="386.64" x2="52.65" y2="386.64"/>
+          <line class="cls-52" x1="29.48" y1="391.63" x2="52.62" y2="391.63"/>
+          <line class="cls-52" x1="32.24" y1="363.68" x2="32.24" y2="395.38"/>
+          <line class="cls-52" x1="35.81" y1="363.68" x2="35.81" y2="395.38"/>
+          <line class="cls-52" x1="39.88" y1="363.81" x2="39.88" y2="395.51"/>
+          <line class="cls-52" x1="44.15" y1="363.68" x2="44.15" y2="395.38"/>
+          <line class="cls-52" x1="47.86" y1="363.68" x2="47.86" y2="395.38"/>
+          <line class="cls-52" x1="50.6" y1="363.81" x2="50.6" y2="395.51"/>
+          <g>
+            <polyline class="cls-51" points="48.94 395.64 51.23 395.64 52.83 394.03 52.83 391.03"/>
+            <g class="cls-111">
+              <g class="cls-3">
+                <polyline class="cls-50" points="48.94 395.64 51.23 395.64 52.83 394.03 52.83 391.03"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polyline class="cls-51" points="48.94 363.81 51.23 363.81 52.83 365.41 52.83 368.41"/>
+            <g class="cls-216">
+              <g class="cls-3">
+                <polyline class="cls-50" points="48.94 363.81 51.23 363.81 52.83 365.41 52.83 368.41"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polyline class="cls-51" points="33.3 395.64 31.02 395.64 29.41 394.03 29.41 391.03"/>
+            <g class="cls-282">
+              <g class="cls-3">
+                <polyline class="cls-50" points="33.3 395.64 31.02 395.64 29.41 394.03 29.41 391.03"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polyline class="cls-51" points="33.3 363.81 31.02 363.81 29.41 365.41 29.41 368.41"/>
+            <g class="cls-178">
+              <g class="cls-3">
+                <polyline class="cls-50" points="33.3 363.81 31.02 363.81 29.41 365.41 29.41 368.41"/>
+              </g>
+            </g>
+          </g>
+          <rect class="cls-237" x="69.75" y="365.38" width="82.28" height="25.3"/>
+          <g>
+            <rect class="cls-101" x="135.76" y="376.97" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+            <g class="cls-192">
+              <g class="cls-205">
+                <rect class="cls-165" x="135.76" y="376.97" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <rect class="cls-101" x="140.35" y="394.44" width="4.87" height="1.2"/>
+            <g class="cls-185">
+              <g class="cls-205">
+                <rect class="cls-256" x="140.35" y="394.44" width="4.87" height="1.2"/>
+              </g>
+            </g>
+          </g>
+          <rect class="cls-57" x="61.54" y="362.04" width=".41" height="36"/>
+          <g>
+            <text class="cls-100" transform="translate(35.26 390.68)"><tspan x="0" y="0">4</tspan></text>
+            <g class="cls-31">
+              <g class="cls-205">
+                <polygon class="cls-106" points="43.86 383.33 43.86 375.4 42.03 375.4 42.03 383.33 37.95 383.33 42.98 368.91 42.98 368.83 41.15 368.83 35.86 383.99 35.86 384.98 42.03 384.98 42.03 390.68 43.86 390.68 43.86 384.98 45.52 384.98 45.52 383.33 43.86 383.33"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polygon class="cls-55" points="167.13 173.47 174.86 165.74 303.55 165.74 303.55 209.26 296.05 216.76 172.62 216.76 167.45 211.59 167.13 173.47"/>
+            <rect class="cls-101" x="165.53" y="169.29" width="11.32" height=".93" transform="translate(-69.89 170.77) rotate(-45)"/>
+            <rect class="cls-101" x="294.07" y="212.23" width="11.32" height=".93" transform="translate(-62.6 274.24) rotate(-45)"/>
+            <g>
+              <polygon class="cls-55" points="175.21 176.39 175.21 205.67 176.59 207.05 197.18 207.05 198.63 205.6 198.63 176.39 197.33 175.09 176.82 175.09 175.21 176.39"/>
+              <g>
+                <line class="cls-52" x1="175.35" y1="178.83" x2="198.49" y2="178.83"/>
+                <line class="cls-52" x1="175.35" y1="182.46" x2="198.49" y2="182.46"/>
+                <line class="cls-52" x1="175.35" y1="186.62" x2="198.49" y2="186.62"/>
+                <line class="cls-52" x1="175.28" y1="190.2" x2="198.42" y2="190.2"/>
+                <line class="cls-52" x1="175.32" y1="193.79" x2="198.45" y2="193.79"/>
+                <line class="cls-52" x1="175.32" y1="198.05" x2="198.45" y2="198.05"/>
+                <line class="cls-52" x1="175.28" y1="203.04" x2="198.42" y2="203.04"/>
+                <line class="cls-52" x1="178.04" y1="175.09" x2="178.04" y2="206.79"/>
+                <line class="cls-52" x1="181.61" y1="175.09" x2="181.61" y2="206.79"/>
+                <line class="cls-52" x1="185.68" y1="175.22" x2="185.68" y2="206.92"/>
+                <line class="cls-52" x1="189.95" y1="175.09" x2="189.95" y2="206.79"/>
+                <line class="cls-52" x1="193.66" y1="175.09" x2="193.66" y2="206.79"/>
+                <line class="cls-52" x1="196.4" y1="175.22" x2="196.4" y2="206.92"/>
+              </g>
+              <g>
+                <polyline class="cls-51" points="194.74 207.05 197.03 207.05 198.63 205.44 198.63 202.44"/>
+                <g class="cls-121">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="194.74 207.05 197.03 207.05 198.63 205.44 198.63 202.44"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="194.74 175.22 197.03 175.22 198.63 176.82 198.63 179.82"/>
+                <g class="cls-223">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="194.74 175.22 197.03 175.22 198.63 176.82 198.63 179.82"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="179.1 207.05 176.82 207.05 175.21 205.44 175.21 202.44"/>
+                <g class="cls-104">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="179.1 207.05 176.82 207.05 175.21 205.44 175.21 202.44"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="179.1 175.22 176.82 175.22 175.21 176.82 175.21 179.82"/>
+                <g class="cls-260">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="179.1 175.22 176.82 175.22 175.21 176.82 175.21 179.82"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g>
+              <rect class="cls-237" x="215.55" y="176.79" width="82.28" height="25.3"/>
+              <g>
+                <rect class="cls-101" x="217.29" y="188.38" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-188">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="217.29" y="188.38" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="221.9" y="205.85" width="4.87" height="1.2"/>
+                <g class="cls-187">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="221.9" y="205.85" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="237.99" y="188.38" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-19">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="237.99" y="188.38" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="240.22" cy="206.45" r=".81"/>
+                  <g class="cls-9">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="240.22" cy="206.45" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="255.02" y="188.38" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-159">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="255.02" y="188.38" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="257.24" cy="206.45" r=".81"/>
+                  <g class="cls-201">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="257.24" cy="206.45" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="270.69" y="188.38" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-91">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="270.69" y="188.38" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="272.92" cy="206.45" r=".81"/>
+                  <g class="cls-315">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="272.92" cy="206.45" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="286.36" y="188.38" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-259">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="286.36" y="188.38" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="288.59" cy="206.45" r=".81"/>
+                  <g class="cls-275">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="288.59" cy="206.45" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <rect class="cls-57" x="207.34" y="173.45" width=".41" height="36"/>
+            <g>
+              <text class="cls-100" transform="translate(180.66 202.09)"><tspan x="0" y="0">6</tspan></text>
+              <g class="cls-299">
+                <g class="cls-205">
+                  <path class="cls-106" d="M190.63,190.48c-.28-.28-.65-.43-1.11-.43h-5.18v-8.1h4.72v4.66h1.94v-4.83c0-.46-.14-.83-.43-1.12-.28-.29-.65-.43-1.11-.43h-5.52c-.46,0-.83.14-1.12.43-.29.29-.43.66-.43,1.12v18.75c0,.46.14.83.43,1.12.29.29.66.43,1.12.43h5.57c.46,0,.83-.14,1.11-.43.28-.29.43-.66.43-1.12v-8.95c0-.46-.14-.83-.43-1.11ZM189.12,200.37h-4.78v-8.63h4.78v8.63Z"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polygon class="cls-55" points="167.13 110.63 174.86 102.9 303.55 102.9 303.55 146.43 296.05 153.93 172.62 153.93 167.45 148.76 167.13 110.63"/>
+            <rect class="cls-101" x="165.53" y="106.46" width="11.32" height=".93" transform="translate(-25.46 152.37) rotate(-45)"/>
+            <rect class="cls-101" x="294.07" y="149.39" width="11.32" height=".93" transform="translate(-18.17 255.83) rotate(-45)"/>
+            <g>
+              <polygon class="cls-55" points="175.21 113.55 175.21 142.84 176.59 144.21 197.18 144.21 198.63 142.76 198.63 113.55 197.33 112.25 176.82 112.25 175.21 113.55"/>
+              <g>
+                <line class="cls-52" x1="175.35" y1="115.99" x2="198.49" y2="115.99"/>
+                <line class="cls-52" x1="175.35" y1="119.63" x2="198.49" y2="119.63"/>
+                <line class="cls-52" x1="175.35" y1="123.78" x2="198.49" y2="123.78"/>
+                <line class="cls-52" x1="175.28" y1="127.37" x2="198.42" y2="127.37"/>
+                <line class="cls-52" x1="175.32" y1="130.95" x2="198.45" y2="130.95"/>
+                <line class="cls-52" x1="175.32" y1="135.21" x2="198.45" y2="135.21"/>
+                <line class="cls-52" x1="175.28" y1="140.21" x2="198.42" y2="140.21"/>
+                <line class="cls-52" x1="178.04" y1="112.25" x2="178.04" y2="143.96"/>
+                <line class="cls-52" x1="181.61" y1="112.25" x2="181.61" y2="143.96"/>
+                <line class="cls-52" x1="185.68" y1="112.38" x2="185.68" y2="144.08"/>
+                <line class="cls-52" x1="189.95" y1="112.25" x2="189.95" y2="143.96"/>
+                <line class="cls-52" x1="193.66" y1="112.25" x2="193.66" y2="143.96"/>
+                <line class="cls-52" x1="196.4" y1="112.38" x2="196.4" y2="144.08"/>
+              </g>
+              <g>
+                <polyline class="cls-51" points="194.74 144.21 197.03 144.21 198.63 142.61 198.63 139.61"/>
+                <g class="cls-228">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="194.74 144.21 197.03 144.21 198.63 142.61 198.63 139.61"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="194.74 112.38 197.03 112.38 198.63 113.98 198.63 116.98"/>
+                <g class="cls-90">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="194.74 112.38 197.03 112.38 198.63 113.98 198.63 116.98"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="179.1 144.21 176.82 144.21 175.21 142.61 175.21 139.61"/>
+                <g class="cls-270">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="179.1 144.21 176.82 144.21 175.21 142.61 175.21 139.61"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="179.1 112.38 176.82 112.38 175.21 113.98 175.21 116.98"/>
+                <g class="cls-264">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="179.1 112.38 176.82 112.38 175.21 113.98 175.21 116.98"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g>
+              <rect class="cls-237" x="215.55" y="113.96" width="82.28" height="25.3"/>
+              <g>
+                <g>
+                  <rect class="cls-101" x="222.11" y="125.54" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-213">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="222.11" y="125.54" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="224.33" cy="143.61" r=".81"/>
+                  <g class="cls-45">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="224.33" cy="143.61" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="237.99" y="125.54" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-16">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="237.99" y="125.54" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="240.22" cy="143.61" r=".81"/>
+                  <g class="cls-21">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="240.22" cy="143.61" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="255.02" y="125.54" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-59">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="255.02" y="125.54" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="257.24" cy="143.61" r=".81"/>
+                  <g class="cls-107">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="257.24" cy="143.61" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="270.69" y="125.54" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-320">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="270.69" y="125.54" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="272.92" cy="143.61" r=".81"/>
+                  <g class="cls-117">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="272.92" cy="143.61" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="286.36" y="125.54" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-285">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="286.36" y="125.54" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="288.59" cy="143.61" r=".81"/>
+                  <g class="cls-258">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="288.59" cy="143.61" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <rect class="cls-57" x="207.34" y="110.62" width=".41" height="36"/>
+            <g>
+              <text class="cls-100" transform="translate(181.61 139.25)"><tspan x="0" y="0">5</tspan></text>
+              <g class="cls-309">
+                <g class="cls-205">
+                  <path class="cls-106" d="M191.33,125.96c-.29-.29-.66-.43-1.12-.43h-4.94l.24-6.41h6.09v-1.72h-7.99l-.25,9.84h6.46v10.29h-4.58v-5.38h-1.94v5.54c0,.46.14.83.43,1.12.28.29.65.43,1.11.43h5.38c.46,0,.83-.14,1.12-.43.29-.29.43-.66.43-1.12v-10.63c0-.46-.14-.83-.43-1.12Z"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polygon class="cls-55" points="167.13 236.33 174.86 228.6 303.55 228.6 303.55 272.13 296.05 279.63 172.62 279.63 167.45 274.45 167.13 236.33"/>
+            <rect class="cls-101" x="165.53" y="232.16" width="11.32" height=".93" transform="translate(-114.35 189.19) rotate(-45)"/>
+            <rect class="cls-101" x="294.07" y="275.09" width="11.32" height=".93" transform="translate(-107.05 292.65) rotate(-45)"/>
+            <g>
+              <polygon class="cls-55" points="175.21 239.25 175.21 268.54 176.59 269.91 197.18 269.91 198.63 268.46 198.63 239.25 197.33 237.95 176.82 237.95 175.21 239.25"/>
+              <g>
+                <line class="cls-52" x1="175.35" y1="241.69" x2="198.49" y2="241.69"/>
+                <line class="cls-52" x1="175.35" y1="245.32" x2="198.49" y2="245.32"/>
+                <line class="cls-52" x1="175.35" y1="249.48" x2="198.49" y2="249.48"/>
+                <line class="cls-52" x1="175.28" y1="253.07" x2="198.42" y2="253.07"/>
+                <line class="cls-52" x1="175.32" y1="256.65" x2="198.45" y2="256.65"/>
+                <line class="cls-52" x1="175.32" y1="260.91" x2="198.45" y2="260.91"/>
+                <line class="cls-52" x1="175.28" y1="265.91" x2="198.42" y2="265.91"/>
+                <line class="cls-52" x1="178.04" y1="237.95" x2="178.04" y2="269.66"/>
+                <line class="cls-52" x1="181.61" y1="237.95" x2="181.61" y2="269.66"/>
+                <line class="cls-52" x1="185.68" y1="238.08" x2="185.68" y2="269.78"/>
+                <line class="cls-52" x1="189.95" y1="237.95" x2="189.95" y2="269.66"/>
+                <line class="cls-52" x1="193.66" y1="237.95" x2="193.66" y2="269.66"/>
+                <line class="cls-52" x1="196.4" y1="238.08" x2="196.4" y2="269.78"/>
+              </g>
+              <g>
+                <polyline class="cls-51" points="194.74 269.91 197.03 269.91 198.63 268.31 198.63 265.31"/>
+                <g class="cls-134">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="194.74 269.91 197.03 269.91 198.63 268.31 198.63 265.31"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="194.74 238.08 197.03 238.08 198.63 239.68 198.63 242.68"/>
+                <g class="cls-199">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="194.74 238.08 197.03 238.08 198.63 239.68 198.63 242.68"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="179.1 269.91 176.82 269.91 175.21 268.31 175.21 265.31"/>
+                <g class="cls-206">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="179.1 269.91 176.82 269.91 175.21 268.31 175.21 265.31"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="179.1 238.08 176.82 238.08 175.21 239.68 175.21 242.68"/>
+                <g class="cls-257">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="179.1 238.08 176.82 238.08 175.21 239.68 175.21 242.68"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g>
+              <rect class="cls-237" x="215.55" y="239.65" width="82.28" height="25.3"/>
+              <g>
+                <rect class="cls-101" x="217.29" y="251.24" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-286">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="217.29" y="251.24" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="232.96" y="251.24" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-295">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="232.96" y="251.24" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="221.9" y="268.71" width="4.87" height="1.2"/>
+                <g class="cls-93">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="221.9" y="268.71" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="237.78" y="268.71" width="4.87" height="1.2"/>
+                <g class="cls-219">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="237.78" y="268.71" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="255.02" y="251.24" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-135">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="255.02" y="251.24" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="257.24" cy="269.31" r=".81"/>
+                  <g class="cls-280">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="257.24" cy="269.31" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="270.69" y="251.24" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-64">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="270.69" y="251.24" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="272.92" cy="269.31" r=".81"/>
+                  <g class="cls-248">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="272.92" cy="269.31" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="286.36" y="251.24" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-267">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="286.36" y="251.24" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="288.59" cy="269.31" r=".81"/>
+                  <g class="cls-119">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="288.59" cy="269.31" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <rect class="cls-57" x="207.34" y="236.32" width=".41" height="36"/>
+            <g>
+              <text class="cls-100" transform="translate(181.61 264.95)"><tspan x="0" y="0">7</tspan></text>
+              <g class="cls-76">
+                <g class="cls-205">
+                  <polygon class="cls-106" points="182.61 243.1 182.61 248.03 184.55 248.03 184.55 244.82 189.22 244.82 184.67 264.95 186.58 264.95 191.27 244.11 191.27 243.1 182.61 243.1"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polygon class="cls-55" points="167.13 299.19 174.86 291.47 303.55 291.47 303.55 334.99 296.05 342.49 172.62 342.49 167.45 337.32 167.13 299.19"/>
+            <rect class="cls-101" x="165.53" y="295.02" width="11.32" height=".93" transform="translate(-158.8 207.6) rotate(-45)"/>
+            <rect class="cls-101" x="294.07" y="337.95" width="11.32" height=".93" transform="translate(-151.51 311.06) rotate(-45)"/>
+            <g>
+              <polygon class="cls-55" points="175.21 302.11 175.21 331.4 176.59 332.77 197.18 332.77 198.63 331.32 198.63 302.11 197.33 300.82 176.82 300.82 175.21 302.11"/>
+              <g>
+                <line class="cls-52" x1="175.35" y1="304.55" x2="198.49" y2="304.55"/>
+                <line class="cls-52" x1="175.35" y1="308.19" x2="198.49" y2="308.19"/>
+                <line class="cls-52" x1="175.35" y1="312.34" x2="198.49" y2="312.34"/>
+                <line class="cls-52" x1="175.28" y1="315.93" x2="198.42" y2="315.93"/>
+                <line class="cls-52" x1="175.32" y1="319.51" x2="198.45" y2="319.51"/>
+                <line class="cls-52" x1="175.32" y1="323.77" x2="198.45" y2="323.77"/>
+                <line class="cls-52" x1="175.28" y1="328.77" x2="198.42" y2="328.77"/>
+                <line class="cls-52" x1="178.04" y1="300.82" x2="178.04" y2="332.52"/>
+                <line class="cls-52" x1="181.61" y1="300.82" x2="181.61" y2="332.52"/>
+                <line class="cls-52" x1="185.68" y1="300.94" x2="185.68" y2="332.65"/>
+                <line class="cls-52" x1="189.95" y1="300.82" x2="189.95" y2="332.52"/>
+                <line class="cls-52" x1="193.66" y1="300.82" x2="193.66" y2="332.52"/>
+                <line class="cls-52" x1="196.4" y1="300.94" x2="196.4" y2="332.65"/>
+              </g>
+              <g>
+                <polyline class="cls-51" points="194.74 332.77 197.03 332.77 198.63 331.17 198.63 328.17"/>
+                <g class="cls-155">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="194.74 332.77 197.03 332.77 198.63 331.17 198.63 328.17"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="194.74 300.94 197.03 300.94 198.63 302.54 198.63 305.54"/>
+                <g class="cls-35">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="194.74 300.94 197.03 300.94 198.63 302.54 198.63 305.54"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="179.1 332.77 176.82 332.77 175.21 331.17 175.21 328.17"/>
+                <g class="cls-8">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="179.1 332.77 176.82 332.77 175.21 331.17 175.21 328.17"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="179.1 300.94 176.82 300.94 175.21 302.54 175.21 305.54"/>
+                <g class="cls-11">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="179.1 300.94 176.82 300.94 175.21 302.54 175.21 305.54"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g>
+              <rect class="cls-237" x="215.55" y="302.52" width="82.28" height="25.3"/>
+              <g>
+                <rect class="cls-101" x="217.29" y="314.1" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-18">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="217.29" y="314.1" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="232.96" y="314.1" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-40">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="232.96" y="314.1" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="249.76" y="314.1" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-319">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="249.76" y="314.1" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="221.9" y="331.57" width="4.87" height="1.2"/>
+                <g class="cls-146">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="221.9" y="331.57" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="237.78" y="331.57" width="4.87" height="1.2"/>
+                <g class="cls-42">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="237.78" y="331.57" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="254.81" y="331.57" width="4.87" height="1.2"/>
+                <g class="cls-44">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="254.81" y="331.57" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="286.36" y="314.1" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-58">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="286.36" y="314.1" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="288.59" cy="332.17" r=".81"/>
+                  <g class="cls-234">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="288.59" cy="332.17" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="271.16" y="314.1" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-290">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="271.16" y="314.1" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="273.38" cy="332.17" r=".81"/>
+                  <g class="cls-208">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="273.38" cy="332.17" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <rect class="cls-57" x="207.34" y="299.18" width=".41" height="36"/>
+            <g>
+              <text class="cls-100" transform="translate(180.63 327.82)"><tspan x="0" y="0">8</tspan></text>
+              <g class="cls-298">
+                <g class="cls-205">
+                  <path class="cls-106" d="M190.43,317.75l-2.08-1.37,2.05-1.29c.48-.3.73-.77.73-1.41v-6.17c0-.46-.14-.83-.43-1.12-.29-.29-.66-.43-1.12-.43h-5.65c-.46,0-.83.14-1.12.43-.29.29-.43.66-.43,1.12v6.17c0,.64.24,1.11.71,1.41l2.07,1.29-2.12,1.37c-.48.31-.71.77-.71,1.4v7.12c0,.46.14.83.43,1.12.28.29.65.43,1.11.43h5.75c.46,0,.83-.14,1.13-.43.3-.29.45-.66.45-1.12v-7.12c0-.61-.25-1.07-.75-1.4ZM184.31,313.95v-6.27h4.86v6.27l-2.43,1.62-2.43-1.62ZM189.23,326.1h-4.97v-7.23l2.49-1.63,2.49,1.63v7.23Z"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polygon class="cls-55" points="167.13 362.06 174.86 354.33 303.55 354.33 303.55 397.85 296.05 405.35 172.62 405.35 167.45 400.18 167.13 362.06"/>
+            <rect class="cls-101" x="165.53" y="357.88" width="11.32" height=".93" transform="translate(-203.25 226.01) rotate(-45)"/>
+            <rect class="cls-101" x="294.07" y="400.82" width="11.32" height=".93" transform="translate(-195.96 329.47) rotate(-45)"/>
+            <g>
+              <polygon class="cls-55" points="175.21 364.97 175.21 394.26 176.59 395.64 197.18 395.64 198.63 394.19 198.63 364.97 197.33 363.68 176.82 363.68 175.21 364.97"/>
+              <g>
+                <line class="cls-52" x1="175.35" y1="367.42" x2="198.49" y2="367.42"/>
+                <line class="cls-52" x1="175.35" y1="371.05" x2="198.49" y2="371.05"/>
+                <line class="cls-52" x1="175.35" y1="375.21" x2="198.49" y2="375.21"/>
+                <line class="cls-52" x1="175.28" y1="378.79" x2="198.42" y2="378.79"/>
+                <line class="cls-52" x1="175.32" y1="382.38" x2="198.45" y2="382.38"/>
+                <line class="cls-52" x1="175.32" y1="386.64" x2="198.45" y2="386.64"/>
+                <line class="cls-52" x1="175.28" y1="391.63" x2="198.42" y2="391.63"/>
+                <line class="cls-52" x1="178.04" y1="363.68" x2="178.04" y2="395.38"/>
+                <line class="cls-52" x1="181.61" y1="363.68" x2="181.61" y2="395.38"/>
+                <line class="cls-52" x1="185.68" y1="363.81" x2="185.68" y2="395.51"/>
+                <line class="cls-52" x1="189.95" y1="363.68" x2="189.95" y2="395.38"/>
+                <line class="cls-52" x1="193.66" y1="363.68" x2="193.66" y2="395.38"/>
+                <line class="cls-52" x1="196.4" y1="363.81" x2="196.4" y2="395.51"/>
+              </g>
+              <g>
+                <polyline class="cls-51" points="194.74 395.64 197.03 395.64 198.63 394.03 198.63 391.03"/>
+                <g class="cls-88">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="194.74 395.64 197.03 395.64 198.63 394.03 198.63 391.03"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="194.74 363.81 197.03 363.81 198.63 365.41 198.63 368.41"/>
+                <g class="cls-302">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="194.74 363.81 197.03 363.81 198.63 365.41 198.63 368.41"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="179.1 395.64 176.82 395.64 175.21 394.03 175.21 391.03"/>
+                <g class="cls-200">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="179.1 395.64 176.82 395.64 175.21 394.03 175.21 391.03"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <polyline class="cls-51" points="179.1 363.81 176.82 363.81 175.21 365.41 175.21 368.41"/>
+                <g class="cls-48">
+                  <g class="cls-3">
+                    <polyline class="cls-50" points="179.1 363.81 176.82 363.81 175.21 365.41 175.21 368.41"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g>
+              <rect class="cls-237" x="215.55" y="365.38" width="82.28" height="25.3"/>
+              <g>
+                <rect class="cls-101" x="217.29" y="376.97" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-245">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="217.29" y="376.97" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="232.96" y="376.97" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-276">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="232.96" y="376.97" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="249.76" y="376.97" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-126">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="249.76" y="376.97" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="265.42" y="376.97" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                <g class="cls-232">
+                  <g class="cls-205">
+                    <rect class="cls-165" x="265.42" y="376.97" width="14.05" height="4.45" rx="1.84" ry="1.84"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="221.9" y="394.44" width="4.87" height="1.2"/>
+                <g class="cls-321">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="221.9" y="394.44" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="237.78" y="394.44" width="4.87" height="1.2"/>
+                <g class="cls-156">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="237.78" y="394.44" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="254.81" y="394.44" width="4.87" height="1.2"/>
+                <g class="cls-312">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="254.81" y="394.44" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <rect class="cls-101" x="270.48" y="394.44" width="4.87" height="1.2"/>
+                <g class="cls-22">
+                  <g class="cls-205">
+                    <rect class="cls-211" x="270.48" y="394.44" width="4.87" height="1.2"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-101" x="286.36" y="376.97" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                  <g class="cls-39">
+                    <g class="cls-205">
+                      <rect class="cls-165" x="286.36" y="376.97" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                    </g>
+                  </g>
+                </g>
+                <g>
+                  <circle class="cls-101" cx="288.59" cy="395.04" r=".81"/>
+                  <g class="cls-78">
+                    <g class="cls-205">
+                      <circle class="cls-36" cx="288.59" cy="395.04" r=".81"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <rect class="cls-57" x="207.34" y="362.04" width=".41" height="36"/>
+            <g>
+              <text class="cls-100" transform="translate(181.16 390.68)"><tspan x="0" y="0">9</tspan></text>
+              <g class="cls-322">
+                <g class="cls-205">
+                  <path class="cls-106" d="M191.05,369.26c-.28-.29-.65-.43-1.11-.43h-5.58c-.46,0-.83.14-1.11.43-.28.29-.43.66-.43,1.12v8.95c0,.46.14.83.43,1.12.28.29.65.43,1.11.43h5.18v8.08h-4.69v-4.66h-1.94v4.83c0,.46.15.83.45,1.12.3.29.67.43,1.13.43h5.46c.46,0,.83-.14,1.11-.43.28-.29.43-.66.43-1.12v-18.75c0-.46-.14-.83-.43-1.12ZM189.54,379.19h-4.78v-8.64h4.78v8.64Z"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-101" x="90.2" y="251.24" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+              <g class="cls-277">
+                <g class="cls-205">
+                  <rect class="cls-165" x="90.2" y="251.24" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <circle class="cls-101" cx="92.42" cy="269.31" r=".81"/>
+              <g class="cls-102">
+                <g class="cls-205">
+                  <circle class="cls-36" cx="92.42" cy="269.31" r=".81"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-101" x="76.43" y="251.24" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+              <g class="cls-73">
+                <g class="cls-205">
+                  <rect class="cls-165" x="76.43" y="251.24" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <circle class="cls-101" cx="78.66" cy="269.31" r=".81"/>
+              <g class="cls-128">
+                <g class="cls-205">
+                  <circle class="cls-36" cx="78.66" cy="269.31" r=".81"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-101" x="106.02" y="314.1" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+              <g class="cls-105">
+                <g class="cls-205">
+                  <rect class="cls-165" x="106.02" y="314.1" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <circle class="cls-101" cx="108.24" cy="332.17" r=".81"/>
+              <g class="cls-153">
+                <g class="cls-205">
+                  <circle class="cls-36" cx="108.24" cy="332.17" r=".81"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-101" x="90.76" y="314.1" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+              <g class="cls-46">
+                <g class="cls-205">
+                  <rect class="cls-165" x="90.76" y="314.1" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <circle class="cls-101" cx="92.99" cy="332.17" r=".81"/>
+              <g class="cls-114">
+                <g class="cls-205">
+                  <circle class="cls-36" cx="92.99" cy="332.17" r=".81"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-101" x="76.1" y="314.1" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+              <g class="cls-291">
+                <g class="cls-205">
+                  <rect class="cls-165" x="76.1" y="314.1" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <circle class="cls-101" cx="78.32" cy="332.17" r=".81"/>
+              <g class="cls-233">
+                <g class="cls-205">
+                  <circle class="cls-36" cx="78.32" cy="332.17" r=".81"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-101" x="122.91" y="376.97" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+              <g class="cls-71">
+                <g class="cls-205">
+                  <rect class="cls-165" x="122.91" y="376.97" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <circle class="cls-101" cx="125.13" cy="395.04" r=".81"/>
+              <g class="cls-28">
+                <g class="cls-205">
+                  <circle class="cls-36" cx="125.13" cy="395.04" r=".81"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-101" x="108.24" y="376.97" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+              <g class="cls-147">
+                <g class="cls-205">
+                  <rect class="cls-165" x="108.24" y="376.97" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <circle class="cls-101" cx="110.46" cy="395.04" r=".81"/>
+              <g class="cls-265">
+                <g class="cls-205">
+                  <circle class="cls-36" cx="110.46" cy="395.04" r=".81"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-101" x="90.76" y="376.97" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+              <g class="cls-220">
+                <g class="cls-205">
+                  <rect class="cls-165" x="90.76" y="376.97" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <circle class="cls-101" cx="92.99" cy="395.04" r=".81"/>
+              <g class="cls-227">
+                <g class="cls-205">
+                  <circle class="cls-36" cx="92.99" cy="395.04" r=".81"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <rect class="cls-101" x="76.1" y="376.97" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+              <g class="cls-80">
+                <g class="cls-205">
+                  <rect class="cls-165" x="76.1" y="376.97" width="4.45" height="4.45" rx="1.84" ry="1.84"/>
+                </g>
+              </g>
+            </g>
+            <g>
+              <circle class="cls-101" cx="78.32" cy="395.04" r=".81"/>
+              <g class="cls-191">
+                <g class="cls-205">
+                  <circle class="cls-36" cx="78.32" cy="395.04" r=".81"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+

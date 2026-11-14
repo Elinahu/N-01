@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1299.050048828125 22.469999313354492 202.47998046875 213.79000854492188"><defs>
+    <style>
+      .cls-1 {
+        stroke: #e8fd7c;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-5, .cls-6, .cls-7, .cls-8, .cls-15, .cls-10, .cls-11, .cls-13, .cls-14 {
+        fill: none;
+      }
+
+      .cls-1, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-13, .cls-14 {
+        stroke-width: 3px;
+      }
+
+      .cls-16 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-17 {
+        mask: url(#mask-5);
+      }
+
+      .cls-18 {
+        fill: url(#_未命名的渐变_27);
+      }
+
+      .cls-19 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+        font-weight: 700;
+      }
+
+      .cls-20 {
+        mask: url(#mask-1);
+      }
+
+      .cls-21 {
+        filter: url(#luminosity-invert-3);
+      }
+
+      .cls-22 {
+        fill: #b7543d;
+      }
+
+      .cls-23 {
+        fill: url(#_未命名的渐变_65);
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_28);
+      }
+
+      .cls-2, .cls-11, .cls-12 {
+        stroke: #ee842b;
+      }
+
+      .cls-3, .cls-4, .cls-9 {
+        stroke: #d35a00;
+      }
+
+      .cls-24 {
+        mask: url(#mask);
+      }
+
+      .cls-4, .cls-25, .cls-9 {
+        fill: #ee842b;
+      }
+
+      .cls-5 {
+        stroke: #95995c;
+      }
+
+      .cls-6 {
+        stroke: #ed5a2e;
+      }
+
+      .cls-26 {
+        opacity: .47;
+      }
+
+      .cls-27 {
+        filter: url(#luminosity-invert-6);
+      }
+
+      .cls-28 {
+        fill: #f9e0b4;
+      }
+
+      .cls-29 {
+        mask: url(#mask-2);
+      }
+
+      .cls-30 {
+        filter: url(#luminosity-invert-4);
+      }
+
+      .cls-31 {
+        fill: #cc3d21;
+      }
+
+      .cls-32 {
+        isolation: isolate;
+      }
+
+      .cls-33 {
+        fill: #d5c3ad;
+      }
+
+      .cls-34 {
+        fill: #c4c9a3;
+      }
+
+      .cls-7 {
+        stroke: #bf5f1f;
+      }
+
+      .cls-35 {
+        fill: #878787;
+      }
+
+      .cls-8, .cls-10 {
+        stroke: #878787;
+      }
+
+      .cls-36 {
+        mix-blend-mode: screen;
+      }
+
+      .cls-15 {
+        stroke: #6b6256;
+      }
+
+      .cls-37 {
+        fill: #ed5a2e;
+      }
+
+      .cls-10 {
+        stroke-width: 8px;
+      }
+
+      .cls-12 {
+        fill: url(#_未命名的渐变_35);
+      }
+
+      .cls-38 {
+        fill: #95995c;
+      }
+
+      .cls-39 {
+        fill: #e8fd7c;
+      }
+
+      .cls-13 {
+        stroke: #cc3d21;
+      }
+
+      .cls-40 {
+        mask: url(#mask-4);
+      }
+
+      .cls-41 {
+        fill: #bc6f35;
+      }
+
+      .cls-42 {
+        filter: url(#luminosity-invert-2);
+      }
+
+      .cls-43 {
+        fill: #ead6b3;
+        font-size: 21.58px;
+      }
+
+      .cls-44 {
+        fill: #bf5f1f;
+      }
+
+      .cls-45 {
+        filter: url(#luminosity-invert);
+      }
+
+      .cls-46 {
+        filter: url(#luminosity-invert-5);
+      }
+
+      .cls-47 {
+        fill: #c6553e;
+      }
+
+      .cls-14 {
+        stroke: #b7543d;
+      }
+
+      .cls-48 {
+        mask: url(#mask-3);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_27" data-name="未命名的渐变 27" x1="1397.71" y1="413.88" x2="1397.71" y2="624.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3b3f20"/>
+      <stop offset=".13" stop-color="#393d1f"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <filter id="luminosity-invert" x="1362.89" y="411.08" width="30" height="19" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask" x="1362.89" y="411.08" width="30" height="19" maskUnits="userSpaceOnUse">
+      <g class="cls-45">
+        <image width="30" height="19" transform="translate(1362.89 411.08)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAUCAYAAAB1aeb6AAAACXBIWXMAAAsSAAALEgHS3X78AAACSklEQVRIicXVa0+jQBSA4ZerhBRoq2gtRI39/7/KSlvaKqRQGIRhP7iQdL1Wk+0khITAPJwzZ87ACYfy996eAldPgXZD/83HnufhOA6GYaAor0mUUtI0DXVdU9c1Ly8v/dU0DVJK2rb9HT6ZTLi+vsZ1Xc7OzlBVFSkldV0jhEAIQVEU7Pd78jwnyzKapunhH+PT6ZTb21t838d13T7yDu5AACEEbdtS1zVN0xzMczQehiF3d3cEQcBoNMK2bTRNQ0pJVVXkeY6UkrIs+2f7/Z6qqt7MdRQehiGz2YwgCLi4uMB1XUzTBKCqKtq2RVEUpJQIIciyjDRN+yz8GA/DkPv7e8IwxPd9hsMhlmWhqmpfWE3TUFUVu92Op6cnttstaZp+OOe3tlq3xl3Ew+EQ27YxTfMg0jzPeX5+Zr1eE8cx2+3203m/xCeTCTc3N0ynU87Pz/E8D8uy0HW9L6SiKNjtdmw2G5bLJcvlkjiOvwzq07T7vk8QBFxeXuJ5HrZtYxgGqqr2eznPc5IkYb1es1gsiKKIxWLxJfwpPhqNuLq6YjweMxgM+vXtKlhKSVEUpGlKHMc8PDwwn8+Jouhb8If4YDBgPB7jOM5BA+kqGl6rO8syNpsNURQxn895fHz8NvwublkWjuNgWVbfOMqyRFEUyrLsf0QIQZIkrFYroig6KuJ3cU3T0HUdRVH6TtU1DMMw0PXX17uUd/hqtToahn+OVFVVMQwDwzAwTRPTNNF1HU3T0DTt4PDoulmSJD+C3+D/e5z0PD8p/gfNPlvdXMLdkwAAAABJRU5ErkJggg=="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-2" x="1401.89" y="411.08" width="30" height="19" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-1" x="1401.89" y="411.08" width="30" height="19" maskUnits="userSpaceOnUse">
+      <g class="cls-42">
+        <image width="30" height="19" transform="translate(1401.89 411.08)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAUCAYAAAB1aeb6AAAACXBIWXMAAAsSAAALEgHS3X78AAACDElEQVRIieWV3W7jIBBGD2BsYxenfeN92DaJVKlqnUY2YGAvUqNU+9NdeaVc7EgWsoQ4M998A3DDEB9rvgVc3gK6RnX9I6VEa12+uq7RWqOUQimFEBehcs4453h/f+ft7e3fwIUQaK2x1tL3PX3f07Ytxhi01lTVZXtKiXmeGceRw+HA8XjcDo8xEkIAoK5ruq5jt9vR9z3GGOq6RkpZKj+dTjRNg5SS/X6/DQ7gnGMcR4wxDMOAUgpjDNbaooAQghAC1lqapqGqKqSUPD4+boMDnM9nXl5e6LoOay0pJZRSRQ2lFDlnuq4r7VgVeXp62gYHeH19LaZb+951HUKIIn9d18WMOV+mVQjxxwr8Eg7w/PxcKl4TaNu2SF1VVZmAlBIAy7IQY+RwOGyDAxyPR6SUKKUKUClVKtdaY4whxsiyLHjvSSmRc/5yCtTH+u13m06nEznnT/DruYfL7K/QNbz3TNO0DQ4wjiMxxgKWUhaT5ZyJMRJjJKVESokYY5mKeZ5/euaXsl/HtZFSSoQQiuNzzkVyIQRt23J3d8fDwwPee87n8zb4msAKnqaJYRhomgYhBDFGvPc451iWpSQxDAMxxh8U+Gs4wH6/J6WEc47dblduuVV+7z3zPDNNE977cm2HEIgxlnM2Pan39/dYa9FaI+XlgVz7vbrfOUcIgRACy7J8MuX/+57fFP4dTowmEIPn6W0AAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-3" x="1378.89" y="411.08" width="37" height="19" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-2" x="1378.89" y="411.08" width="37" height="19" maskUnits="userSpaceOnUse">
+      <g class="cls-21">
+        <image width="37" height="19" transform="translate(1378.89 411.08)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAUCAYAAADhj08IAAAACXBIWXMAAAsSAAALEgHS3X78AAACwElEQVRIic2W7U7jOhRFl5M0Ic0HUVpKSEHwqPOMPABICNpSKLQN0MR24vnB1KJzQZd7RzPDkaxIjiwv77N9juGLhvjxNX+V4p1w/jbAR+H9yuIsy0iSBN/3cZzXM7Zti1KKqqpYLpd/HqwoCsqyJMsy9vb2cF0XAK01dV2zXC6ZTqfMZrM/B1aWJaenp4xGI7IsIwzDHbDNZkOSJARBgBCC6XT6+8HG4zFnZ2eMx2MGgwFxHL+rWBiGBEGA4zgIIZhMJr8PrCxLC3VwcECapvT7fXq9nvVY13X4vo/neRYWwBjzn5T7NNg2fWVZMhwO/wElxGvlcRwH3/d3gIwxdF0H8Gm4T4EVRcHJyQlFUZDnOVEU2c211nRdR9d1CCEspOM4BEFAHMdordFaW8Db29tfBxuNRhwfH3N4eEiWZfT7fTzPo+s66rpGSslms0EpBUAQBIRhaJX0PI8oitBa07atBZzP5/8fbDAY2NQlSUIYhgghaNuWpmmo65rVasXj4yPr9RqAPM/J85w0Ta35XdclDEPSNEUpZQEfHh4+3Hvrzm8//8iyjKOjI4bDIfv7+9ZPAE3TUFUV9/f3XF9fc3Fxwfn5OVdXV0gpra+Mee10b322nRNCoJSiruvPKxZFEXmeE8exrept21LXNcYYmqZhtVoxn8+ZTCbc3NzYtZeXlzRNg5QSKSVpmlo/dl1nL0ccx+R5jlKK5+fnfwcLgsC2mW3aNpsNWmtc10UpxdPTE4vFgtls9m5ln0wmGGOQUjIYDKza20O1bYsQAt/3SZIErTVN03wM5rouvV7Pyvzy8kLbtju9UErJer1msVhwd3f3bhrgtSxIKWmaxiovhEBrbeeVUhZwezm2sfPscRyHXq+3MzzPsyXAGGOBq6r6EOptpGlKFEXWn8YYa36llB3bsmM9+BbsK8WXfY99WbDvjrSEoc831qQAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <linearGradient id="_未命名的渐变_65" data-name="未命名的渐变 65" x1="1400.36" y1="24.04" x2="1400.36" y2="234.76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#872215"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <filter id="luminosity-invert-4" x="1366.01" y="21.1" width="30" height="19" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-3" x="1366.01" y="21.1" width="30" height="19" maskUnits="userSpaceOnUse">
+      <g class="cls-30">
+        <image width="30" height="19" transform="translate(1366.01 21.1)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAATCAYAAACHrr18AAAACXBIWXMAAAsSAAALEgHS3X78AAACRUlEQVRIicXV206rQBSA4Z+jhBRoq2gtRI2+/1NZaUtbhRQKg8ywL9yQNG5PvdhOwg2B9c2aWbNGAzp+Yei/gQKYp/4YBAGe52FZFpqmAaCUQkpJ27a0bcvr6+vwSClRStF13enwbDbj+voa3/c5OztD13WUUrRtixACIQRVVXE4HCjLkqIokFIO6EnwfD7n9vaWMAzxfX/IuEd7DEAIQdd1tG2LlPIozo/gOI65u7sjiiImkwmu62IYBkopmqahLEuUUtR1Pbw7HA40TfMu1rfhOI55eHggiiIuLi7wfR/btgFomoau69A0DaUUQgiKoiDP8yH7k+A4jrm/vyeOY8IwZDwe4zgOuq4PRSSlpGka9vs9z8/P7HY78jz/MOaXx6nf0z7T8XiM67rYtn2UYVmWvLy8sNlsSNOU3W73adxP4dlsxs3NDfP5nPPzc4IgwHEcTNMciqaqKvb7PdvtltVqxWq1Ik3Tr/L5eKnDMCSKIi4vLwmCANd1sSwLXdeHs1qWJVmWsdlsWC6XJEnCcrn8Ev0QnkwmXF1dMZ1OGY1Gw372laqUoqoq8jwnTVMeHx9ZLBYkSfIt9J/waDRiOp3ied5Rc+grF96quCgKttstSZKwWCx4enr6NvoOdhwHz/NwHGdoCnVdo2kadV0PkxBCkGUZ6/WaJEl+lOk72DAMTNNE07ShA/XNwLIsTPPt036Ze3i9Xv8YBdD4ey3quo5lWViWhW3b2LaNaZoYhoFhGEcXQd+lsiw7CT2C//f4tfv41+A/Pnpb3dwtvk8AAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-5" x="1405.01" y="21.1" width="30" height="19" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-4" x="1405.01" y="21.1" width="30" height="19" maskUnits="userSpaceOnUse">
+      <g class="cls-46">
+        <image width="30" height="19" transform="translate(1405.01 21.1)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAATCAYAAACHrr18AAAACXBIWXMAAAsSAAALEgHS3X78AAACBUlEQVRIicWV0W7jIBBFD2BsYxen/eP92DaJVKlqnUa2wQP7EBm12qq7mz5kJN4Qh3vnDiggc4PSt4ACVOUGWmOtLauua6y1GGMwxqCUAiDnzLIsvL+/8/b29nOwUgprLd57+r6n73vatsU5h7WWqrpsTSkxzzPjOHI4HDgejz8DiwgxRgDquqbrOna7HX3f45yjrmu01kXx6XSiaRq01uz3++vBAMuyMI4jzjmGYcAYg3MO731RrpQixoj3nqZpqKoKrTWPj4/XgwHO5zMvLy90XYf3npQSxpjigjGGnDNd15UWbE48PT1dDwZ4fX0tAdv63HUdSqlieV3XJXg5XyZSKfXPyr8EAzw/PxelG7xt22JvVVUl6SklANZ1RUQ4HA7XgwGOxyNaa4wxBWaMKYqttTjnEBHWdSWEQEqJnPNf026AX99tOJ1O5Jw/gT/ONVxmewNuFUJgmqbrwQDjOCIiBaq1LoHKOSMiiAgpJVJKiEhJ/zzPX575rdUf62NoUkrEGEuyc87FZqUUbdtyd3fHw8MDIQTO5/P14A2+QadpYhgGmqZBKYWIEEJgWRbWdS0XGIYBEflD+X+BAfb7PSkllmVht9uV12uzPITAPM9M00QIoTzFMUZEpJyjuPJbvL+/x3uPtRatL5/c1t8t5cuyEGMkxsi6rp8CeDX4p3Wz//hm4N9siSYQ2eCYdgAAAABJRU5ErkJggg=="/>
+      </g>
+    </mask>
+    <filter id="luminosity-invert-6" x="1381.01" y="22.1" width="38" height="18" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feColorMatrix result="cm" values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask-5" x="1381.01" y="22.1" width="38" height="18" maskUnits="userSpaceOnUse">
+      <g class="cls-27">
+        <image width="38" height="18" transform="translate(1381.01 22.1)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAASCAYAAAA31qwVAAAACXBIWXMAAAsSAAALEgHS3X78AAACt0lEQVRIic2W607rOBRGl5M0Ic2FKCmlpCB41HlGHgAkBEkpFHoBmthOPD/O1KIzhzmX0TnDlvxnS5aXv/15bwvA8AnD+b8BPgrvZzdmWUaSJPi+j+N8uV/XdSil2Gw2LJfL3w82mUwoy5Isyzg4OMB1XQC01jRNw3K5pK5rZrPZ7wMry5Lz83PG4zFZlhGG4R7YdrslSRKCIEAIQV3Xvx5sOp1ycXHBdDqlKAriOP6qYmEYEgQBjuMghKCqql8HVpalhTo6OiJNU4bDIYPBwHqs73t838fzPAsLYIz5YeW+C2xXvrIsGY1G/4ASQgDgOA6+7+8BGWPo+x7gh+C+CTaZTDg7O2MymZDnOVEU2cO11vR9T9/3CCEspOM4BEFAHMdordFaW8D7+/v/DjYejzk9PeX4+JgsyxgOh3ieR9/3NE2DlJLtdotSCoAgCAjD0CrpeR5RFKG1pus6Czifz38erCgKW7okSQjDECEEXdfRti1N07BarXh+fma9XgOQ5zl5npOmqTW/67qEYUiapiilLODT09O/grnAH39PZlnGyckJo9GIw8ND6yeAtm3ZbDY8Pj5ye3vL1dUVl5eX3NzcIKW0vjLmy6R777NdTgiBUoqmab5fsSiKyPOcOI5tV++6jqZpMMbQti2r1Yr5fE5VVdzd3dm919fXtG2LlBIpJWmaWj/2fW8fRxzH5HmOUorX19dvgwVBYMfMrmzb7RatNa7ropTi5eWFxWLBbDb7amevqgpjDFJKiqKwau8u1XUdQgh83ydJErTWtG37MZjrugwGAyvz29sbXdftzUIpJev1msViwcPDw4dlqOsaKSVt21rlhRBorW1eKWUBd4/jfQj++vY4jsNgMNhbnufZFmCMscCbzeZDqPeRpilRFFl/GmOs+ZVSdu3azs6De2CfLT7tf+xPVu+En+3OpUYAAAAASUVORK5CYII="/>
+      </g>
+    </mask>
+    <radialGradient id="_未命名的渐变_28" data-name="未命名的渐变 28" cx="294.66" cy="301.15" fx="288.09" fy="693.43" r="392.33" gradientUnits="userSpaceOnUse">
+      <stop offset=".11" stop-color="#ee842b"/>
+      <stop offset=".17" stop-color="#d87c25" stop-opacity=".87"/>
+      <stop offset=".29" stop-color="#b46f1b" stop-opacity=".66"/>
+      <stop offset=".4" stop-color="#956413" stop-opacity=".47"/>
+      <stop offset=".52" stop-color="#7c5b0c" stop-opacity=".32"/>
+      <stop offset=".63" stop-color="#685407" stop-opacity=".2"/>
+      <stop offset=".74" stop-color="#5a4f03" stop-opacity=".12"/>
+      <stop offset=".85" stop-color="#514c01" stop-opacity=".07"/>
+      <stop offset=".95" stop-color="#4f4b01" stop-opacity=".05"/>
+    </radialGradient>
+    <radialGradient id="_未命名的渐变_35" data-name="未命名的渐变 35" cx="395.41" cy="208.72" fx="384.77" fy="588.76" r="380.19" gradientTransform="translate(0 485) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".12" stop-color="#ee842b"/>
+      <stop offset=".22" stop-color="#bf6a22" stop-opacity=".88"/>
+      <stop offset=".37" stop-color="#864a18" stop-opacity=".74"/>
+      <stop offset=".51" stop-color="#562f0f" stop-opacity=".62"/>
+      <stop offset=".64" stop-color="#301b08" stop-opacity=".52"/>
+      <stop offset=".76" stop-color="#150c03" stop-opacity=".46"/>
+      <stop offset=".87" stop-color="#050301" stop-opacity=".41"/>
+      <stop offset=".95" stop-color="#000" stop-opacity=".4"/>
+    </radialGradient>
+  </defs><g id="_进入系统"><g>
+          <polygon class="cls-23" points="1338.69 234.76 1478.02 234.76 1495.95 216.83 1495.95 39.45 1480.55 24.04 1320.12 24.04 1304.76 39.4 1304.76 216.83 1322.62 234.69 1338.69 234.76"/>
+          <polyline class="cls-6" points="1304.81 65.13 1304.81 39.45 1320.12 24.14 1328.75 24.14"/>
+          <line class="cls-6" x1="1304.81" y1="68.46" x2="1304.81" y2="189.14"/>
+          <polyline class="cls-6" points="1336.79 234.76 1322.55 234.76 1304.62 216.83 1304.62 194.32"/>
+          <rect class="cls-37" x="1300.55" y="194.32" width="4.07" height="17.15"/>
+          <line class="cls-14" x1="1331.07" y1="24.14" x2="1340.35" y2="24.14"/>
+          <polygon class="cls-47" points="1342.29 24.14 1355.98 37.83 1368.17 37.83 1382.03 23.97 1342.29 24.14"/>
+          <g>
+            <polygon class="cls-47" points="1379.82 37.83 1368.17 37.83 1382.03 23.97 1393.41 23.97 1379.82 37.83"/>
+            <g class="cls-48">
+              <g class="cls-36">
+                <polygon class="cls-28" points="1379.82 37.83 1368.17 37.83 1382.03 23.97 1393.41 23.97 1379.82 37.83"/>
+              </g>
+            </g>
+          </g>
+          <polyline class="cls-6" points="1471.82 24.14 1480.45 24.14 1495.77 39.45 1495.77 65.13"/>
+          <line class="cls-6" x1="1495.77" y1="68.46" x2="1495.77" y2="189.14"/>
+          <polyline class="cls-6" points="1463.79 234.76 1478.02 234.76 1495.95 216.83 1495.95 194.32"/>
+          <rect class="cls-37" x="1495.95" y="194.32" width="4.07" height="17.15" transform="translate(2995.98 405.78) rotate(180)"/>
+          <line class="cls-14" x1="1469.5" y1="24.14" x2="1460.23" y2="24.14"/>
+          <polygon class="cls-47" points="1458.29 24.14 1444.59 37.83 1432.41 37.83 1418.55 23.97 1458.29 24.14"/>
+          <g>
+            <polygon class="cls-47" points="1420.76 37.83 1432.41 37.83 1418.55 23.97 1407.17 23.97 1420.76 37.83"/>
+            <g class="cls-40">
+              <g class="cls-36">
+                <polygon class="cls-28" points="1420.76 37.83 1432.41 37.83 1418.55 23.97 1407.17 23.97 1420.76 37.83"/>
+              </g>
+            </g>
+          </g>
+          <g>
+            <polygon class="cls-47" points="1383.56 37.83 1393.41 37.83 1399.56 31.68 1405.91 38.02 1416.02 38.02 1402.2 24.2 1397.14 24.2 1383.56 37.83"/>
+            <g class="cls-17">
+              <g class="cls-36">
+                <polygon class="cls-28" points="1383.56 37.83 1393.41 37.83 1399.56 31.68 1405.91 38.02 1416.02 38.02 1402.2 24.2 1397.14 24.2 1383.56 37.83"/>
+              </g>
+            </g>
+          </g>
+          <polygon class="cls-22" points="1394.18 38.26 1405.1 38.26 1399.57 32.73 1394.18 38.26"/>
+          <text class="cls-43" transform="translate(1372.95 185.41) scale(1.2 1)"><tspan class="cls-19"><tspan x="0" y="0">Turn on </tspan></tspan><tspan class="cls-19" x="-22.37" y="25.89">the camera</tspan><tspan class="cls-16" x="61.41" y="25.89">！</tspan></text>
+        </g><g>
+          <polygon class="cls-13" points="1400.48 64.47 1346.56 151.53 1454.13 151.53 1400.48 64.47"/>
+          <polygon class="cls-31" points="1396.31 101.78 1404.38 101.78 1402.7 131.36 1398.33 131.36 1396.31 101.78"/>
+          <circle class="cls-31" cx="1400.35" cy="137.48" r="2.71"/>
+        </g></g></svg>

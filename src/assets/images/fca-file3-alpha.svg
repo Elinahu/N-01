@@ -1,0 +1,300 @@
+<svg viewBox="704.42 107.45 964.67 688.01" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #b26526;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-10, .cls-3, .cls-4, .cls-11, .cls-12, .cls-13, .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-14 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-15, .cls-16 {
+        stroke: #4d3119;
+      }
+
+      .cls-15, .cls-17, .cls-18, .cls-19 {
+        fill: #7a2418;
+      }
+
+      .cls-20 {
+        font-size: 36px;
+      }
+
+      .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-19, .cls-25 {
+        font-weight: 700;
+      }
+
+      .cls-20, .cls-22, .cls-24, .cls-19, .cls-25 {
+        font-family: Consolas-Bold, Consolas;
+      }
+
+      .cls-20, .cls-24, .cls-26, .cls-25 {
+        fill: #ead6b3;
+      }
+
+      .cls-2, .cls-3, .cls-6, .cls-8, .cls-9 {
+        stroke: #ead6b3;
+      }
+
+      .cls-2, .cls-27, .cls-16, .cls-28, .cls-29, .cls-30 {
+        fill: #050606;
+      }
+
+      .cls-31 {
+        fill: #ff921f;
+      }
+
+      .cls-10 {
+        stroke: #ee842b;
+      }
+
+      .cls-10, .cls-29, .cls-13 {
+        stroke-width: 3px;
+      }
+
+      .cls-21 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+        font-size: 18.9px;
+      }
+
+      .cls-21, .cls-32 {
+        fill: #080a07;
+      }
+
+      .cls-21, .cls-32, .cls-24, .cls-19, .cls-25 {
+        isolation: isolate;
+      }
+
+      .cls-33, .cls-34 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-4, .cls-29, .cls-30, .cls-13 {
+        stroke: #ff921f;
+      }
+
+      .cls-11 {
+        stroke: #714115;
+      }
+
+      .cls-12 {
+        stroke: #73552e;
+      }
+
+      .cls-35 {
+        fill: #cbb28a;
+      }
+
+      .cls-36 {
+        fill: #ee922d;
+      }
+
+      .cls-28 {
+        stroke: #a96619;
+      }
+
+      .cls-17 {
+        font-family: Consolas-Italic, Consolas;
+        font-size: 20.57px;
+      }
+
+      .cls-17, .cls-23 {
+        font-style: italic;
+      }
+
+      .cls-5 {
+        fill: #090a07;
+        stroke: #cbb28a;
+      }
+
+      .cls-6 {
+        fill: #c1272d;
+      }
+
+      .cls-32 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+        font-size: 12.57px;
+      }
+
+      .cls-30 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-23 {
+        font-family: Consolas-BoldItalic, Consolas;
+      }
+
+      .cls-7 {
+        stroke: #080a07;
+      }
+
+      .cls-37 {
+        fill: #0a0b07;
+      }
+
+      .cls-24, .cls-19 {
+        font-size: 35.96px;
+      }
+
+      .cls-8 {
+        fill: #666159;
+      }
+
+      .cls-26 {
+        font-size: 14.63px;
+      }
+
+      .cls-34 {
+        fill: #b5a58d;
+        font-size: 13.3px;
+      }
+
+      .cls-25 {
+        font-size: 16.67px;
+      }
+
+      .cls-9 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <clipPath id="portrait-clip">
+      <rect x="786.7" y="348.59" width="206.46" height="259.58" />
+    </clipPath>
+  </defs>
+  <g id="file3-root">
+    <g id="window-frame">
+      <path class="cls-29" d="M705.92,768.69v-462.89l29.26-29.26v-142.32l23.94-25.27h143.65l29.26,29.26h710.29l25.27,26.6v605.21l-23.94,23.94h-911.14l-26.6-25.27Z" />
+      <path class="cls-4" d="M729.86,754.06v-436.28l23.94-25.27v-67.84h888.53v534.71l-21.28,10.64h-875.23l-15.96-15.96Z" />
+      <g id="header" data-name="08_甲_标题栏">
+        <path class="cls-2" d="M768.58,127.57h140.95l67.57,83.8h-223.51v-68.82l14.98-14.98Z" />
+        <path class="cls-35" d="M948.52,148.85h682.22l15.59,18.62v49.21h-645.83l-51.98-67.84Z" />
+        <text class="cls-24" transform="translate(791.97 178.86) scale(.98 1)">
+          <tspan x="0" y="0">Alpha</tspan>
+        </text>
+        <path class="cls-31" d="M1515.74,275.13l16.15-23.87h16.15l-16.15,23.87h-16.15Z" />
+        <path class="cls-31" d="M1542.65,275.13l16.15-23.87h16.15l-16.15,23.87h-16.15Z" />
+        <path class="cls-31" d="M1569.56,275.13l16.15-23.87h16.15l-16.15,23.87h-16.15Z" />
+        <path class="cls-1" d="M1426.97,180.89v-5.31c3.54-4.25,6.73-4.25,9.57,0v5.31M1425.37,180.89h12.76v12.75h-12.76v-12.75Z" />
+        <path class="cls-7" d="M1515.74,187.26h17.01M1560.39,176.64h15.95v15.94h-15.95v-15.94ZM1601.86,176.64l14.88,14.88M1616.74,176.64l-14.88,14.88" />
+      </g>
+    </g>
+    <image x="786.7" y="348.59" width="206.46" height="259.58" href="./file3-alpha-portrait.png" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait-clip)" />
+    <rect class="cls-9" x="786.7" y="348.59" width="206.46" height="259.58" />
+    <g id="_10_圆形LOGO" data-name="10_圆形LOGO">
+      <circle class="cls-30" cx="842.93" cy="682.23" r="99.76" />
+      <circle class="cls-28" cx="842.93" cy="682.23" r="86.46" />
+      <g>
+        <polygon class="cls-36" points="821.08 634.64 825.59 648.19 822.74 653.89 817.22 710.74 806.38 714.35 812.66 654.58 821.08 634.64" />
+        <polygon class="cls-36" points="819 710.15 823.92 659.19 830.92 680.22 828.85 706.87 819 710.15" />
+        <polygon class="cls-36" points="834.95 630.02 839.46 643.58 845.15 646.43 876.31 680.6 889.93 676.19 883.25 669.14 880.58 670.02 853.64 640.94 834.95 630.02" />
+        <polygon class="cls-36" points="847.36 651.39 876.03 682.73 883.5 680.25 889.98 686.53 886.4 687.72 881.72 683.1 880.45 683.52 884.92 688.21 880 689.85 866.22 674.42 865.25 674.74 879.17 690.12 872.69 692.28 854.53 672.36 847.36 651.39" />
+        <polygon class="cls-36" points="892 685.85 899.56 683.34 892.29 676.59 884.9 679.05 892 685.85" />
+        <polygon class="cls-36" points="848.94 700.07 851.86 699.1 835.83 650.93 833.85 654.73 848.94 700.07" />
+        <polygon class="cls-36" points="843.5 702 847.15 700.78 837.24 671.02 835.01 676.48 843.5 702" />
+        <polygon class="cls-36" points="855.38 697.77 853.71 698.33 841.89 662.8 844.37 664.69 855.38 697.77" />
+        <polygon class="cls-36" points="862.27 695.75 857.36 697.38 851.89 680.93 858.14 683.33 862.27 695.75" />
+        <polygon class="cls-36" points="838.98 703.5 841.68 702.6 836.2 686.15 834.29 689.4 838.98 703.5" />
+        <line class="cls-36" x1="834.84" y1="652.83" x2="825.19" y2="623.86" />
+        <path class="cls-36" d="M811.44,703.41c-11.78,3.92-19.8,3.83-22.6-.27-2.83-4.14.08-11.75,8.19-21.44,7.96-9.51,20.01-19.99,33.93-29.5l.33.48-.33-.48c13.92-9.52,28.06-16.94,39.81-20.91,11.97-4.03,20.12-3.98,22.95.16,2.83,4.14-.08,11.75-8.18,21.44-7.96,9.51-20.01,19.99-33.93,29.5-13.92,9.52-28.06,16.94-39.81,20.91-.12.04-.23.08-.35.12ZM830.32,652.76c-13.83,9.46-24.52,20.25-32.41,29.68-7.63,9.12-9.7,14.96-6.66,18.12,1.67,1.73,6.86,4.15,17.98,1.27.12-.03,3.47-1.15,3.58-1.19,11.65-3.93,24.28-9.75,38.12-19.21,13.83-9.46,25.8-19.86,33.69-29.29,7.63-9.12,8.84-15.96,6.37-19.57-2.47-3.62-9.21-4.34-20.64-.53-11.25,3.74-17.7,8.07-32.66,16.39l-7.37,4.34Z" />
+        <path class="cls-36" d="M827.32,619.95l-1.37.36c-1.01.14-1.62-.49-2.05-1.3l-.73-1.6-.51-1.16.24,1.25.37,1.78c.22.97.13,1.63-.82,2.12l-1.24.57-.44.19.48-.09,1.36-.3c1.02-.19,1.39-.12,1.88.72l.44.84.27.54-.11-.59-.19-.92c-.21-1.07.31-1.27,1.14-1.7l1.3-.6.38-.21-.39.11Z" />
+        <polygon class="cls-36" points="805.86 720.97 840.92 709.31 837.68 715.78 803.1 727.29 805.86 720.97" />
+        <polyline class="cls-36" points="802.59 729.59 798.42 746.73 808.46 743.39 811.89 730.9 835.82 722.93 836.17 718.41" />
+        <path class="cls-36" d="M876.84,697.35l-30.41,10.12c-.64.21-3.07,4.32-3.11,4.59l-3.74,15.01c-.1.73.11,1.46.59,2.02l1.36,1.6c.68.79,1.77,1.1,2.76.77l32.81-10.92c.64-.21,1.18-.68,1.48-1.28l.78-1.55c1.02-2.04-.93-4.29-3.1-3.57l-18.39,6.12c-1.78.59-3.57-.87-3.35-2.73l.72-6.04c.12-.98.79-1.81,1.73-2.13l21.48-7.15c.73-.24,1.31-.8,1.58-1.51h0c.78-2.02-1.15-4.03-3.2-3.35Z" />
+        <polygon class="cls-36" points="881.39 719.11 888.34 693.52 900.98 689.31 924.11 704.9 914.83 707.99 896.92 694.49 891.8 715.65 881.39 719.11" />
+        <polygon class="cls-36" points="895.96 705.23 894.27 711.35 909.89 706.15 905.1 702.19 895.96 705.23" />
+        <circle class="cls-36" cx="877.72" cy="629.59" r="4.29" />
+      </g>
+    </g>
+    <g id="_11_症状说明区域" data-name="11_症状说明区域">
+      <rect class="cls-16" x="1083.87" y="326.62" width="511.98" height="315.87" />
+      <path class="cls-13" d="M1093.58,312.14h-15.77l-8.49,9.21v23.69" />
+      <path class="cls-13" d="M1069.31,628v19.74l8.49,9.21h20.62" />
+      <path class="cls-13" d="M1586.15,312.14h15.77l8.49,9.21v23.69" />
+      <path class="cls-13" d="M1610.41,628v19.74l-8.49,9.21h-20.62" />
+      <text transform="translate(1194.6 374.31)">
+        <tspan class="cls-26">
+          <tspan class="cls-14" x="0" y="0">【</tspan>
+          <tspan class="cls-22" x="14.63" y="0">Experimental Observation Summary</tspan>
+          <tspan class="cls-14" x="272.07" y="0">】</tspan>
+        </tspan>
+        <tspan class="cls-26">
+          <tspan class="cls-23" x="62.9" y="35.12">Environmental Setup:</tspan>
+          <tspan class="cls-33" x="223.8" y="35.12" />
+        </tspan>
+        <tspan class="cls-34">
+          <tspan x="-61.42" y="51.08">A fully enclosed, four-walled white laboratory devoid of </tspan>
+        </tspan>
+        <tspan class="cls-34">
+          <tspan x="-32.17" y="67.04">any visual reference points (sensory deprivation </tspan>
+        </tspan>
+        <tspan class="cls-34">
+          <tspan x="95.81" y="83">environment).</tspan>
+        </tspan>
+        <tspan class="cls-26">
+          <tspan class="cls-23" x="62.9" y="116.52">Observation Results:</tspan>
+          <tspan class="cls-33" x="223.8" y="116.52" />
+        </tspan>
+        <tspan class="cls-34">
+          <tspan x="-54.11" y="132.48">Upon being placed in this fully white environment, the </tspan>
+        </tspan>
+        <tspan class="cls-34">
+          <tspan x="-68.74" y="148.44">subject's physiological and psychological defenses rapidly </tspan>
+        </tspan>
+        <tspan class="cls-34">
+          <tspan x="-72.39" y="164.4">collapsed. The subject exhibited extreme mania, accompanied </tspan>
+        </tspan>
+        <tspan class="cls-34">
+          <tspan x="-65.08" y="180.37">by severe muscle spasms and involuntary convulsions. This </tspan>
+        </tspan>
+        <tspan class="cls-34">
+          <tspan x="-65.08" y="196.33">acute stress response, triggered by the absolute monotony </tspan>
+        </tspan>
+        <tspan class="cls-34">
+          <tspan x="-68.74" y="212.29">of the environment, indicates a severe cognitive breakdown </tspan>
+        </tspan>
+        <tspan class="cls-34">
+          <tspan x="-72.4" y="228.25">as the subject loses spatial perception and visual anchors.</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g id="_12_甲_界面装饰" data-name="12_甲_界面装饰">
+      <rect class="cls-31" x="1033.8" y="694.2" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1033.8" y="708.83" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1033.8" y="723.46" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1048.43" y="694.2" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1048.43" y="708.83" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1048.43" y="723.46" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1063.06" y="694.2" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1063.06" y="708.83" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1063.06" y="723.46" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1553.88" y="703.51" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1553.88" y="722.13" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1553.88" y="740.76" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1571.17" y="703.51" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1571.17" y="722.13" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1571.17" y="740.76" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1588.46" y="703.51" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1588.46" y="722.13" width="5.32" height="5.32" />
+      <rect class="cls-31" x="1588.46" y="740.76" width="5.32" height="5.32" />
+      <path class="cls-12" d="M1068.78,762.52h127.69" />
+      <path class="cls-12" d="M1449.19,763.85h119.71" />
+    </g>
+    <rect class="cls-27" x="809.19" y="425.36" width="161.48" height="45.75" />
+    <text class="cls-17" transform="translate(1084.89 706.17)">
+      <tspan x="0" y="0">19/26</tspan>
+    </text>
+    <text class="cls-17" transform="translate(1157.82 731.59)">
+      <tspan x="0" y="0">21/26</tspan>
+    </text>
+  </g>
+</svg>

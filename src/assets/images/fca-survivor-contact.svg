@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 964.69 688.02">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        stroke: #4d3119;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #7a2418;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #ead6b3;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 2px;
+      }
+
+      .cls-5, .cls-9 {
+        fill: #050606;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-10 {
+        fill: #ead6b3;
+        font-size: 36px;
+      }
+
+      .cls-7, .cls-9 {
+        stroke: #ff921f;
+      }
+
+      .cls-9 {
+        stroke-width: 3px;
+      }
+
+      .cls-11 {
+        font-family: Consolas-BoldItalic, Consolas;
+        font-style: italic;
+      }
+
+      .cls-11, .cls-4 {
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        stroke: #080a07;
+      }
+
+      .cls-4 {
+        font-family: Consolas-Bold, Consolas;
+        font-size: 35.96px;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <g id="file3-root" data-name="?">
+    <g id="window-frame" data-name="07_甲_详情窗口外框">
+      <path class="cls-9" d="M1.5,661.25V198.36l29.26-29.26V26.77L54.71,1.5h143.65l29.26,29.26h710.29l25.27,26.6v605.21l-23.94,23.94H28.1l-26.6-25.27Z" />
+      <path class="cls-7" d="M25.44,646.61V210.33l23.94-25.27v-67.84h888.53v534.71l-21.28,10.64H41.4l-15.96-15.96Z" />
+      <g id="header" data-name="08_甲_标题栏">
+        <path class="cls-5" d="M64.16,20.12h140.95l67.57,83.8H49.18V35.1l14.98-14.98Z" />
+        <path class="cls-3" d="M244.09,41.4h682.22l15.59,18.62v49.21H296.07l-51.98-67.84Z" />
+        <text class="cls-4" transform="translate(108.84 73.42) scale(.98 1)">
+          <tspan x="0" y="0">???</tspan>
+        </text>
+        <path class="cls-6" d="M722.54,73.45v-5.31c3.54-4.25,6.73-4.25,9.57,0v5.31M720.95,73.45h12.76v12.75h-12.76v-12.75Z" />
+        <path class="cls-8" d="M811.32,79.82h17.01M855.97,69.2h15.95v15.94h-15.95v-15.94ZM897.43,69.2l14.88,14.88M912.32,69.2l-14.88,14.88" />
+      </g>
+    </g>
+    <g id="_11_症状说明区域" data-name="11_症状说明区域">
+      <polygon class="cls-2" points="324.71 344.01 661.6 344.01 671.6 354.01 671.6 411.11 661.6 421.11 324.71 421.11 314.71 411.11 314.71 354.01 324.71 344.01" />
+      <text class="cls-10" transform="translate(356.4 392.35)">
+        <tspan class="cls-11" x="0" y="0">Mail</tspan>
+        <tspan class="cls-1" x="79.17" y="0">：</tspan>
+        <tspan class="cls-11" x="115.17" y="0">0-A-0001</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

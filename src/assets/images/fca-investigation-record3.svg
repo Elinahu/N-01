@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 781.27 721.28">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .28em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-3 {
+        letter-spacing: .45em;
+      }
+
+      .cls-4 {
+        stroke: #7e694d;
+        stroke-width: 5px;
+      }
+
+      .cls-5 {
+        letter-spacing: .2em;
+      }
+
+      .cls-6 {
+        font-family: Consolas-Bold, Consolas;
+        font-size: 25.44px;
+      }
+
+      .cls-6, .cls-7 {
+        font-weight: 700;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        isolation: isolate;
+      }
+
+      .cls-6, .cls-8, .cls-9 {
+        fill: #dbc7a7;
+      }
+
+      .cls-13 {
+        stroke: #756047;
+        stroke-linejoin: round;
+      }
+
+      .cls-13, .cls-14 {
+        fill: none;
+      }
+
+      .cls-15 {
+        letter-spacing: .12em;
+      }
+
+      .cls-7 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+        font-size: 33.68px;
+      }
+
+      .cls-7, .cls-16, .cls-10 {
+        fill: #ee842b;
+      }
+
+      .cls-8 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+        font-size: 17.61px;
+      }
+
+      .cls-17 {
+        letter-spacing: .28em;
+      }
+
+      .cls-18 {
+        fill: #ead6b3;
+      }
+
+      .cls-19 {
+        font-size: 15.57px;
+      }
+
+      .cls-19, .cls-9, .cls-10, .cls-11, .cls-12 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-14, .cls-20 {
+        opacity: .78;
+        stroke: #ead6b3;
+        stroke-width: 2px;
+      }
+
+      .cls-20 {
+        fill: #666159;
+      }
+
+      .cls-21 {
+        letter-spacing: .2em;
+      }
+
+      .cls-9, .cls-10, .cls-12 {
+        font-size: 14.13px;
+      }
+
+      .cls-22 {
+        fill: #d4c19d;
+      }
+
+      .cls-23 {
+        letter-spacing: .45em;
+      }
+
+      .cls-24 {
+        fill: #11120e;
+        stroke: #ab8858;
+        stroke-width: 1.5px;
+      }
+
+      .cls-25 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-26 {
+        fill: #0b0c09;
+        stroke: #aa8453;
+        stroke-width: 1.8px;
+      }
+
+      .cls-27 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-11 {
+        font-size: 12.67px;
+      }
+
+      .cls-11, .cls-12 {
+        fill: #88785e;
+      }
+
+      .cls-28 {
+        letter-spacing: .12em;
+      }
+    </style>
+  </defs>
+  <g id="_文档管理" data-name="#文档管理">
+    <g>
+      <g id="results-panel">
+        <path class="cls-26" d="M13.57.9h755.17l11.62,14.82v688.49l-11.62,16.17H13.57l-12.67-16.17V18.42L13.57.9Z"/>
+        <path class="cls-13" d="M29.42,88.57h725.6"/>
+        <text class="cls-7" transform="translate(35.75 60.18) scale(.91 1)"><tspan x="0" y="0">CASE#2126-03</tspan></text>
+        <text class="cls-8" transform="translate(216.53 57.84) scale(.78 1)"><tspan x="0" y="0">/// Investigation Results</tspan></text>
+        <path class="cls-4" d="M687.33,55.95l12.67-17.52M700.01,55.95l12.67-17.52M712.68,55.95l12.67-17.52"/>
+      </g>
+      <g id="result-document">
+        <path class="cls-24" d="M36.81,126.99l11.62-14.83h684.41l12.67,17.79v553.09l-12.67,17.79H48.43l-11.62-17.79V126.99Z"/>
+        <g>
+          <text class="cls-6" transform="translate(300.1 199.77)"><tspan x="0" y="0">CASE#2126-03</tspan></text>
+          <path class="cls-13" d="M300.1,213.32h380.63"/>
+          <text class="cls-12" transform="translate(300.1 246.34)"><tspan x="0" y="0">REPORT ID</tspan></text>
+          <text class="cls-9" transform="translate(424.46 246.34)"><tspan x="0" y="0">CASE#2126-03</tspan></text>
+          <text class="cls-12" transform="translate(300.1 280.25)"><tspan x="0" y="0">SUBJECT</tspan></text>
+          <text class="cls-9" transform="translate(424.46 280.25)"><tspan x="0" y="0">N-01 ANOMALY</tspan></text>
+          <text class="cls-12" transform="translate(300.1 314.17)"><tspan x="0" y="0">FILE TYPE</tspan></text>
+          <text class="cls-9" transform="translate(424.46 314.17)"><tspan x="0" y="0">INVESTIGATION FINDINESS / INTERNAL</tspan></text>
+          <text class="cls-12" transform="translate(300.1 348.09)"><tspan x="0" y="0">ACCESS STATUS</tspan></text>
+          <circle class="cls-16" cx="429.17" cy="343.38" r="3.77"/>
+          <text class="cls-10" transform="translate(442.36 348.09)"><tspan x="0" y="0">ACCESS GRANTED</tspan></text>
+          <path class="cls-13" d="M300.1,365.78h380.63"/>
+        </g>
+        <text class="cls-11" transform="translate(520.04 673.77)"><tspan x="0" y="0">FCA /// FUTURE CITY AUTHORITY</tspan></text>
+      </g>
+      <text class="cls-19" transform="translate(79.41 430.62)"><tspan class="cls-22"><tspan x="0" y="0">File</tspan><tspan class="cls-2" x="34.24" y="0"> </tspan><tspan x="42.35" y="0">records</tspan><tspan class="cls-2" x="102.27" y="0"> </tspan><tspan x="110.38" y="0">indicate</tspan><tspan class="cls-25" x="178.87" y="0"> </tspan><tspan x="186.97" y="0">that</tspan><tspan class="cls-2" x="221.22" y="0"> </tspan><tspan x="229.32" y="0">the</tspan><tspan class="cls-2" x="255" y="0"> </tspan><tspan x="263.11" y="0">subject</tspan><tspan class="cls-2" x="323.04" y="0"> </tspan><tspan x="331.14" y="0">exhibited</tspan><tspan class="cls-2" x="408.19" y="0"> </tspan><tspan x="416.3" y="0">extreme</tspan><tspan class="cls-2" x="476.22" y="0"> </tspan><tspan x="484.33" y="0">physiological</tspan><tspan class="cls-25" x="595.61" y="0"> </tspan><tspan x="603.72" y="0">and </tspan></tspan><tspan class="cls-22"><tspan x="0" y="18.68">psychological</tspan><tspan class="cls-21" x="111.29" y="18.68"> </tspan><tspan x="122.93" y="18.68">breakdown</tspan><tspan class="cls-5" x="199.98" y="18.68"> </tspan><tspan x="211.63" y="18.68">when</tspan><tspan class="cls-21" x="245.87" y="18.68"> </tspan><tspan x="257.51" y="18.68">subjected</tspan><tspan class="cls-21" x="334.56" y="18.68"> </tspan><tspan x="346.21" y="18.68">to</tspan><tspan class="cls-21" x="363.33" y="18.68"> </tspan><tspan x="374.97" y="18.68">environmental</tspan><tspan class="cls-5" x="486.26" y="18.68"> </tspan><tspan x="497.91" y="18.68">stimulation</tspan><tspan class="cls-21" x="592.07" y="18.68"> </tspan><tspan x="603.72" y="18.68">and </tspan></tspan><tspan class="cls-22"><tspan x="0" y="37.37">deprivation.</tspan><tspan class="cls-27" x="102.73" y="37.37"> </tspan><tspan x="109.88" y="37.37">When</tspan><tspan class="cls-27" x="144.12" y="37.37"> </tspan><tspan x="151.28" y="37.37">placed</tspan><tspan class="cls-27" x="202.64" y="37.37"> </tspan><tspan x="209.8" y="37.37">in</tspan><tspan class="cls-27" x="226.92" y="37.37"> </tspan><tspan x="234.08" y="37.37">a</tspan><tspan class="cls-27" x="242.64" y="37.37"> </tspan><tspan x="249.79" y="37.37">completely</tspan><tspan class="cls-27" x="335.4" y="37.37"> </tspan><tspan x="342.56" y="37.37">white</tspan><tspan class="cls-27" x="385.36" y="37.37"> </tspan><tspan x="392.52" y="37.37">enclosed</tspan><tspan class="cls-27" x="461" y="37.37"> </tspan><tspan x="468.16" y="37.37">laboratory</tspan><tspan class="cls-27" x="553.76" y="37.37"> </tspan><tspan x="560.92" y="37.37">(sensory </tspan></tspan><tspan class="cls-22"><tspan x="0" y="56.05">deprivation</tspan><tspan class="cls-1" x="94.17" y="56.05"> </tspan><tspan x="107.04" y="56.05">environment),</tspan><tspan class="cls-17" x="218.32" y="56.05"> </tspan><tspan x="231.19" y="56.05">the</tspan><tspan class="cls-1" x="256.88" y="56.05"> </tspan><tspan x="269.75" y="56.05">subject</tspan><tspan class="cls-17" x="329.67" y="56.05"> </tspan><tspan x="342.54" y="56.05">rapidly</tspan><tspan class="cls-1" x="402.46" y="56.05"> </tspan><tspan x="415.34" y="56.05">displayed</tspan><tspan class="cls-17" x="492.38" y="56.05"> </tspan><tspan x="505.25" y="56.05">extreme</tspan><tspan class="cls-1" x="565.17" y="56.05"> </tspan><tspan x="578.05" y="56.05">mania, </tspan></tspan><tspan class="cls-22"><tspan x="0" y="74.74">accompanied by severe spasms and convulsions.</tspan></tspan><tspan class="cls-18"><tspan x="0" y="112.11">The</tspan><tspan class="cls-2" x="25.68" y="112.11"> </tspan><tspan x="33.79" y="112.11">subject</tspan><tspan class="cls-2" x="93.71" y="112.11"> </tspan><tspan x="101.82" y="112.11">developed</tspan><tspan class="cls-25" x="178.87" y="112.11"> </tspan><tspan x="186.97" y="112.11">a</tspan><tspan class="cls-2" x="195.53" y="112.11"> </tspan><tspan x="203.64" y="112.11">pathological</tspan><tspan class="cls-2" x="306.37" y="112.11"> </tspan><tspan x="314.48" y="112.11">interest</tspan><tspan class="cls-2" x="382.96" y="112.11"> </tspan><tspan x="391.07" y="112.11">in</tspan><tspan class="cls-2" x="408.19" y="112.11"> </tspan><tspan x="416.3" y="112.11">electronic</tspan><tspan class="cls-2" x="501.9" y="112.11"> </tspan><tspan x="510.01" y="112.11">screens,</tspan><tspan class="cls-25" x="578.49" y="112.11"> </tspan><tspan x="586.6" y="112.11">while </tspan></tspan><tspan class="cls-18"><tspan x="0" y="130.79">suffering</tspan><tspan class="cls-2" x="77.04" y="130.79"> </tspan><tspan x="85.15" y="130.79">severe</tspan><tspan class="cls-2" x="136.52" y="130.79"> </tspan><tspan x="144.62" y="130.79">physiological</tspan><tspan class="cls-2" x="255.91" y="130.79"> </tspan><tspan x="264.02" y="130.79">disruption</tspan><tspan class="cls-2" x="349.62" y="130.79"> </tspan><tspan x="357.73" y="130.79">(sleep</tspan><tspan class="cls-2" x="409.09" y="130.79"> </tspan><tspan x="417.2" y="130.79">reduced</tspan><tspan class="cls-2" x="477.12" y="130.79"> </tspan><tspan x="485.23" y="130.79">to</tspan><tspan class="cls-2" x="502.35" y="130.79"> </tspan><tspan x="510.46" y="130.79">2-3</tspan><tspan class="cls-2" x="536.14" y="130.79"> </tspan><tspan x="544.25" y="130.79">hours</tspan><tspan class="cls-2" x="587.05" y="130.79"> </tspan><tspan x="595.16" y="130.79">with </tspan></tspan><tspan class="cls-18"><tspan x="0" y="149.47">loss</tspan><tspan class="cls-3" x="34.24" y="149.47"> </tspan><tspan x="49.78" y="149.47">of</tspan><tspan class="cls-3" x="66.9" y="149.47"> </tspan><tspan x="82.45" y="149.47">appetite).</tspan><tspan class="cls-23" x="168.05" y="149.47"> </tspan><tspan x="183.59" y="149.47">Behaviorally</tspan><tspan class="cls-3" x="286.32" y="149.47"> </tspan><tspan x="301.86" y="149.47">passive,</tspan><tspan class="cls-3" x="370.34" y="149.47"> </tspan><tspan x="385.89" y="149.47">the</tspan><tspan class="cls-3" x="411.57" y="149.47"> </tspan><tspan x="427.11" y="149.47">subject</tspan><tspan class="cls-23" x="487.03" y="149.47"> </tspan><tspan x="502.57" y="149.47">rarely</tspan><tspan class="cls-3" x="553.94" y="149.47"> </tspan><tspan x="569.48" y="149.47">reacted </tspan></tspan><tspan class="cls-18"><tspan x="0" y="168.16">proactively</tspan><tspan class="cls-15" x="94.17" y="168.16"> </tspan><tspan x="104.59" y="168.16">and</tspan><tspan class="cls-15" x="130.27" y="168.16"> </tspan><tspan x="140.7" y="168.16">showed</tspan><tspan class="cls-15" x="192.06" y="168.16"> </tspan><tspan x="202.49" y="168.16">significant</tspan><tspan class="cls-15" x="296.65" y="168.16"> </tspan><tspan x="307.08" y="168.16">sluggishness</tspan><tspan class="cls-15" x="409.8" y="168.16"> </tspan><tspan x="420.23" y="168.16">to</tspan><tspan class="cls-28" x="437.35" y="168.16"> </tspan><tspan x="447.77" y="168.16">open-ended</tspan><tspan class="cls-15" x="533.38" y="168.16"> </tspan><tspan x="543.8" y="168.16">questions, </tspan></tspan><tspan class="cls-18"><tspan x="0" y="186.84">mostly unable to provide answers.</tspan></tspan></text>
+    </g>
+    <g>
+      <path class="cls-20" d="M101.01,203.96h45.37l19.1,14.64h84.77l-.11,134.06H101.01v-148.7Z"/>
+      <path class="cls-14" d="M101.01,237.13h149.24"/>
+    </g>
+  </g>
+</svg>

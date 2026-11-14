@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1312.45 802.38">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #b26526;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-7, .cls-5, .cls-6 {
+        stroke-width: 2px;
+      }
+
+      .cls-8 {
+        stroke: #7e694d;
+        stroke-width: 5px;
+      }
+
+      .cls-9 {
+        font-size: 25.44px;
+      }
+
+      .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20 {
+        isolation: isolate;
+      }
+
+      .cls-9, .cls-10, .cls-14, .cls-16 {
+        fill: #dbc7a7;
+      }
+
+      .cls-9, .cls-11, .cls-21, .cls-22, .cls-13, .cls-15, .cls-23 {
+        font-weight: 700;
+      }
+
+      .cls-9, .cls-21 {
+        font-family: Consolas-Bold, Consolas;
+      }
+
+      .cls-2 {
+        stroke: #817966;
+      }
+
+      .cls-3 {
+        stroke: #756047;
+        stroke-linejoin: round;
+      }
+
+      .cls-24, .cls-25, .cls-26 {
+        fill: #d4c19d;
+      }
+
+      .cls-24, .cls-27, .cls-28 {
+        stroke: #c29b62;
+        stroke-width: 1.6px;
+      }
+
+      .cls-10 {
+        font-size: 18.35px;
+      }
+
+      .cls-10, .cls-14, .cls-25, .cls-29, .cls-17 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+      }
+
+      .cls-11 {
+        font-size: 24.47px;
+      }
+
+      .cls-11, .cls-22, .cls-13, .cls-15, .cls-23 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+      }
+
+      .cls-11, .cls-13, .cls-30, .cls-18 {
+        fill: #ee842b;
+      }
+
+      .cls-12 {
+        font-size: 11.36px;
+      }
+
+      .cls-12, .cls-15 {
+        fill: #080a07;
+      }
+
+      .cls-31 {
+        fill: #b26526;
+      }
+
+      .cls-31, .cls-4, .cls-6 {
+        stroke: #ffe0c7;
+      }
+
+      .cls-22 {
+        opacity: .69;
+      }
+
+      .cls-22, .cls-23 {
+        fill: #dd8747;
+        font-size: 43.01px;
+      }
+
+      .cls-13 {
+        font-size: 33.68px;
+      }
+
+      .cls-14 {
+        font-size: 17.61px;
+      }
+
+      .cls-32 {
+        fill: #cbb28a;
+      }
+
+      .cls-25, .cls-26 {
+        font-size: 15.57px;
+      }
+
+      .cls-33 {
+        fill: #ee922d;
+      }
+
+      .cls-15 {
+        font-size: 26.78px;
+      }
+
+      .cls-7 {
+        fill: #090a07;
+        stroke: #cbb28a;
+      }
+
+      .cls-16, .cls-26, .cls-18, .cls-19, .cls-20 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-16, .cls-18, .cls-20 {
+        font-size: 14.13px;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        fill: #27251e;
+      }
+
+      .cls-34 {
+        fill: #11120e;
+        stroke: #ab8858;
+        stroke-width: 1.5px;
+      }
+
+      .cls-5 {
+        stroke: #080a07;
+      }
+
+      .cls-35 {
+        fill: #0a0b07;
+      }
+
+      .cls-36 {
+        fill: #0b0c09;
+        stroke: #aa8453;
+        stroke-width: 1.8px;
+      }
+
+      .cls-17 {
+        font-size: 17.01px;
+      }
+
+      .cls-17, .cls-19, .cls-20 {
+        fill: #88785e;
+      }
+
+      .cls-28 {
+        fill: #12130f;
+      }
+
+      .cls-19 {
+        font-size: 12.67px;
+      }
+    </style>
+  </defs>
+  <g id="_文档管理" data-name="#文档管理">
+    <g>
+      <g id="window-frame">
+        <path class="cls-7" d="M1311.45,39.48v753.1l-7.21,8.81H9.01l-8.01-8.01V38.7l16.45-16.44,1277.57.78,16.43,16.44Z"/>
+        <path class="cls-2" d="M1302.81,786.46l-7.95,6.36H16.16l-7.15-6.36V52.3l16.44-16.44h1260.77l16.44,16.44.15,734.16Z"/>
+        <g>
+          <path class="cls-32" d="M.06,12.17v-7.13L5.1,0h254.09l12.19,12.99h1035.53l5.18,5.18v34.59H.06V12.17Z"/>
+          <rect class="cls-35" x="14.67" y="10.97" width="31.87" height="30.82"/>
+          <text class="cls-15" transform="translate(61.8 35.71)"><tspan x="0" y="0">DOCUMENT</tspan></text>
+          <text class="cls-12" transform="translate(244.03 37.88)"><tspan class="cls-21" x="0" y="0">/// </tspan><tspan class="cls-29" x="24.99" y="0">COLLECTED CLUES</tspan></text>
+          <path class="cls-1" d="M1151.65,30.03v-4.06c2.71-3.25,5.14-3.25,7.31,0v4.06M1150.43,30.03h9.75v9.74h-9.75v-9.74Z"/>
+          <path class="cls-5" d="M1219.48,34.9h13M1253.6,26.78h12.19v12.17h-12.19v-12.17ZM1285.28,26.78l11.37,11.36M1296.65,26.78l-11.37,11.36"/>
+        </g>
+        <g>
+          <polygon class="cls-33" points="28.87 14.9 28.87 18.21 27.83 19.25 22.45 31.35 19.8 31.35 25.56 18.67 28.87 14.9"/>
+          <polygon class="cls-33" points="22.89 31.35 27.7 20.51 27.7 25.64 25.29 31.35 22.89 31.35"/>
+          <polygon class="cls-33" points="32.26 14.9 32.26 18.21 33.3 19.25 37.65 29.05 40.97 29.07 40.01 27.03 39.36 27.03 35.57 18.67 32.26 14.9"/>
+          <polygon class="cls-33" points="33.42 20.51 37.43 29.49 39.26 29.49 40.22 31.35 39.35 31.35 38.65 29.99 38.34 29.99 38.98 31.35 37.78 31.35 35.88 26.95 35.64 26.95 37.58 31.35 36 31.35 33.46 25.64 33.42 20.51"/>
+          <polygon class="cls-33" points="40.71 31.35 42.56 31.35 41.46 29.33 39.65 29.33 40.71 31.35"/>
+          <polygon class="cls-33" points="30.21 31.32 30.92 31.32 30.92 19.56 30.21 20.25 30.21 31.32"/>
+          <polygon class="cls-33" points="28.87 31.35 29.76 31.35 29.76 24.08 28.87 25.12 28.87 31.35"/>
+          <polygon class="cls-33" points="31.79 31.29 31.38 31.29 31.38 22.61 31.79 23.21 31.79 31.29"/>
+          <polygon class="cls-33" points="33.45 31.35 32.26 31.35 32.26 27.33 33.45 28.31 33.45 31.35"/>
+          <polygon class="cls-33" points="27.77 31.35 28.42 31.35 28.42 27.33 27.77 27.91 27.77 31.35"/>
+          <path class="cls-33" d="M21.72,29.31c-2.88,0-4.63-.61-4.95-1.71-.32-1.12.88-2.58,3.37-4.11,2.45-1.51,5.86-2.93,9.62-4l.04.13-.04-.13c3.76-1.07,7.41-1.67,10.28-1.68,2.93-.01,4.71.6,5.03,1.71.32,1.12-.88,2.58-3.37,4.11-2.45,1.51-5.86,2.93-9.62,4-3.76,1.07-7.41,1.67-10.28,1.68-.03,0-.06,0-.09,0ZM29.58,19.56c-3.73,1.07-6.87,2.66-9.3,4.15-2.34,1.45-3.23,2.58-2.79,3.5.24.5,1.21,1.41,3.86,1.6.03,0,.85,0,.87,0,2.85-.01,6.05-.37,9.79-1.43,3.73-1.07,7.13-2.48,9.55-3.97,2.34-1.45,3.11-2.86,2.83-3.84s-1.71-1.63-4.5-1.63-4.48.48-8.38,1.21l-1.94.41Z"/>
+          <path class="cls-33" d="M31.32,12.13l-.33-.02c-.23-.04-.32-.23-.35-.44l-.04-.4-.03-.29-.04.29-.05.42c-.02.23-.09.37-.34.41l-.31.04h-.11s.11.03.11.03l.32.03c.24.03.31.08.36.3l.04.22.02.14.02-.14.03-.22c.03-.25.16-.26.37-.29l.33-.04.1-.02h-.09Z"/>
+          <polygon class="cls-33" points="19.21 32.77 27.77 32.77 26.58 33.95 18.14 33.95 19.21 32.77"/>
+          <polyline class="cls-33" points="17.86 34.42 15.69 37.88 18.14 37.88 19.8 35.39 25.65 35.39 26.06 34.42"/>
+          <path class="cls-33" d="M36.54,32.77h-7.43c-.16,0-.99.73-1.02.78l-1.92,3.03c-.08.15-.08.33-.02.49l.18.45c.09.22.31.37.55.37h8.01c.16,0,.31-.06.42-.17l.28-.28c.37-.37.11-1.01-.42-1.01h-4.49c-.43,0-.72-.45-.54-.85l.6-1.28c.1-.21.31-.34.54-.34h5.24c.18,0,.35-.08.46-.22h0c.32-.39.04-.97-.46-.97Z"/>
+          <polygon class="cls-33" points="35.95 37.88 39.35 32.77 42.43 32.77 46.38 37.88 44.11 37.88 41.16 33.61 38.49 37.88 35.95 37.88"/>
+          <polygon class="cls-33" points="40.17 35.9 39.35 37.12 43.16 37.12 42.4 35.9 40.17 35.9"/>
+          <circle class="cls-33" cx="41.69" cy="17.93" r=".99"/>
+        </g>
+      </g>
+      <g>
+        <path id="folder-front" class="cls-27" d="M89,62.46h323.85v212.29l65.78,22.82v119.48l-65.78,24.16v340.81H96.52l-7.52-7.52V62.46Z"/>
+        <text class="cls-22" transform="translate(424.35 314.37) rotate(90)"><tspan x="0" y="0">FILE 3</tspan></text>
+        <path class="cls-3" d="M116.89,82.01h265.81"/>
+        <path class="cls-3" d="M116.89,762.47h265.81"/>
+      </g>
+      <g>
+        <path id="folder-front-2" data-name="folder-front" class="cls-24" d="M52.26,62.46h323.85v447.56l65.78,22.82v119.48l-65.78,24.16v105.54H59.78l-7.52-7.52V62.46Z"/>
+        <text class="cls-22" transform="translate(387.61 555.73) rotate(90)"><tspan x="0" y="0">FILE 2</tspan></text>
+        <path class="cls-3" d="M80.15,82.01h265.81"/>
+        <path class="cls-3" d="M80.15,762.47h265.81"/>
+      </g>
+      <g>
+        <path id="folder-front-3" data-name="folder-front" class="cls-28" d="M31.79,62.46h310.11v30.88l65.78,22.82v119.48l-65.78,24.16v522.22H39.32l-7.52-7.52V62.46Z"/>
+        <text class="cls-23" transform="translate(356.62 137.76) rotate(90)"><tspan x="0" y="0">FILE 1</tspan></text>
+      </g>
+      <g id="report-01">
+        <text class="cls-11" transform="translate(140.03 160.16)"><tspan x="0" y="0">Investigation File 1</tspan></text>
+        <text class="cls-10" transform="translate(140.03 195.33)"><tspan x="0" y="0">Initial Anomaly Assessment</tspan></text>
+        <text class="cls-17" transform="translate(140.03 228.96)"><tspan x="0" y="0">CASE#2126-01</tspan></text>
+        <g>
+          <path class="cls-31" d="M63.44,139.74h34.37l12.73,12.73v49.65h-47.1v-62.38Z"/>
+          <path class="cls-6" d="M96.54,139.74v16.55h14M71.08,165.2h26.73M71.08,175.38h26.73M71.08,185.57h21.64"/>
+        </g>
+      </g>
+      <path class="cls-3" d="M47.06,79.91h265.81"/>
+      <path class="cls-3" d="M47.06,760.38h265.81"/>
+      <g id="results-panel">
+        <path class="cls-36" d="M514.23,62.54h755.17l11.62,14.82v688.49l-11.62,16.17h-755.17l-12.67-16.17V80.05l12.67-17.52Z"/>
+        <path class="cls-3" d="M530.07,150.21h725.6"/>
+        <text class="cls-13" transform="translate(536.41 121.82) scale(.91 1)"><tspan x="0" y="0">CASE#2126-01</tspan></text>
+        <text class="cls-14" transform="translate(717.19 119.47) scale(.78 1)"><tspan x="0" y="0">/// Investigation Results</tspan></text>
+        <path class="cls-8" d="M1187.99,117.58l12.67-17.52M1200.66,117.58l12.67-17.52M1213.33,117.58l12.67-17.52"/>
+      </g>
+      <g id="result-document">
+        <path class="cls-34" d="M537.46,188.62l11.62-14.83h684.41l12.67,17.79v553.09l-12.67,17.79h-684.41l-11.62-17.79V188.62Z"/>
+        <g>
+          <text class="cls-9" transform="translate(800.75 261.41)"><tspan x="0" y="0">CASE#2126-01</tspan></text>
+          <path class="cls-3" d="M800.75,274.95h380.63"/>
+          <text class="cls-20" transform="translate(800.75 307.98)"><tspan x="0" y="0">REPORT ID</tspan></text>
+          <text class="cls-16" transform="translate(925.11 307.98)"><tspan x="0" y="0">CASE#2126-01</tspan></text>
+          <text class="cls-20" transform="translate(800.75 341.89)"><tspan x="0" y="0">SUBJECT</tspan></text>
+          <text class="cls-16" transform="translate(925.11 341.89)"><tspan x="0" y="0">N-01 ANOMALY</tspan></text>
+          <text class="cls-20" transform="translate(800.75 375.81)"><tspan x="0" y="0">FILE TYPE</tspan></text>
+          <text class="cls-16" transform="translate(925.11 375.81)"><tspan x="0" y="0">INVESTIGATION FINDINESS / INTERNAL</tspan></text>
+          <text class="cls-20" transform="translate(800.75 409.73)"><tspan x="0" y="0">ACCESS STATUS</tspan></text>
+          <circle class="cls-30" cx="929.83" cy="405.02" r="3.77"/>
+          <text class="cls-18" transform="translate(943.02 409.73)"><tspan x="0" y="0">ACCESS GRANTED</tspan></text>
+          <path class="cls-3" d="M800.75,427.42h380.63"/>
+        </g>
+        <text class="cls-19" transform="translate(1020.7 735.4)"><tspan x="0" y="0">FCA /// FUTURE CITY AUTHORITY</tspan></text>
+      </g>
+      <g>
+        <path class="cls-4" d="M606.61,244.9h99.02l36.67,36.67v143.03h-135.7v-179.7Z"/>
+        <path class="cls-6" d="M701.96,244.9v47.68h40.34M628.61,318.25h77.02M628.61,347.59h77.02M628.61,376.93h62.35"/>
+      </g>
+      <text class="cls-25" transform="translate(71.08 353.3)"><tspan x="0" y="0">Multiple anomalous incidents have been </tspan><tspan x="0" y="18.68">reported, with affected individuals exhibiting </tspan><tspan x="0" y="37.37">similar symptoms. </tspan><tspan x="0" y="74.74">Further investigation is required to determine its </tspan><tspan x="0" y="93.42">origin, transmission pathways, and potential </tspan><tspan x="0" y="112.11">countermeasures.</tspan></text>
+      <text class="cls-26" transform="translate(596.6 505.92)"><tspan x="0" y="0">Multiple anomalous incidents have been reported, with affected </tspan><tspan x="0" y="18.68">individuals exhibiting similar symptoms. </tspan><tspan x="0" y="56.05">Further investigation is required to determine its origin, transmission </tspan><tspan x="0" y="74.74">pathways, and potential countermeasures.</tspan><tspan x="0" y="112.11">Multiple anomalous incidents have been reported, with affected </tspan><tspan x="0" y="130.79">individuals exhibiting similar symptoms. Preliminary investigations </tspan><tspan x="0" y="149.47">suggest a possible connection to an unidentified substance designated </tspan><tspan x="0" y="168.16">N-01. Further investigation is required to determine its origin, </tspan><tspan x="0" y="186.84">transmission pathways, and potential countermeasures.</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168.62 42.09">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ead6b3;
+        font-family: AgencyFB-Bold, 'Agency FB';
+        font-size: 24px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #050606;
+        stroke: #ead6b3;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #ee842b;
+      }
+    </style>
+  </defs>
+  <g id="_线索1" data-name="#线索1">
+    <g>
+      <g>
+        <polygon class="cls-2" points="162.72 41.09 5.9 41.09 1 36.18 1 5.9 5.9 1 162.72 1 167.62 5.9 167.62 36.18 162.72 41.09"/>
+        <polygon class="cls-3" points="158.83 36.9 9.56 36.9 4.66 32 4.66 10.39 9.56 5.49 158.83 5.49 163.73 10.39 163.73 32 158.83 36.9"/>
+      </g>
+      <text class="cls-1" transform="translate(35.98 29.49)"><tspan x="0" y="0">Draft report</tspan></text>
+    </g>
+  </g>
+</svg>

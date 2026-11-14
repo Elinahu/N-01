@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 781.27 721.28">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: .36em;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #d4c19d;
+      }
+
+      .cls-9 {
+        stroke: #7e694d;
+        stroke-width: 5px;
+      }
+
+      .cls-10 {
+        letter-spacing: .36em;
+      }
+
+      .cls-11 {
+        letter-spacing: .1em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-13 {
+        font-size: 25.44px;
+      }
+
+      .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
+        font-weight: 700;
+      }
+
+      .cls-13, .cls-14, .cls-16 {
+        font-family: Consolas-Bold, Consolas;
+      }
+
+      .cls-13, .cls-15, .cls-18, .cls-4, .cls-6, .cls-7, .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-13, .cls-18, .cls-4 {
+        fill: #dbc7a7;
+      }
+
+      .cls-19 {
+        stroke: #756047;
+        stroke-linejoin: round;
+      }
+
+      .cls-19, .cls-20, .cls-21, .cls-22 {
+        fill: none;
+      }
+
+      .cls-23 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-24 {
+        fill: #050606;
+        stroke: #ead6b3;
+      }
+
+      .cls-14, .cls-16 {
+        fill: #7a2418;
+      }
+
+      .cls-15 {
+        font-size: 33.68px;
+      }
+
+      .cls-15, .cls-25, .cls-6 {
+        fill: #ee842b;
+      }
+
+      .cls-15, .cls-17 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+      }
+
+      .cls-18 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+        font-size: 17.61px;
+      }
+
+      .cls-26 {
+        letter-spacing: .08em;
+      }
+
+      .cls-27 {
+        font-size: 15.57px;
+      }
+
+      .cls-20 {
+        stroke: #ee842b;
+      }
+
+      .cls-28 {
+        letter-spacing: .08em;
+      }
+
+      .cls-21, .cls-22 {
+        stroke: #ffe0c7;
+      }
+
+      .cls-16, .cls-5 {
+        letter-spacing: .31em;
+      }
+
+      .cls-4, .cls-6, .cls-8 {
+        font-size: 14.13px;
+      }
+
+      .cls-29 {
+        letter-spacing: .09em;
+      }
+
+      .cls-17 {
+        fill: #ead6b3;
+        font-size: 16.68px;
+      }
+
+      .cls-30 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-31 {
+        letter-spacing: .1em;
+      }
+
+      .cls-32 {
+        fill: #11120e;
+        stroke: #ab8858;
+        stroke-width: 1.5px;
+      }
+
+      .cls-33 {
+        fill: #0b0c09;
+        stroke: #aa8453;
+        stroke-width: 1.8px;
+      }
+
+      .cls-7 {
+        font-size: 12.67px;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #88785e;
+      }
+
+      .cls-22 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="_文档管理" data-name="#文档管理">
+    <g>
+      <g id="results-panel">
+        <path class="cls-33" d="M13.57.9h755.17l11.62,14.82v688.49l-11.62,16.17H13.57l-12.67-16.17V18.42L13.57.9Z"/>
+        <path class="cls-19" d="M29.42,88.57h725.6"/>
+        <text class="cls-15" transform="translate(35.75 60.18) scale(.91 1)"><tspan x="0" y="0">CASE#2126-01</tspan></text>
+        <text class="cls-18" transform="translate(216.53 57.84) scale(.78 1)"><tspan x="0" y="0">/// Investigation Results</tspan></text>
+        <path class="cls-9" d="M687.33,55.95l12.67-17.52M700.01,55.95l12.67-17.52M712.68,55.95l12.67-17.52"/>
+      </g>
+      <g id="result-document">
+        <path class="cls-32" d="M36.81,126.99l11.62-14.83h684.41l12.67,17.79v553.09l-12.67,17.79H48.43l-11.62-17.79V126.99Z"/>
+        <g>
+          <text class="cls-13" transform="translate(300.1 199.77)"><tspan x="0" y="0">CASE#2126-01</tspan></text>
+          <path class="cls-19" d="M300.1,213.32h380.63"/>
+          <text class="cls-8" transform="translate(300.1 246.34)"><tspan x="0" y="0">REPORT ID</tspan></text>
+          <text class="cls-4" transform="translate(424.46 246.34)"><tspan x="0" y="0">CASE#2126-01</tspan></text>
+          <text class="cls-8" transform="translate(300.1 280.25)"><tspan x="0" y="0">SUBJECT</tspan></text>
+          <text class="cls-4" transform="translate(424.46 280.25)"><tspan x="0" y="0">N-01 ANOMALY</tspan></text>
+          <text class="cls-8" transform="translate(300.1 314.17)"><tspan x="0" y="0">FILE TYPE</tspan></text>
+          <text class="cls-4" transform="translate(424.46 314.17)"><tspan x="0" y="0">INVESTIGATION FINDINESS / INTERNAL</tspan></text>
+          <text class="cls-8" transform="translate(300.1 348.09)"><tspan x="0" y="0">ACCESS STATUS</tspan></text>
+          <circle class="cls-25" cx="429.17" cy="343.38" r="3.77"/>
+          <text class="cls-6" transform="translate(442.36 348.09)"><tspan x="0" y="0">ACCESS GRANTED</tspan></text>
+          <path class="cls-19" d="M300.1,365.78h380.63"/>
+        </g>
+        <text class="cls-7" transform="translate(520.04 673.77)"><tspan x="0" y="0">FCA /// FUTURE CITY AUTHORITY</tspan></text>
+      </g>
+      <g>
+        <path class="cls-21" d="M105.95,183.26h99.02l36.67,36.67v143.03H105.95v-179.7Z"/>
+        <path class="cls-22" d="M201.31,183.26v47.68h40.34M127.96,256.61h77.02M127.96,285.95h77.02M127.96,315.29h62.35"/>
+      </g>
+      <text class="cls-27" transform="translate(79.41 430.62)"><tspan class="cls-3"><tspan x="0" y="0">Current</tspan><tspan class="cls-11" x="59.92" y="0"> </tspan><tspan x="70.12" y="0">observations</tspan><tspan class="cls-31" x="172.84" y="0"> </tspan><tspan x="183.03" y="0">indicate</tspan><tspan class="cls-11" x="251.52" y="0"> </tspan><tspan x="261.71" y="0">that</tspan><tspan class="cls-11" x="295.95" y="0"> </tspan><tspan x="306.14" y="0">the</tspan><tspan class="cls-11" x="331.82" y="0"> </tspan><tspan x="342.01" y="0">test</tspan><tspan class="cls-31" x="376.26" y="0"> </tspan><tspan x="386.45" y="0">subjects</tspan><tspan class="cls-11" x="454.93" y="0"> </tspan><tspan x="465.12" y="0">universally</tspan><tspan class="cls-11" x="559.29" y="0"> </tspan><tspan x="569.48" y="0">exhibit </tspan></tspan><tspan class="cls-3"><tspan x="0" y="18.68">the</tspan><tspan class="cls-12" x="25.68" y="18.68"> </tspan><tspan x="33.73" y="18.68">anomalous</tspan><tspan class="cls-12" x="110.78" y="18.68"> </tspan><tspan x="118.83" y="18.68">symptom</tspan><tspan class="cls-12" x="178.75" y="18.68"> </tspan><tspan x="186.8" y="18.68">of</tspan><tspan class="cls-12" x="203.92" y="18.68"> </tspan><tspan x="211.97" y="18.68">&quot;facial</tspan><tspan class="cls-12" x="271.9" y="18.68"> </tspan><tspan x="279.95" y="18.68">rigidity&quot;</tspan><tspan class="cls-12" x="356.99" y="18.68"> </tspan><tspan x="365.04" y="18.68">and</tspan><tspan class="cls-12" x="390.73" y="18.68"> </tspan><tspan x="398.78" y="18.68">display</tspan><tspan class="cls-12" x="458.7" y="18.68"> </tspan><tspan x="466.75" y="18.68">compulsive/abnormal </tspan></tspan><tspan class="cls-3"><tspan x="0" y="37.37">behavior</tspan><tspan class="cls-10" x="68.48" y="37.37"> </tspan><tspan x="82.58" y="37.37">of</tspan><tspan class="cls-10" x="99.7" y="37.37"> </tspan><tspan x="113.79" y="37.37">&quot;checking</tspan><tspan class="cls-2" x="190.84" y="37.37"> </tspan><tspan x="204.93" y="37.37">electronic</tspan><tspan class="cls-10" x="290.53" y="37.37"> </tspan><tspan x="304.63" y="37.37">devices.&quot;</tspan><tspan class="cls-10" x="381.67" y="37.37"> </tspan><tspan x="395.76" y="37.37">Additionally,</tspan><tspan class="cls-10" x="507.05" y="37.37"> </tspan><tspan x="521.14" y="37.37">an</tspan><tspan class="cls-10" x="538.26" y="37.37"> </tspan><tspan x="552.36" y="37.37">anomalous </tspan></tspan><tspan class="cls-3"><tspan x="0" y="56.05">&quot;fluorescent</tspan><tspan class="cls-28" x="102.73" y="56.05"> </tspan><tspan x="112.59" y="56.05">blue</tspan><tspan class="cls-28" x="146.83" y="56.05"> </tspan><tspan x="156.7" y="56.05">glow&quot;</tspan><tspan class="cls-26" x="199.5" y="56.05"> </tspan><tspan x="209.37" y="56.05">has</tspan><tspan class="cls-28" x="235.05" y="56.05"> </tspan><tspan x="244.92" y="56.05">been</tspan><tspan class="cls-28" x="279.16" y="56.05"> </tspan><tspan x="289.02" y="56.05">detected</tspan><tspan class="cls-28" x="357.51" y="56.05"> </tspan><tspan x="367.37" y="56.05">in</tspan><tspan class="cls-26" x="384.49" y="56.05"> </tspan><tspan x="394.36" y="56.05">the</tspan><tspan class="cls-28" x="420.04" y="56.05"> </tspan><tspan x="429.91" y="56.05">reflections</tspan><tspan class="cls-28" x="524.07" y="56.05"> </tspan><tspan x="533.94" y="56.05">of</tspan><tspan class="cls-28" x="551.06" y="56.05"> </tspan><tspan x="560.92" y="56.05">advanced </tspan></tspan><tspan class="cls-3"><tspan x="0" y="74.74">electronic devices.</tspan></tspan><tspan class="cls-14" x="0" y="112.11">Preliminary</tspan><tspan class="cls-16" x="94.17" y="112.11"> </tspan><tspan class="cls-14" x="107.57" y="112.11">suspicion</tspan><tspan class="cls-3" x="184.61" y="112.11">:</tspan><tspan class="cls-5" x="193.17" y="112.11"> </tspan><tspan class="cls-3" x="206.57" y="112.11">The</tspan><tspan class="cls-5" x="232.26" y="112.11"> </tspan><tspan class="cls-3" x="245.66" y="112.11">specific</tspan><tspan class="cls-5" x="314.14" y="112.11"> </tspan><tspan class="cls-3" x="327.54" y="112.11">light</tspan><tspan class="cls-5" x="370.35" y="112.11"> </tspan><tspan class="cls-3" x="383.75" y="112.11">emitted</tspan><tspan class="cls-5" x="443.67" y="112.11"> </tspan><tspan class="cls-3" x="457.07" y="112.11">by</tspan><tspan class="cls-5" x="474.19" y="112.11"> </tspan><tspan class="cls-3" x="487.59" y="112.11">these</tspan><tspan class="cls-5" x="530.4" y="112.11"> </tspan><tspan class="cls-3" x="543.8" y="112.11">electronic </tspan><tspan class="cls-3"><tspan x="0" y="130.79">devices</tspan><tspan class="cls-29" x="59.92" y="130.79"> </tspan><tspan x="69.93" y="130.79">may</tspan><tspan class="cls-29" x="95.62" y="130.79"> </tspan><tspan x="105.62" y="130.79">carry</tspan><tspan class="cls-29" x="148.43" y="130.79"> </tspan><tspan x="158.44" y="130.79">an</tspan><tspan class="cls-29" x="175.56" y="130.79"> </tspan><tspan x="185.57" y="130.79">unknown</tspan><tspan class="cls-29" x="245.49" y="130.79"> </tspan><tspan x="255.5" y="130.79">&quot;electronic</tspan><tspan class="cls-29" x="349.67" y="130.79"> </tspan><tspan x="359.68" y="130.79">virus&quot;</tspan><tspan class="cls-29" x="411.04" y="130.79"> </tspan><tspan x="421.05" y="130.79">or</tspan><tspan class="cls-29" x="438.17" y="130.79"> </tspan><tspan x="448.18" y="130.79">anomalous</tspan><tspan class="cls-29" x="525.23" y="130.79"> </tspan><tspan x="535.24" y="130.79">information </tspan></tspan><tspan class="cls-3"><tspan x="0" y="149.47">interference,</tspan><tspan class="cls-23" x="111.29" y="149.47"> </tspan><tspan x="119.17" y="149.47">which</tspan><tspan class="cls-23" x="161.97" y="149.47"> </tspan><tspan x="169.85" y="149.47">subsequently</tspan><tspan class="cls-23" x="272.58" y="149.47"> </tspan><tspan x="280.46" y="149.47">triggers</tspan><tspan class="cls-23" x="348.94" y="149.47"> </tspan><tspan x="356.82" y="149.47">the</tspan><tspan class="cls-23" x="382.51" y="149.47"> </tspan><tspan x="390.39" y="149.47">aforementioned</tspan><tspan class="cls-23" x="510.23" y="149.47"> </tspan><tspan x="518.12" y="149.47">physiological </tspan></tspan><tspan class="cls-3"><tspan x="0" y="168.16">and</tspan><tspan class="cls-30" x="25.68" y="168.16"> </tspan><tspan x="33.87" y="168.16">behavioral</tspan><tspan class="cls-30" x="119.48" y="168.16"> </tspan><tspan x="127.67" y="168.16">responses</tspan><tspan class="cls-30" x="204.71" y="168.16"> </tspan><tspan x="212.9" y="168.16">in</tspan><tspan class="cls-30" x="230.02" y="168.16"> </tspan><tspan x="238.21" y="168.16">the</tspan><tspan class="cls-30" x="263.9" y="168.16"> </tspan><tspan x="272.09" y="168.16">human</tspan><tspan class="cls-30" x="314.89" y="168.16"> </tspan><tspan x="323.08" y="168.16">body.</tspan><tspan class="cls-30" x="365.88" y="168.16"> </tspan><tspan x="374.07" y="168.16">It</tspan><tspan class="cls-30" x="391.19" y="168.16"> </tspan><tspan x="399.38" y="168.16">is</tspan><tspan class="cls-1" x="416.51" y="168.16"> </tspan><tspan x="424.7" y="168.16">recommended</tspan><tspan class="cls-30" x="518.86" y="168.16"> </tspan><tspan x="527.05" y="168.16">that</tspan><tspan class="cls-30" x="561.29" y="168.16"> </tspan><tspan x="569.48" y="168.16">further </tspan></tspan><tspan class="cls-3"><tspan x="0" y="186.84">isolation and testing analysis be conducted regarding these symptoms.</tspan></tspan></text>
+    </g>
+  </g>
+  <g id="_线索1" data-name="#线索1">
+    <g>
+      <g>
+        <polygon class="cls-24" points="445.66 683.76 336.66 683.76 333.25 680.35 333.25 659.3 336.66 655.9 445.66 655.9 449.07 659.3 449.07 680.35 445.66 683.76"/>
+        <polygon class="cls-20" points="442.96 680.85 339.2 680.85 335.8 677.44 335.8 662.42 339.2 659.01 442.96 659.01 446.37 662.42 446.37 677.44 442.96 680.85"/>
+      </g>
+      <text class="cls-17" transform="translate(373.64 675.1) scale(1.01 1)"><tspan x="0" y="0">Submit</tspan></text>
+    </g>
+  </g>
+</svg>

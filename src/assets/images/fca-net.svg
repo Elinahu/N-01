@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1994.92 1219.74">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #b26526;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-6, .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-width: 6px;
+      }
+
+      .cls-2, .cls-7 {
+        stroke: #ee842b;
+      }
+
+      .cls-3 {
+        stroke: #817966;
+      }
+
+      .cls-8 {
+        font-family: Consolas-Bold, Consolas;
+      }
+
+      .cls-8, .cls-9 {
+        font-weight: 700;
+      }
+
+      .cls-10 {
+        fill: #e77d21;
+      }
+
+      .cls-11 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        font-size: 24.86px;
+        letter-spacing: .53em;
+      }
+
+      .cls-12, .cls-9, .cls-13, .cls-14 {
+        isolation: isolate;
+      }
+
+      .cls-12, .cls-14 {
+        fill: #cdb58d;
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-15 {
+        fill: #cbb28a;
+      }
+
+      .cls-16 {
+        fill: #ee922d;
+      }
+
+      .cls-9 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+        font-size: 40.73px;
+      }
+
+      .cls-9, .cls-13 {
+        fill: #080a07;
+      }
+
+      .cls-6 {
+        fill: #090a07;
+        stroke: #cbb28a;
+      }
+
+      .cls-17 {
+        fill-rule: evenodd;
+      }
+
+      .cls-17, .cls-18 {
+        fill: #dec49a;
+      }
+
+      .cls-4 {
+        stroke: #cdb58e;
+        stroke-width: 3.5px;
+      }
+
+      .cls-13 {
+        font-size: 17.28px;
+      }
+
+      .cls-14 {
+        font-size: 30.1px;
+      }
+
+      .cls-5 {
+        stroke: #080a07;
+      }
+
+      .cls-19 {
+        fill: #0a0b07;
+      }
+
+      .cls-7 {
+        fill: #0b0a08;
+        stroke-width: 3px;
+      }
+
+      .cls-20 {
+        stroke: #c7ad83;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="net">
+    <g id="window-frame">
+      <path class="cls-6" d="M1993.92,60.03v1145.31l-10.96,13.4H13.18l-12.18-12.18V58.85l25.02-25,1942.92,1.18,24.99,25Z"/>
+      <path class="cls-3" d="M1980.79,1196.04l-12.09,9.67H24.06l-10.88-9.67V79.54l25-25h1917.37l25,25,.23,1116.51Z"/>
+      <g>
+        <path class="cls-15" d="M.23,18.51V7.67L7.9,0h386.3l18.53,19.75h1574.3l7.87,7.87v52.61H.23V18.51Z"/>
+        <rect class="cls-19" x="22.45" y="16.68" width="48.45" height="46.86"/>
+        <text class="cls-9" transform="translate(94.09 54.31)"><tspan x="0" y="0">FCA NET</tspan></text>
+        <text class="cls-13" transform="translate(371.13 57.61)"><tspan class="cls-8" x="0" y="0">/// </tspan><tspan class="cls-11" x="38" y="0">SEARCH</tspan></text>
+        <path class="cls-1" d="M1750.98,45.67v-6.17c4.12-4.94,7.82-4.94,11.12,0v6.17M1749.13,45.67h14.82v14.81h-14.82v-14.81Z"/>
+        <path class="cls-5" d="M1854.11,53.07h19.76M1905.98,40.73h18.53v18.51h-18.53v-18.51ZM1954.14,40.73l17.29,17.28M1971.43,40.73l-17.29,17.28"/>
+      </g>
+      <g>
+        <polygon class="cls-16" points="43.38 22.66 43.38 27.69 41.8 29.28 33.62 47.67 29.6 47.67 38.35 28.39 43.38 22.66"/>
+        <polygon class="cls-16" points="34.28 47.67 41.6 31.19 41.6 38.99 37.94 47.67 34.28 47.67"/>
+        <polygon class="cls-16" points="48.53 22.66 48.53 27.69 50.12 29.28 56.74 44.17 61.78 44.22 60.33 41.11 59.34 41.11 53.57 28.39 48.53 22.66"/>
+        <polygon class="cls-16" points="50.31 31.19 56.4 44.85 59.18 44.85 60.65 47.67 59.32 47.67 58.26 45.61 57.79 45.61 58.77 47.67 56.94 47.67 54.05 40.98 53.69 40.98 56.63 47.67 54.22 47.67 50.37 38.99 50.31 31.19"/>
+        <polygon class="cls-16" points="61.4 47.67 64.2 47.67 62.52 44.61 59.78 44.61 61.4 47.67"/>
+        <polygon class="cls-16" points="45.42 47.64 46.5 47.64 46.5 29.75 45.42 30.8 45.42 47.64"/>
+        <polygon class="cls-16" points="43.38 47.67 44.74 47.67 44.74 36.62 43.38 38.2 43.38 47.67"/>
+        <polygon class="cls-16" points="47.83 47.58 47.21 47.58 47.21 34.39 47.83 35.3 47.83 47.58"/>
+        <polygon class="cls-16" points="50.35 47.67 48.53 47.67 48.53 41.57 50.35 43.06 50.35 47.67"/>
+        <polygon class="cls-16" points="41.71 47.67 42.71 47.67 42.71 41.57 41.71 42.44 41.71 47.67"/>
+        <path class="cls-16" d="M32.51,44.58c-4.37,0-7.05-.92-7.53-2.61-.49-1.7,1.33-3.92,5.12-6.26,3.72-2.29,8.91-4.46,14.63-6.09l.06.2-.06-.2c5.71-1.63,11.27-2.54,15.64-2.56,4.45-.02,7.17.91,7.66,2.61.49,1.7-1.33,3.92-5.12,6.26-3.72,2.29-8.91,4.46-14.63,6.09-5.71,1.63-11.27,2.54-15.64,2.56-.04,0-.09,0-.13,0ZM44.46,29.75c-5.68,1.62-10.45,4.04-14.14,6.32-3.57,2.2-4.91,3.92-4.24,5.32.37.77,1.83,2.15,5.87,2.43.04,0,1.29,0,1.33,0,4.33-.02,9.2-.56,14.88-2.18,5.68-1.62,10.84-3.77,14.52-6.04,3.57-2.2,4.73-4.35,4.31-5.84-.42-1.48-2.6-2.47-6.84-2.47s-6.82.73-12.74,1.84l-2.95.63Z"/>
+        <path class="cls-16" d="M47.1,18.44l-.5-.03c-.35-.07-.49-.34-.54-.66l-.07-.62-.04-.45-.06.44-.07.64c-.03.35-.14.56-.51.62l-.48.05h-.17s.17.04.17.04l.49.05c.36.05.48.12.55.45l.05.33.03.21.03-.21.04-.33c.05-.38.24-.39.57-.44l.5-.05.15-.03h-.14Z"/>
+        <polygon class="cls-16" points="28.69 49.83 41.71 49.83 39.9 51.63 27.06 51.63 28.69 49.83"/>
+        <polyline class="cls-16" points="26.64 52.35 23.34 57.62 27.06 57.62 29.6 53.82 38.49 53.82 39.11 52.35"/>
+        <path class="cls-16" d="M55.05,49.83h-11.29c-.24,0-1.51,1.1-1.55,1.19l-2.92,4.6c-.12.23-.13.5-.03.74l.28.69c.14.34.47.56.84.56h12.19c.24,0,.47-.1.64-.26l.43-.43c.57-.57.17-1.54-.64-1.54h-6.83c-.66,0-1.1-.69-.82-1.29l.91-1.94c.15-.32.47-.52.82-.52h7.98c.27,0,.53-.12.7-.33h0c.48-.59.07-1.47-.7-1.47Z"/>
+        <polygon class="cls-16" points="54.15 57.62 59.32 49.83 64.01 49.83 70.01 57.62 66.57 57.62 62.08 51.11 58.01 57.62 54.15 57.62"/>
+        <polygon class="cls-16" points="60.56 54.59 59.32 56.45 65.12 56.45 63.96 54.59 60.56 54.59"/>
+        <circle class="cls-16" cx="62.88" cy="27.27" r="1.51"/>
+      </g>
+    </g>
+    <g id="center-brand">
+      <g id="fca-wordmark">
+        <path id="letter-f" class="cls-18" d="M830.81,485l28.79-43.18h70.66l-9.16,13.08h-52.34l-7.85,11.78h49.72l-9.16,13.08h-49.72l-3.93,5.23h-17.01Z"/>
+        <path id="letter-c" class="cls-18" d="M925.02,485l28.79-43.18h70.66l-9.16,13.08h-51.03l-11.78,17.01h52.34l-9.16,13.08h-70.66Z"/>
+        <path id="letter-a" class="cls-17" d="M1016.61,485l31.4-43.18h26.17l27.48,43.18h-19.63l-6.54-10.47h-36.64l-7.85,10.47h-14.39ZM1048.01,462.76h20.94l-6.54-9.16h-7.85l-6.54,9.16Z"/>
+      </g>
+      <g id="orange-stripes">
+        <path id="stripe-1" class="cls-10" d="M1120.17,486.31l28.79-41.87h11.78l-28.79,41.87h-11.78Z"/>
+        <path id="stripe-2" class="cls-10" d="M1138.49,486.31l28.79-41.87h11.78l-28.79,41.87h-11.78Z"/>
+        <path id="stripe-3" class="cls-10" d="M1156.81,486.31l28.79-41.87h11.78l-28.79,41.87h-11.78Z"/>
+      </g>
+      <path id="brand-left-rule" class="cls-20" d="M627.99,532.11h125.61"/>
+      <text id="network-search-heading" class="cls-12" transform="translate(788.93 541.27)"><tspan x="0" y="0">NETWORK SEARCH</tspan></text>
+      <path id="brand-right-rule" class="cls-20" d="M1240.36,532.11h125.61"/>
+    </g>
+    <g id="search-bar">
+      <path id="search-border" class="cls-7" d="M419.94,618.47h1154.08l22.24,22.24v56.26l-22.24,22.24H419.94l-22.24-22.24v-56.26l22.24-22.24Z"/>
+      <g id="magnifying-glass">
+        <circle id="search-icon-circle" class="cls-4" cx="460.5" cy="664.26" r="15.7"/>
+        <path id="search-icon-handle" class="cls-4" d="M472.28,677.35l17.01,15.7"/>
+      </g>
+      <text id="search-placeholder" class="cls-14" transform="translate(541.63 679.97)"><tspan x="0" y="0">Search...</tspan></text>
+      <g id="submit-chevrons">
+        <path id="chevron-1" class="cls-2" d="M1503.37,652.49l15.7,15.7-15.7,15.7"/>
+        <path id="chevron-2" class="cls-2" d="M1520.38,652.49l15.7,15.7-15.7,15.7"/>
+        <path id="chevron-3" class="cls-2" d="M1537.39,652.49l15.7,15.7-15.7,15.7"/>
+      </g>
+    </g>
+  </g>
+</svg>

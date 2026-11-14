@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 616.08 853">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #f18b2a;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #e4cda5;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #f18b2a;
+      }
+
+      .cls-8, .cls-9, .cls-10 {
+        stroke-width: 2px;
+      }
+
+      .cls-8, .cls-10 {
+        stroke: #e4cda5;
+      }
+
+      .cls-9 {
+        stroke: #ee842b;
+      }
+
+      .cls-9, .cls-10 {
+        fill: none;
+      }
+
+      .cls-7 {
+        font-size: 18.36px;
+      }
+
+      .cls-7, .cls-2, .cls-11, .cls-12, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-7, .cls-2, .cls-4, .cls-5 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+        font-weight: 700;
+      }
+
+      .cls-13 {
+        fill: #e77d21;
+      }
+
+      .cls-2 {
+        font-size: 30px;
+      }
+
+      .cls-11 {
+        fill: #cdb58d;
+        font-family: Consolas, Consolas;
+        font-size: 14.82px;
+        letter-spacing: .53em;
+      }
+
+      .cls-14 {
+        fill: #ee842b;
+      }
+
+      .cls-15 {
+        fill-rule: evenodd;
+      }
+
+      .cls-15, .cls-16 {
+        fill: #dec49a;
+      }
+
+      .cls-12 {
+        fill: #333027;
+        opacity: .55;
+      }
+
+      .cls-4 {
+        font-size: 12px;
+        letter-spacing: .2em;
+      }
+
+      .cls-17 {
+        fill: #090a07;
+        stroke: #d5bd96;
+        stroke-width: 4px;
+      }
+
+      .cls-5 {
+        font-size: 20px;
+      }
+
+      .cls-18 {
+        fill: #665c54;
+      }
+
+      .cls-19 {
+        stroke: #c7ad83;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="_备忘录" data-name="#备忘录">
+    <g>
+      <g id="window-shadow">
+        <path class="cls-12" d="M32,11h561.08l23,23v795l-22,24H32l-23-23V34l23-23Z"/>
+      </g>
+      <g id="outer-frame">
+        <path class="cls-17" d="M25,2h561.08l23,23v795l-22,24H25l-23-23V25L25,2Z"/>
+        <path class="cls-9" d="M28,13h554.08l15,16v785l-14,17H28l-13-15V29l13-16Z"/>
+      </g>
+      <g id="corner-details">
+        <path class="cls-14" d="M15,792.78v22.83l13,15.39h24.98l-37.98-38.22Z"/>
+      </g>
+      <g id="corner-details-2" data-name="corner-details">
+        <path class="cls-14" d="M597.08,792.78v22.83l-13,15.39h-24.98l37.98-38.22Z"/>
+      </g>
+      <g id="corner-details-3" data-name="corner-details">
+        <path class="cls-14" d="M15,50.07v-22.83l13-15.39h24.98L15,50.07Z"/>
+      </g>
+      <g id="corner-details-4" data-name="corner-details">
+        <path class="cls-14" d="M597.08,50.07v-22.83l-13-15.39h-24.98l37.98,38.22Z"/>
+      </g>
+      <g id="center-brand">
+        <g id="fca-wordmark">
+          <path id="letter-f" class="cls-16" d="M213.45,165.4l17.17-25.75h42.13l-5.46,7.8h-31.21l-4.68,7.02h29.65l-5.46,7.8h-29.65l-2.34,3.12h-10.14Z"/>
+          <path id="letter-c" class="cls-16" d="M269.63,165.4l17.17-25.75h42.13l-5.46,7.8h-30.43l-7.02,10.14h31.21l-5.46,7.8h-42.13Z"/>
+          <path id="letter-a" class="cls-15" d="M324.24,165.4l18.73-25.75h15.6l16.39,25.75h-11.7l-3.9-6.24h-21.85l-4.68,6.24h-8.58ZM342.97,152.14h12.48l-3.9-5.46h-4.68l-3.9,5.46Z"/>
+        </g>
+        <g id="orange-stripes">
+          <path id="stripe-1" class="cls-13" d="M386,166.18l17.17-24.97h7.02l-17.17,24.97h-7.02Z"/>
+          <path id="stripe-2" class="cls-13" d="M396.92,166.18l17.17-24.97h7.02l-17.17,24.97h-7.02Z"/>
+          <path id="stripe-3" class="cls-13" d="M407.84,166.18l17.17-24.97h7.02l-17.17,24.97h-7.02Z"/>
+        </g>
+        <path id="brand-left-rule" class="cls-19" d="M92.51,193.49h74.9"/>
+        <text id="network-search-heading" class="cls-11" transform="translate(188.48 198.95)"><tspan x="0" y="0">SESSION CONTROL</tspan></text>
+        <path id="brand-right-rule" class="cls-19" d="M457.67,193.49h74.9"/>
+      </g>
+      <g id="continue-button" data-session-art="continue">
+        <path id="continue-slash" class="cls-14" d="M109.12,307.4l11.15-28.2h5.9l-11.15,28.2h-5.9Z"/>
+        <text id="continue-cn" class="cls-2" transform="translate(164.87 305.88)"><tspan x="0" y="0">Continue</tspan></text>
+        <path id="continue-line" class="cls-9" d="M103.22,345.44h406.63"/>
+        <path id="continue-end" class="cls-6" d="M502.64,340.2h26.23l-7.87,9.84h-26.23l7.87-9.84Z"/>
+      </g>
+      <g id="new-game-button" data-session-art="new">
+        <path id="new-game-slash" class="cls-3" d="M109.12,412.34l11.15-28.2h5.9l-11.15,28.2h-5.9Z"/>
+        <text id="new-game-cn" class="cls-2" transform="translate(164.87 409.81)"><tspan x="0" y="0">New Game</tspan></text>
+        <text id="new-game-en" class="cls-4" transform="translate(166.18 433.46)"><tspan x="0" y="0">Current progress will be lost.</tspan></text>
+        <path id="new-game-line" class="cls-10" d="M103.22,450.38h406.63"/>
+        <path id="new-game-end" class="cls-3" d="M502.64,445.13h26.23l-7.87,9.84h-26.23l7.87-9.84Z"/>
+      </g>
+      <g id="bgm-control" data-session-art="bgm">
+        <polygon class="cls-18" data-volume-track="" points="490.18 505.48 274.95 505.48 269.14 515.96 484.38 515.96"/>
+        <path id="bgm-slash" class="cls-3" d="M109.12,521.87l11.15-28.2h5.9l-11.15,28.2h-5.9Z"/>
+        <text id="bgm-label" class="cls-5" transform="translate(164.87 515.97)"><tspan x="0" y="0">BGM Volume</tspan></text>
+        <polygon class="cls-6" data-volume-fill="" points="328.65 505.48 274.95 505.48 269.14 515.96 322.84 515.96"/>
+        <path id="bgm-thumb" class="cls-1" data-volume-thumb="" d="M-3.605,502.19h17.05l-9.84,17.05h-17.05l9.84-17.05Z" transform="translate(318.015 0)"/>
+        <text id="bgm-percent" class="cls-7" transform="translate(497.51 515.96)"><tspan x="0" y="0" data-volume-percent="">19%</tspan></text>
+        <path id="bgm-divider" class="cls-8" d="M99.28,554.01h429.58"/>
+      </g>
+      <g id="sfx-control" data-session-art="sfx">
+        <path id="sfx-slash" class="cls-3" d="M109.12,617.62l11.15-28.2h5.9l-11.15,28.2h-5.9Z"/>
+        <polygon class="cls-18" data-volume-track="" points="490.18 601.23 274.95 601.23 269.14 611.71 484.38 611.71"/>
+        <text id="sfx-label" class="cls-5" transform="translate(164.87 611.72)"><tspan x="0" y="0">SFX Volume</tspan></text>
+        <polygon class="cls-6" data-volume-fill="" points="490.18 601.23 274.95 601.23 269.14 611.71 484.38 611.71"/>
+        <path id="sfx-thumb" class="cls-1" data-volume-thumb="" d="M-3.605,597.95h17.05l-9.84,17.05h-17.05l9.84-17.05Z" transform="translate(483.615 0)"/>
+        <text id="sfx-percent" class="cls-7" transform="translate(498.02 611.78)"><tspan x="0" y="0" data-volume-percent="">100%</tspan></text>
+        <path id="sfx-divider" class="cls-8" d="M99.28,649.76h429.58"/>
+      </g>
+    </g>
+  </g>
+</svg>

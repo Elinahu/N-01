@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 310.1 310.1">
+  <defs>
+    <style>
+      .cls-1 { stroke: #ba0028; }
+      .cls-1, .cls-2, .cls-3, .cls-4 { fill: none; }
+      .cls-1, .cls-5, .cls-3, .cls-4 { stroke-miterlimit: 10; }
+      .cls-1, .cls-4 { stroke-width: 3px; }
+      .cls-5 {
+        fill: #ffe8d9;
+        font-family: SourceHanSerifSC-Heavy, 'Source Han Serif SC';
+        font-size: 33.63px;
+        font-weight: 800;
+        stroke: #fff;
+      }
+      .cls-6 { fill: #ff0043; }
+      .cls-3 { stroke: #e80b32; stroke-width: 5px; }
+      .cls-7 { fill: url(#_未命名的渐变_408); opacity: .75; }
+      .cls-8 { fill: #510019; opacity: .98; }
+      .cls-4 { stroke: #ff0043; }
+      .cls-9 { clip-path: url(#clippath); }
+      .cls-10 { fill: #cc003f; }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="2.5" y="2.5" width="305.1" height="305.1"/>
+    </clipPath>
+    <radialGradient id="_未命名的渐变_408" data-name="未命名的渐变 408" cx="155.05" cy="155.05" fx="155.05" fy="155.05" r="112.09" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff0038" stop-opacity=".1"/>
+      <stop offset=".04" stop-color="#cc002c" stop-opacity=".28"/>
+      <stop offset=".2" stop-color="#560012" stop-opacity=".69"/>
+      <stop offset=".41" stop-color="#120004" stop-opacity=".93"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+  </defs>
+  <g id="_进入系统" data-name="进入系统">
+    <g>
+      <g class="cls-9">
+        <rect class="cls-7" x="2.5" y="2.5" width="305.1" height="305.1"/>
+        <g>
+          <polygon class="cls-10" points="29.63 -2.34 324.42 292.45 324.42 262.94 44.34 -17.14 29.63 -2.34"/>
+          <polygon class="cls-10" points="-41.72 25.67 303.19 370.58 303.19 341.07 -27.01 10.87 -41.72 25.67"/>
+          <polygon class="cls-10" points="-10.61 3.97 334.3 348.89 334.3 319.38 4.1 -10.83 -10.61 3.97"/>
+          <polygon class="cls-10" points="-58.93 57.81 285.99 402.72 285.99 373.21 -44.22 43.01 -58.93 57.81"/>
+          <polygon class="cls-10" points="-85.53 79.5 259.38 424.42 259.38 394.91 -70.82 64.7 -85.53 79.5"/>
+          <polygon class="cls-10" points="-103.64 108.75 241.28 453.67 241.28 424.16 -88.93 93.95 -103.64 108.75"/>
+          <polygon class="cls-10" points="-131.93 127.33 212.99 472.25 212.99 442.74 -117.21 112.54 -131.93 127.33"/>
+          <polygon class="cls-10" points="-153.62 154.65 191.3 499.57 191.3 470.06 -138.91 139.85 -153.62 154.65"/>
+          <polygon class="cls-10" points="59.08 -23.44 353.87 271.35 353.87 241.84 73.79 -38.24 59.08 -23.44"/>
+          <polygon class="cls-10" points="103.37 -27.46 398.16 267.33 398.16 237.82 118.08 -42.26 103.37 -27.46"/>
+          <polygon class="cls-10" points="146.55 -34.69 441.34 260.1 441.34 230.59 161.26 -49.49 146.55 -34.69"/>
+          <polygon class="cls-10" points="183.43 -46.04 478.22 248.75 478.22 219.24 198.15 -60.84 183.43 -46.04"/>
+          <polygon class="cls-10" points="212.99 -63.32 507.78 231.47 507.78 201.96 227.7 -78.12 212.99 -63.32"/>
+        </g>
+      </g>
+      <rect class="cls-3" x="2.5" y="2.5" width="305.1" height="305.1"/>
+      <rect class="cls-8" x="20.18" y="20.18" width="269.75" height="269.75"/>
+      <rect class="cls-1" x="29.3" y="29.3" width="251.5" height="251.5"/>
+      <polyline class="cls-4" points="64.88 70.12 64.88 48.71 245.22 48.71 245.22 70.12"/>
+      <polyline class="cls-4" points="64.88 239.98 64.88 261.39 245.22 261.39 245.22 239.98"/>
+      <g id="fca-error-symbol">
+        <polygon class="cls-4" points="155.21 81.47 90.77 185.52 219.33 185.52 155.21 81.47"/>
+        <polygon class="cls-6" points="150.23 126.06 159.87 126.06 157.86 161.42 152.64 161.42 150.23 126.06"/>
+        <circle class="cls-6" cx="155.05" cy="168.72" r="3.24"/>
+      </g>
+      <text class="cls-5" transform="translate(120.34 239.98)"><tspan x="0" y="0">错误！</tspan></text>
+    </g>
+  </g>
+</svg>

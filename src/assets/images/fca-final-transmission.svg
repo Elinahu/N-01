@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        fill: #ee842b;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-family: Consolas-Bold, Consolas;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-4 {
+        font-size: 36px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-7, .cls-9, .cls-8 {
+        fill: #ead6b3;
+      }
+
+      .cls-9, .cls-8 {
+        font-size: 30px;
+      }
+
+      .cls-10, .cls-11, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #cc3d21;
+      }
+
+      .cls-12 {
+        fill: #090a07;
+      }
+
+      .cls-13 {
+        font-size: 32px;
+      }
+
+      .cls-11 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-11, .cls-5 {
+        fill: #ed852a;
+        font-size: 39.74px;
+      }
+
+      .cls-14 {
+        fill: none;
+        stroke: #9c4c18;
+        stroke-width: 1.5px;
+      }
+
+      .cls-5 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+      }
+    </style>
+  </defs>
+  <g id="_final" data-name="# final">
+    <rect class="cls-12" width="1920" height="1080"/>
+    <g id="header">
+      <text id="header-fca" class="cls-5" transform="translate(50.87 80.71)"><tspan x="0" y="0">FCA</tspan></text>
+      <text id="header-slashes" class="cls-11" transform="translate(140.27 80.71)"><tspan x="0" y="0">//</tspan></text>
+      <text id="header-final" class="cls-5" transform="translate(184.98 80.71)"><tspan x="0" y="0">FINAL TRANSMISSION</tspan></text>
+    </g>
+    <g id="divider">
+      <line id="header-rule" class="cls-14" x1="52.69" y1="120.73" x2="1865.41" y2="120.73"/>
+    </g>
+    <text id="english-message" class="cls-10" transform="translate(52.69 243.77)"><tspan class="cls-4"><tspan x="0" y="0">TEST PASSED!</tspan></tspan><tspan class="cls-4"><tspan x="0" y="43.2"> </tspan></tspan><tspan class="cls-9"><tspan class="cls-6" x="0" y="103.2">SUBJECT</tspan><tspan class="cls-1" x="115.46" y="103.2">：</tspan><tspan class="cls-6" x="145.46" y="103.2">0-Z-4986</tspan></tspan><tspan class="cls-9"><tspan class="cls-6" x="0" y="163.2">STATUS</tspan><tspan class="cls-1" x="98.96" y="163.2">：</tspan><tspan class="cls-6" x="128.96" y="163.2">QUALIFIED</tspan></tspan><tspan class="cls-8"><tspan x="0" y="223.2">N-01 ADAPTATION PROGRAM</tspan></tspan><tspan class="cls-8"><tspan x="0" y="283.2">PHASE 01 — COMPLETE</tspan></tspan><tspan class="cls-2"><tspan x="0" y="369.6">SUBJECT EVALUATION</tspan></tspan><tspan class="cls-13"><tspan class="cls-7" x="0" y="429.6">Proactive Investigation Ability: </tspan><tspan class="cls-3" x="580.59" y="429.6">Passed</tspan></tspan><tspan class="cls-13"><tspan class="cls-7" x="0" y="489.6">Information Filtering Ability: </tspan><tspan class="cls-3" x="545.41" y="489.6">Passed</tspan></tspan><tspan class="cls-13"><tspan class="cls-7" x="0" y="549.6">Delayed Gratification Ability: </tspan><tspan class="cls-3" x="545.41" y="549.6">Passed</tspan></tspan><tspan class="cls-13"><tspan class="cls-7" x="0" y="609.6">Blank Tolerance: </tspan><tspan class="cls-3" x="299.09" y="609.6">Passed</tspan></tspan></text>
+  </g>
+</svg>

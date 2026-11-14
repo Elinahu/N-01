@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1203.59 863.71">
+  <defs>
+    <clipPath id="case-map-clip"><rect x="1020.93" y="92.18" width="149.94" height="91.3"/></clipPath>
+    <clipPath id="case-street-clip"><rect x="657.3" y="254.44" width="154.97" height="181.01"/></clipPath>
+    <clipPath id="case-transit-clip"><rect x="822.92" y="254.44" width="144.51" height="181.01"/></clipPath>
+    <clipPath id="case-subjects-clip"><rect x="985.68" y="366.76" width="144.57" height="68.69"/></clipPath>
+    <clipPath id="case-cells-clip"><rect x="36.06" y="503.98" width="244.41" height="115.03"/></clipPath>
+    <style>
+      .cls-1 {
+        stroke: #b26526;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-1, .cls-4, .cls-5, .cls-10, .cls-7 {
+        stroke-width: 2px;
+      }
+
+      .cls-11 {
+        font-size: 12.95px;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24 {
+        font-weight: 700;
+      }
+
+      .cls-11, .cls-13, .cls-25, .cls-14, .cls-15, .cls-16, .cls-17, .cls-26, .cls-27, .cls-19, .cls-28, .cls-20, .cls-29, .cls-21, .cls-30, .cls-22, .cls-23, .cls-24, .cls-31, .cls-32, .cls-33 {
+        isolation: isolate;
+      }
+
+      .cls-11, .cls-14, .cls-15, .cls-17, .cls-18, .cls-19, .cls-21, .cls-24 {
+        font-family: Consolas-Bold, Consolas;
+      }
+
+      .cls-11, .cls-15, .cls-27, .cls-28, .cls-29, .cls-32 {
+        fill: #b7a58d;
+      }
+
+      .cls-12, .cls-13, .cls-16, .cls-20, .cls-22, .cls-23 {
+        font-family: AgencyFB-Bold, 'Agency FB';
+      }
+
+      .cls-34, .cls-17, .cls-30 {
+        fill: #eee4d5;
+      }
+
+      .cls-13 {
+        font-size: 39.02px;
+      }
+
+      .cls-13, .cls-19, .cls-35, .cls-22, .cls-24, .cls-36, .cls-31 {
+        fill: #f49a48;
+      }
+
+      .cls-25, .cls-14, .cls-16, .cls-20, .cls-21, .cls-33 {
+        fill: #d8cbb8;
+      }
+
+      .cls-25, .cls-15, .cls-31 {
+        font-size: 11.3px;
+      }
+
+      .cls-25, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-14 {
+        font-size: 19.49px;
+      }
+
+      .cls-2 {
+        stroke: #b7a58d;
+      }
+
+      .cls-3 {
+        stroke: #817966;
+      }
+
+      .cls-16 {
+        font-size: 23.62px;
+      }
+
+      .cls-17 {
+        font-size: 15px;
+      }
+
+      .cls-26 {
+        font-size: 11.63px;
+      }
+
+      .cls-26, .cls-23 {
+        fill: #080a07;
+      }
+
+      .cls-27 {
+        font-size: 9.51px;
+      }
+
+      .cls-19 {
+        font-size: 12.45px;
+      }
+
+      .cls-4 {
+        stroke: #a5744c;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-8 {
+        stroke: #f49a48;
+      }
+
+      .cls-28 {
+        font-size: 9.24px;
+      }
+
+      .cls-37 {
+        fill: #cbb28a;
+      }
+
+      .cls-38 {
+        fill: #ee922d;
+      }
+
+      .cls-20 {
+        font-size: 23.62px;
+      }
+
+      .cls-10 {
+        fill: #090a07;
+        stroke: #cbb28a;
+      }
+
+      .cls-29 {
+        font-size: 11px;
+      }
+
+      .cls-6 {
+        stroke: #513b26;
+      }
+
+      .cls-21 {
+        font-size: 19.49px;
+      }
+
+      .cls-30 {
+        font-size: 12.53px;
+      }
+
+      .cls-22 {
+        font-size: 18px;
+      }
+
+      .cls-23 {
+        font-size: 27.41px;
+      }
+
+      .cls-24 {
+        font-size: 17.46px;
+      }
+
+      .cls-39 {
+        font-family: AgencyFB-Reg, 'Agency FB';
+      }
+
+      .cls-7 {
+        stroke: #080a07;
+      }
+
+      .cls-40 {
+        fill: #0a0b07;
+      }
+
+      .cls-36 {
+        opacity: .33;
+      }
+
+      .cls-41 {
+        fill: #77502b;
+      }
+
+      .cls-42 {
+        fill: #8a693f;
+        opacity: .31;
+      }
+
+      .cls-32 {
+        font-size: 16px;
+      }
+
+      .cls-9 {
+        stroke: #805a32;
+      }
+
+      .cls-33 {
+        font-size: 29.95px;
+      }
+    </style>
+  </defs>
+  <g id="_002" data-name="#002">
+    <g>
+      <g id="window-frame">
+        <path class="cls-10" d="M1202.59,40.41v813.29l-7.38,9.02H9.2l-8.2-8.2V39.61l16.84-16.83,1167.93.8,16.82,16.83Z"/>
+        <path class="cls-3" d="M1193.75,847.44l-8.14,6.51H16.52l-7.32-6.51V53.53l16.83-16.83h1150.74l16.83,16.82.16,793.91Z"/>
+        <g>
+          <path class="cls-37" d="M.48,12.46v-7.3L5.64,0h260l12.47,13.29h919.84l5.3,5.3v35.41H.48V12.46Z"/>
+          <rect class="cls-40" x="15.43" y="11.23" width="32.61" height="31.54"/>
+          <text class="cls-23" transform="translate(63.65 36.55)"><tspan x="0" y="0">CASE-ARCHIVE</tspan></text>
+          <text class="cls-26" transform="translate(246.52 37.38)"><tspan class="cls-18" x="0" y="0">/// </tspan><tspan class="cls-12" x="25.58" y="0" xml:space="preserve">CLASSIFIED     </tspan><tspan class="cls-39" x="82.46" y="0">ACCESS LEVEL 03</tspan></text>
+          <path class="cls-1" d="M1039.08,30.74v-4.15c2.77-3.32,5.26-3.32,7.48,0v4.15M1037.84,30.74h9.97v9.97h-9.97v-9.97Z"/>
+          <path class="cls-7" d="M1108.49,35.72h13.3M1143.4,27.41h12.47v12.46h-12.47v-12.46ZM1175.82,27.41l11.64,11.63M1187.45,27.41l-11.64,11.63"/>
+        </g>
+        <g>
+          <polygon class="cls-38" points="29.53 15.25 29.53 18.64 28.46 19.71 22.96 32.09 20.25 32.09 26.14 19.11 29.53 15.25"/>
+          <polygon class="cls-38" points="23.4 32.09 28.33 20.99 28.33 26.24 25.86 32.09 23.4 32.09"/>
+          <polygon class="cls-38" points="32.99 15.25 32.99 18.64 34.06 19.71 38.51 29.73 41.91 29.76 40.93 27.67 40.27 27.67 36.38 19.11 32.99 15.25"/>
+          <polygon class="cls-38" points="34.19 20.99 38.29 30.19 40.16 30.19 41.14 32.09 40.25 32.09 39.54 30.7 39.22 30.7 39.88 32.09 38.65 32.09 36.7 27.58 36.46 27.58 38.44 32.09 36.82 32.09 34.23 26.24 34.19 20.99"/>
+          <polygon class="cls-38" points="41.65 32.09 43.54 32.09 42.41 30.02 40.56 30.02 41.65 32.09"/>
+          <polygon class="cls-38" points="30.89 32.06 31.62 32.06 31.62 20.02 30.89 20.73 30.89 32.06"/>
+          <polygon class="cls-38" points="29.53 32.09 30.44 32.09 30.44 24.65 29.53 25.71 29.53 32.09"/>
+          <polygon class="cls-38" points="32.52 32.03 32.1 32.03 32.1 23.15 32.52 23.76 32.52 32.03"/>
+          <polygon class="cls-38" points="34.22 32.09 32.99 32.09 32.99 27.98 34.22 28.98 34.22 32.09"/>
+          <polygon class="cls-38" points="28.4 32.09 29.07 32.09 29.07 27.98 28.4 28.56 28.4 32.09"/>
+          <path class="cls-38" d="M22.21,30.01c-2.94,0-4.74-.62-5.07-1.75-.33-1.14.9-2.64,3.45-4.21,2.5-1.54,6-3,9.84-4.1l.04.13-.04-.13c3.85-1.1,7.58-1.71,10.52-1.72,3-.01,4.83.61,5.15,1.75.33,1.14-.9,2.64-3.45,4.21-2.5,1.54-6,3-9.84,4.1-3.85,1.1-7.58,1.71-10.52,1.72-.03,0-.06,0-.09,0ZM30.25,20.02c-3.82,1.09-7.03,2.72-9.52,4.25-2.4,1.48-3.3,2.64-2.85,3.58.25.52,1.23,1.45,3.95,1.63.03,0,.87,0,.89,0,2.92-.01,6.19-.38,10.02-1.47,3.82-1.09,7.29-2.54,9.78-4.07,2.4-1.48,3.18-2.93,2.9-3.93s-1.75-1.67-4.6-1.67-4.59.49-8.58,1.24l-1.98.42Z"/>
+          <path class="cls-38" d="M32.03,12.41l-.34-.02c-.24-.04-.33-.23-.36-.45l-.05-.41-.03-.3-.04.3-.05.43c-.02.24-.09.38-.34.42l-.32.04h-.11s.11.03.11.03l.33.03c.24.03.32.08.37.3l.04.22.02.14.02-.14.03-.22c.03-.26.16-.26.38-.3l.34-.04.1-.02h-.1Z"/>
+          <polygon class="cls-38" points="19.64 33.54 28.4 33.54 27.18 34.75 18.54 34.75 19.64 33.54"/>
+          <polyline class="cls-38" points="18.25 35.23 16.03 38.78 18.54 38.78 20.25 36.22 26.23 36.22 26.65 35.23"/>
+          <path class="cls-38" d="M37.38,33.54h-7.6c-.16,0-1.01.74-1.04.8l-1.96,3.1c-.08.16-.08.34-.02.5l.19.46c.09.23.32.38.56.38h8.2c.16,0,.32-.06.43-.18l.29-.29c.38-.38.11-1.04-.43-1.04h-4.6c-.44,0-.74-.46-.55-.87l.61-1.31c.1-.21.31-.35.55-.35h5.37c.18,0,.35-.08.47-.22h0c.33-.4.04-.99-.47-.99Z"/>
+          <polygon class="cls-38" points="36.77 38.78 40.25 33.54 43.41 33.54 47.45 38.78 45.13 38.78 42.11 34.4 39.37 38.78 36.77 38.78"/>
+          <polygon class="cls-38" points="41.09 36.74 40.25 38 44.15 38 43.37 36.74 41.09 36.74"/>
+          <circle class="cls-38" cx="42.65" cy="18.36" r="1.02"/>
+        </g>
+      </g>
+      <g id="case-title">
+        <image id="case-world-map" href="./fca-case-world-map.png" x="1020.93" y="92.18" width="149.94" height="91.3" preserveAspectRatio="xMidYMid meet" clip-path="url(#case-map-clip)"/>
+        <text class="cls-13" transform="translate(25.3 119.43)"><tspan x="0" y="0">CASE #2126-01</tspan></text>
+        <text class="cls-33" transform="translate(25.86 168.99)"><tspan x="0" y="0">N-01 ANOMALY INVESTIGATION</tspan></text>
+        <text class="cls-15" transform="translate(636.26 102.39)"><tspan x="0" y="0">FILE TYPE</tspan></text>
+        <text class="cls-25" transform="translate(748.19 102.39)"><tspan x="0" y="0">: INCIDENT REPORT</tspan></text>
+        <text class="cls-15" transform="translate(636.26 127.03)"><tspan x="0" y="0">DATE</tspan></text>
+        <text class="cls-25" transform="translate(748.19 127.03)"><tspan x="0" y="0">: 2126.01.14</tspan></text>
+        <text class="cls-15" transform="translate(636.26 151.67)"><tspan x="0" y="0">STATUS</tspan></text>
+        <text class="cls-31" transform="translate(748.19 151.67)"><tspan x="0" y="0">: ACTIVE</tspan></text>
+        <text class="cls-15" transform="translate(636.26 176.32)"><tspan x="0" y="0">INVESTIGATOR</tspan></text>
+        <text class="cls-25" transform="translate(748.19 176.32)"><tspan x="0" y="0">: 0-Z-4986</tspan></text>
+        <rect class="cls-42" x="930.99" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="933.04" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="935.1" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="937.15" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="939.2" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="941.26" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="943.31" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="945.36" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="947.42" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="949.47" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="951.53" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="953.58" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="955.63" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="957.69" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="959.74" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="961.79" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="963.85" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="965.9" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="967.95" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="970.01" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="972.06" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="974.12" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="976.17" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="978.22" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="980.28" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="982.33" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="984.38" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="986.44" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="988.49" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="990.55" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="992.6" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="994.65" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="996.71" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="998.76" y="91.16" width="1.03" height="96.52"/>
+        <rect class="cls-42" x="1000.81" y="91.16" width="1.03" height="96.52"/>
+      </g>
+      <g id="incident-report">
+        <image id="case-street" href="./fca-case-street.png" x="657.3" y="254.44" width="154.97" height="181.01" preserveAspectRatio="xMidYMid slice" clip-path="url(#case-street-clip)"/>
+        <image id="case-transit" href="./fca-case-transit.png" x="822.92" y="254.44" width="144.51" height="181.01" preserveAspectRatio="xMidYMid slice" clip-path="url(#case-transit-clip)"/>
+        <image id="case-subjects" href="./fca-case-subjects.png" x="985.68" y="366.76" width="144.57" height="68.69" preserveAspectRatio="xMidYMid slice" clip-path="url(#case-subjects-clip)"/>
+        <path class="cls-8" d="M17.08,196.44h1169.56"/>
+        <path class="cls-36" d="M17.08,200.55h229.05l95.44,34.91H17.08v-34.91Z"/>
+        <text class="cls-20" transform="translate(42.96 227.13)"><tspan x="0" y="0">01</tspan></text>
+        <text class="cls-21" transform="translate(107.15 225.05)"><tspan x="0" y="0">INCIDENT REPORT</tspan></text>
+        <path class="cls-9" d="M17.08,236.49h1169.56"/>
+        <text class="cls-30" transform="translate(24.89 268.66)"><tspan x="0" y="0">FCA has recently received multiple reports of anomalous events with a high degree of </tspan><tspan x="0" y="17">consistency.All affected individuals exhibit the same anomalous state: </tspan><tspan x="0" y="34">significantly reduced responsiveness to external stimuli, </tspan><tspan x="0" y="51">gradual cessation of voluntary behavior, while continuously maintaining an unnatural state </tspan><tspan x="0" y="68">of wakefulness and being unable to voluntarily fall asleep.</tspan><tspan x="0" y="85">Following initial systematic screening, no known diseases or conventional drugs have been </tspan><tspan x="0" y="102">found that can fully explain this phenomenon. The investigation department speculates that</tspan><tspan x="0" y="119">the affected individuals may have come into contact with an unknown psychoactive agent, </tspan><tspan x="0" y="136">which appears to be capable of continuously interfering with human perception, attention, </tspan><tspan x="0" y="153">and voluntary behavior systems.</tspan></text>
+        <rect class="cls-2" x="656.8" y="253.94" width="155.97" height="182.01"/>
+        <rect class="cls-2" x="822.42" y="253.94" width="145.51" height="182.01"/>
+        <text class="cls-19" transform="translate(1006.03 267.34)"><tspan x="0" y="0">2126.01</tspan></text>
+        <text class="cls-27" transform="translate(1005.43 289.39)"><tspan x="0" y="0">INCIDENT // CITY_7</tspan></text>
+        <text class="cls-27" transform="translate(1005.43 308.41)"><tspan x="0" y="0">SUBJECTS : MULTIPLE</tspan></text>
+        <text class="cls-27" transform="translate(1005.43 327.43)"><tspan x="0" y="0">STATUS : AWAKE</tspan></text>
+        <text class="cls-27" transform="translate(1005.43 346.45)"><tspan x="0" y="0">RESPONSE : LOW</tspan></text>
+        <rect class="cls-2" x="985.18" y="366.26" width="145.57" height="69.69"/>
+      </g>
+      <g id="subject-information">
+        <image id="case-cells" href="./fca-case-cells.png" x="36.06" y="503.98" width="244.41" height="115.03" preserveAspectRatio="xMidYMid slice" clip-path="url(#case-cells-clip)"/>
+        <path class="cls-8" d="M17.08,449.06h1169.56"/>
+        <path class="cls-36" d="M17.08,453.16h272.66l113.61,34.91H17.08v-34.91Z"/>
+        <text class="cls-16" transform="translate(39.4 478.48)"><tspan x="0" y="0">02</tspan></text>
+        <text class="cls-14" transform="translate(108.57 476.48)"><tspan x="0" y="0">SUBJECT INFORMATION</tspan></text>
+        <path class="cls-9" d="M17.08,489.1h1169.56"/>
+        <rect class="cls-2" x="35.56" y="503.48" width="245.41" height="116.03"/>
+        <text class="cls-17" transform="translate(314.45 523.37)"><tspan x="0" y="0">DESIGNATION</tspan></text>
+        <text class="cls-22" transform="translate(538.22 521.15)"><tspan x="0" y="0">N-01</tspan></text>
+        <path class="cls-6" d="M314.86,525.34h504.18"/>
+        <text class="cls-17" transform="translate(313.88 552.97)"><tspan x="0" y="0">THREAT LEVEL</tspan></text>
+        <text class="cls-22" transform="translate(536.39 552.97)"><tspan x="0" y="0">PENDING</tspan></text>
+        <path class="cls-6" d="M314.86,555.12h504.18"/>
+        <text class="cls-17" transform="translate(313.88 583.33)"><tspan x="0" y="0">ORIGIN</tspan></text>
+        <text class="cls-22" transform="translate(537.21 582.04)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+        <path class="cls-6" d="M314.86,584.89h504.18"/>
+        <text class="cls-17" transform="translate(314.15 612.6)"><tspan x="0" y="0">TRANSMISSION</tspan></text>
+        <text class="cls-22" transform="translate(537.21 612.6)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+        <path class="cls-6" d="M314.86,614.67h504.18"/>
+        <path class="cls-6" d="M838.55,506.56v111.92"/>
+        <text class="cls-11" transform="translate(944.3 525.34)"><tspan x="0" y="0">ADDITIONAL NOTES:</tspan></text>
+        <text class="cls-29" transform="translate(886.23 553.65)"><tspan x="0" y="0">N-01 may exist in a non-traditional way,</tspan></text>
+        <text class="cls-29" transform="translate(886.23 582.92)"><tspan x="0" y="0">its form, medium, and transmission routes </tspan><tspan x="0" y="13.2">still require further investigation.</tspan></text>
+      </g>
+      <g id="objectives">
+        <path class="cls-8" d="M17.08,631.98h1169.56"/>
+        <path class="cls-36" d="M17.08,636.09h321.24l133.85,34.91H17.08v-34.91Z"/>
+        <text class="cls-16" transform="translate(39.13 661.76)"><tspan x="0" y="0">03</tspan></text>
+        <text class="cls-14" transform="translate(108.57 658.76)"><tspan x="0" y="0">INVESTIGATION OBJECTIVES</tspan></text>
+        <path class="cls-9" d="M17.08,672.03h1169.56"/>
+      </g>
+      <g id="footer">
+        <text class="cls-31" transform="translate(323.78 830.55)"><tspan x="0" y="0">FCA NETWORK // SECURE CONNECTION</tspan></text>
+        <path class="cls-35" d="M99.93,820.28l11.3-14.38h10.27l-11.3,14.38h-10.27Z"/>
+        <path class="cls-35" d="M116.36,820.28l11.3-14.38h10.27l-11.3,14.38h-10.27Z"/>
+        <path class="cls-35" d="M132.79,820.28l11.3-14.38h10.27l-11.3,14.38h-10.27Z"/>
+        <path class="cls-35" d="M149.22,820.28l11.3-14.38h10.27l-11.3,14.38h-10.27Z"/>
+        <path class="cls-41" d="M165.65,820.28l11.3-14.38h10.27l-11.3,14.38h-10.27Z"/>
+        <path class="cls-41" d="M182.08,820.28l11.3-14.38h10.27l-11.3,14.38h-10.27Z"/>
+        <path class="cls-41" d="M198.51,820.28l11.3-14.38h10.27l-11.3,14.38h-10.27Z"/>
+        <path class="cls-41" d="M214.94,820.28l11.3-14.38h10.27l-11.3,14.38h-10.27Z"/>
+        <path class="cls-41" d="M231.37,820.28l11.3-14.38h10.27l-11.3,14.38h-10.27Z"/>
+        <path class="cls-41" d="M247.8,820.28l11.3-14.38h10.27l-11.3,14.38h-10.27Z"/>
+        <path class="cls-8" d="M623.62,825.41h303.94"/>
+        <text class="cls-28" transform="translate(981.98 830.55)"><tspan x="0" y="0">FILE ID. 2126-01-N01</tspan></text>
+      </g>
+      <g>
+        <polygon class="cls-35" points="1020.93 102.4 1020.93 92.18 1031.3 92.18 1031.3 91.16 1019.9 91.16 1019.9 102.4 1020.93 102.4"/>
+        <polygon class="cls-35" points="1162.56 92.18 1170.87 92.18 1170.87 115.24 1171.9 115.24 1171.9 91.16 1162.56 91.16 1162.56 92.18"/>
+        <polygon class="cls-35" points="1031.3 183.48 1020.93 183.48 1020.93 168.03 1019.9 168.03 1019.9 184.5 1031.3 184.5 1031.3 183.48"/>
+        <polygon class="cls-35" points="1170.87 176.33 1170.87 183.48 1162.56 183.48 1162.56 184.5 1171.9 184.5 1171.9 176.33 1170.87 176.33"/>
+      </g>
+      <line class="cls-8" x1="5.93" y1="783.32" x2="1190.9" y2="783.32"/>
+      <g>
+        <rect class="cls-35" x="27.36" y="741.53" width="20.3" height="20.3"/>
+        <circle class="cls-5" cx="208.38" cy="750.91" r="10.92"/>
+        <circle class="cls-34" cx="208.38" cy="750.91" r="6.26"/>
+        <line class="cls-4" x1="47.66" y1="750.91" x2="197.46" y2="750.91"/>
+        <rect class="cls-35" x="1158.65" y="741.53" width="20.3" height="20.3" transform="translate(2337.59 1503.36) rotate(180)"/>
+        <line class="cls-4" x1="1158.65" y1="750.91" x2="922.64" y2="750.91"/>
+        <circle class="cls-5" cx="568.88" cy="750.91" r="10.92"/>
+        <circle class="cls-34" cx="568.88" cy="750.91" r="6.26"/>
+        <line class="cls-4" x1="220.61" y1="750.91" x2="557.96" y2="750.91"/>
+        <circle class="cls-5" cx="911.72" cy="751.68" r="10.92"/>
+        <circle class="cls-34" cx="911.72" cy="751.68" r="6.26"/>
+        <line class="cls-4" x1="579.79" y1="751.68" x2="900.81" y2="751.68"/>
+        <text class="cls-24" transform="translate(162.66 702.64)"><tspan x="0" y="0">01 TRACE</tspan></text>
+        <text class="cls-32" transform="translate(161.47 727.61)"><tspan x="0" y="0">INVESTIGATE ORIGIN</tspan></text>
+        <text class="cls-24" transform="translate(518.38 702.64)"><tspan x="0" y="0">02 TRANSMISSION</tspan></text>
+        <text class="cls-32" transform="translate(517.03 727.75)"><tspan x="0" y="0">IDENTIFY TRANSMISSION</tspan></text>
+        <text class="cls-24" transform="translate(865.9 702.64)"><tspan x="0" y="0">03 INTERRUPTION</tspan></text>
+        <text class="cls-32" transform="translate(857.7 727.9)"><tspan x="0" y="0">FIND INTERRUPTION METHOD</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
